@@ -1,0 +1,372 @@
+[
+  {
+	"problem_text": "Hvert er gildi margfeldisins $\\left( 2 + \\frac{1}{2} + \\frac{3}{4} \\right)\\cdot\\left( 1 + \\frac{1}{3} \\right)$?",
+	"choice_a": "$\\frac{19}{3}$",
+	"choice_b": "$\\frac{17}{3}$",
+	"choice_c": "$\\frac{14}{3}$",
+	"choice_d": "$\\frac{13}{3}$",
+	"correct_answer": "D",
+   	"problem_types": ["algebra"],
+   	"level": 1,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Tuttugu og sex menn númeraðir í röð frá 1 til 26, sitja við hringlaga borð með jöfnu millibili. Hvert er númer mannsins sem situr beint á móti manni númer 9?",
+	"choice_a": "$19$",
+	"choice_b": "$20$",
+	"choice_c": "$21$",
+	"choice_d": "$22$",
+	"correct_answer": "C",
+   	"problem_types": ["talnafræði"],
+   	"level": 2,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Fjórir vinir fara að veiða og koma heim með samtals 11 fiska. Ef hver vinanna veiddi að minnsta kosti einn fisk, hver eftirtalinna fullyrðinga verður að teljast rétt?",
+	"choice_a": "Einhver vinanna veiddi nákvæmlega 3 fiska",
+	"choice_b": "Einhver vinanna veiddi færri en 3 fiska",
+	"choice_c": "Einhver vinanna veiddi fleiri en 3 fiska",
+	"choice_d": "Nákvæmlega tveir vinanna veiddu fleiri en 1 fisk",
+	"correct_answer": "B",
+   	"problem_types": ["fléttufræði"],
+   	"level": 2,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Á myndinni sjást tveir ferhyrningar, $ABCD$ og $CDEF$. Lengd $AB$ er 4 og lengd $BC$ er 3. Hvert er flatarmál skyggða svæðisins?",
+	"choice_a": "4",
+	"choice_b": "5",
+	"choice_c": "6",
+	"choice_d": "7",
+	"correct_answer": "C",
+   	"problem_types": ["rúmfræði"],
+   	"level": 2,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig",
+	"image": "game/static/images/problem_images/n0809d4.png"
+  },
+  {
+	"problem_text": "Á Hlemmi hittist hópur stráka og stelpna. Í fyrsta strætisvagn fara 15 stelpur úr hópnum og eru þá tvöfalt fleiri strákar en stelpur eftir. Í næsta vagn fara 45 strákar úr hópnum og eru þá fimmfalt fleiri stelpur en strákar eftir. Hversu margar stelpur voru í hópnum sem hittist á Hlemmi?",
+	"choice_a": "29",
+	"choice_b": "40",
+	"choice_c": "43",
+	"choice_d": "50",
+	"correct_answer": "B",
+   	"problem_types": ["algebra"],
+   	"level": 2,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Látum $l$ vera beina línu og $AB$ vera strik sem er samsíða $l$. Strikið $AB$ hefur lengdina 10 og fjarlægð punktanna $A$ og $B$ til línunnar $l$ er 5. Hver er fjöldi ólíkra punkta $P$ á línunni $l$ þannig að punktarnir $A$, $B$ og $P$ myndi jafnarma þríhyrning?",
+	"choice_a": "2",
+	"choice_b": "3",
+	"choice_c": "4",
+	"choice_d": "5",
+	"correct_answer": "D",
+   	"problem_types": ["rúmfræði"],
+   	"level": 3,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig",
+	"image": "game/static/images/problem_images/n0809d6.png"
+  },
+  {
+	"problem_text": "Fimm tölum er raðað eftir stærð. Meðaltal talnanna fimm er 28 en meðaltal þriggja miðtalnanna er 26. Hvert er meðaltal minnstu og stærstu tölunnar?",
+	"choice_a": "30",
+	"choice_b": "31",
+	"choice_c": "32",
+	"choice_d": "33",
+	"correct_answer": "B",
+   	"problem_types": ["algebra"],
+   	"level": 2,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Ef $$a+1=b+2=c+3=d+4=a+b+c+d+5$$ hvert er þá gildið á $a+b+c+d$?",
+	"choice_a": "-10/3",
+	"choice_b": "-1/2",
+	"choice_c": "1",
+	"choice_d": "2",
+	"correct_answer": "A",
+   	"problem_types": ["algebra"],
+   	"level": 2,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Hversu margar heiltölur milli 100 og 500 innihalda engan sléttan tölustaf?",
+	"choice_a": "35",
+	"choice_b": "50",
+	"choice_c": "75",
+	"choice_d": "80",
+	"correct_answer": "B",
+   	"problem_types": ["fléttufræði"],
+   	"level": 2,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Hver er stærð hornsins $\\angle CAB$ á myndinni hér til hliðar?",
+	"choice_a": "$104^\\circ$",
+	"choice_b": "$106^\\circ$",
+	"choice_c": "$108^\\circ$",
+	"choice_d": "$110^\\circ$",
+	"correct_answer": "C",
+   	"problem_types": ["rúmfræði"],
+   	"level": 3,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig",
+	"image": "game/static/images/problem_images/n0809d10.png"
+  },
+  {
+	"problem_text": "Munið að $a^{b^c}$ er reiknað sem $a^{(b^c)}$. Ef $$ 2^{2^x} + 4^{2^x} = 42,$$ hvert er gildið á $\\sqrt{2^{2^{2^x}}}$?",
+	"choice_a": "2",
+	"choice_b": "4",
+	"choice_c": "8",
+	"choice_d": "16",
+	"correct_answer": "C",
+   	"problem_types": ["algebra"],
+   	"level": 4,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Gerum ráð fyrir að $a_1$, $a_2$, $\\ldots$, $a_n$ og $n$ séu jákvæðar heiltölur (ekki endilega ólíkar) þannig að $$ (x + a_1)(x + a_2)\\dots(x + a_n) = x^n + 261x^{n - 1} + \\dots 2008.$$ Hvert eftirfarandi talna er mögulegt gildi á $n$?",
+	"choice_a": "7",
+	"choice_b": "12",
+	"choice_c": "63",
+	"choice_d": "669",
+	"correct_answer": "A",
+   	"problem_types": ["algebra"],
+   	"level": 5,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Tveir ferhyrningar, $ABCD$ og $AEFG$ eru með hliðarlengdir $1$. Punkturinn $H$ er miðpunktur beggja hliðanna $BC$ og $FG$. Hvert er flatarmál $AEFHCD$?",
+	"choice_a": "$\\sqrt{2}$",
+	"choice_b": "$\\sqrt{5}/2$",
+	"choice_c": "3/2",
+	"choice_d": "4/3",
+	"correct_answer": "C",
+   	"problem_types": ["rúmfræði"],
+   	"level": 2,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig",
+	"image": "game/static/images/problem_images/n0809d13.png"
+  },
+  {
+	"problem_text": "Í kapphlaupi yrði $A$ 20 metrum á undan $B$ í mark. $B$ yrði 10 metrum á undan $C$ í mark. $A$ yrði 28 metrum á undan $C$ í mark. Hversu langt er hlaupið ef hver keppandi hleypur á jöfnum hraða?",
+	"choice_a": "58 m",
+	"choice_b": "80 m",
+	"choice_c": "100 m",
+	"choice_d": "118 m",
+	"correct_answer": "C",
+   	"problem_types": ["algebra"],
+   	"level": 3,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Látum $n$ vera jákvæða heila tölu. Ef deilt er í $n$ með $7$ þá er afgangurinn $5$. Hver verður afgangurinn ef deilt er í $5 \\cdot n$ með 7?",
+	"choice_a": "1",
+	"choice_b": "2",
+	"choice_c": "3",
+	"choice_d": "4",
+	"correct_answer": "D",
+   	"problem_types": ["talnafræði"],
+   	"level": 3,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Andri og Goggi sitja í stólalyftu með stólum númeruðum í röð. Á sama augnabliki og Andri, í stól 96, mætir stól 105 þá mætir Goggi, í stól 241, stól 230. Hve margir stólar eru í stólalyftunni?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 270,
+	"numeric_tolerance": 0,
+   	"problem_types": ["algebra"],
+   	"level": 3,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Jafnhliða þríhyrningur hefur hliðarlengdir 1. Tveir hringar með sama geisla eru innritaðir í þríhyrninginn þannig að miðjur hringanna liggja á hæð í þríhyrningnum eins og sýnt er á myndinni. Hver er stærsti mögulegi geisli slíkra hringja?",
+	"choice_a": "$\\sqrt{3}/10$",
+	"choice_b": "$\\sqrt{5}/10$",
+	"choice_c": "$\\sqrt{5}/4$",
+	"choice_d": "$1/2$",
+	"correct_answer": "A",
+   	"problem_types": ["rúmfræði"],
+   	"level": 6,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig",
+	"image": "game/static/images/problem_images/n0809d17.png"
+  },
+  {
+	"problem_text": "Í hópi nokkrum eru læknar og kennarar. Meðalaldur allra í hópnum er 40 ár. Meðalaldur læknanna í hópnum er 35 ár, en meðalaldur kennaranna í hópnum er 50 ár. Hvert er hlutfallið milli fjölda lækna og fjölda kennara í hópnum?",
+	"choice_a": "$2:1$",
+	"choice_b": "$1:1$",
+	"choice_c": "$4:3$",
+	"choice_d": "$6:5$",
+	"correct_answer": "A",
+   	"problem_types": ["algebra"],
+   	"level": 3,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Summa 2008 samliggjandi heilla talna er 3012. Hver er stærsta talan í summunni?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 1005,
+	"numeric_tolerance": 0,
+   	"problem_types": ["algebra"],
+   	"level": 4,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "$n$ er náttúrleg tala þannig að $2n+3$ gengur upp í $6n+43$. Hvaða tala er $n$?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 7,
+	"numeric_tolerance": 0,
+   	"problem_types": ["talnafræði"],
+   	"level": 4,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Ræðu töluna $2/7$ má skrifa sem summu tveggja einingarbrota $\\frac{1}{a} + \\frac{1}{b}$ þar sem $0 < a < b$ eru heilar tölur. Hver er summan $a + b$?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 32,
+	"numeric_tolerance": 0,
+   	"problem_types": ["algebra"],
+   	"level": 6,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig"
+  },
+  {
+	"problem_text": "Hjól liggur að kantsteini. Hæð kantsteinsins er $a$. Fjarlægðin frá punktinum sem hjólið hvílir á að efri brún kantsteinsins er $b$ (sjá mynd). Hver er geisli hjólsins?",
+	"choice_a": "$b^2/2a$",
+	"choice_b": "$b^2/4\\sqrt{a}$",
+	"choice_c": "$b + 1$",
+	"choice_d": "$\\sqrt{b^2 - a^2}$",
+	"correct_answer": "A",
+   	"problem_types": ["rúmfræði"],
+   	"level": 5,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - neðra stig",
+	"image": "game/static/images/problem_images/n0809d22.png"
+  },
+  {
+	"problem_text": "Þríhyrningurinn $ABC$ er jafnhliða og hálfhringur er reistur á hlið $BC$ eins og sýnt er á mynd. Punkturinn $D$ er miðpunktur hálfhringsins. Ef lengd $AD$ er $1$ m, hver er hliðarlengd þríhyrningsins í metrum?",
+	"choice_a": "$2/3$",
+	"choice_b": "$3/4$",
+	"choice_c": "$\\frac{3 - \\sqrt{3}}{2}$",
+	"choice_d": "$\\sqrt{3} - 1$",
+	"correct_answer": "D",
+   	"problem_types": ["rúmfræði"],
+   	"level": 3,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - efra stig",
+	"image": "game/static/images/problem_images/e0809d2.png"
+  },
+  {
+	"problem_text": "Ef $$ A+B=C,\\ C+D=E,\\ E+A=F,\\ B+D+F=100,\\ A=8, $$ hvert er gildið á $F$?",
+	"choice_a": "$26$",
+	"choice_b": "$38$",
+	"choice_c": "$58$",
+	"choice_d": "$62$",
+	"correct_answer": "C",
+   	"problem_types": ["algebra"],
+   	"level": 3,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - efra stig"
+  },
+  {
+	"problem_text": "Ef $x + \\frac{1}{x} = 3$ þá er $x^3 + \\frac{1}{x^3}$ jafnt",
+	"choice_a": "$15$",
+	"choice_b": "$16$",
+	"choice_c": "$17$",
+	"choice_d": "$18$",
+	"correct_answer": "D",
+   	"problem_types": ["algebra"],
+   	"level": 5,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - efra stig"
+  },
+  {
+	"problem_text": "Tveir flutningaprammar sigla fram og til baka með jöfnum hraða. Prammarnir leggja af stað, hvor frá sínum árbakka, á sama augnabliki og mætast 700 metra frá öðrum árbakkanum; halda ferð sinni áfram án þess að stoppa og mætast næst 400 metra frá hinum árbakkanum. Hversu breið er áin?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 1700,
+	"numeric_tolerance": 0,
+   	"problem_types": ["algebra"],
+   	"level": 4,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - efra stig"
+  },
+  {
+	"problem_text": "Ef $a$, $a+b$ og $a+9b$ eru hliðarlengdir í rétthyrndum þríhyrningi og $a, b > 0$ hvað er þá $a/b$?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 20,
+	"numeric_tolerance": 0,
+   	"problem_types": ["rúmfræði"],
+   	"level": 5,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - efra stig"
+  },
+  {
+	"problem_text": "Fyrir hversu mörg pör frumtalna $(p, q)$ má finna heiltölu $n$ þannig að $(p^2 + 1)(q^2 + 1) = n^2 + 1?$",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 2,
+	"numeric_tolerance": 0,
+   	"problem_types": ["talnafræði"],
+   	"level": 7,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - efra stig"
+  },
+  {
+	"problem_text": "Í ferning með hliðarlengdir $1$ eru innritaðir tveir hringbogar með geisla $1$ eins og sýnt er á mynd. Annar hringboginn hefur miðju í $A$ og hinn hringboginn hefur miðju í $B$. Hver er mismunur flatarmála skyggðu svæðanna?",
+	"choice_a": "$\\pi/2 - 1$",
+	"choice_b": "$1/2$",
+	"choice_c": "$\\pi/2$",
+	"choice_d": "$\\pi/2 - 1/2$",
+	"correct_answer": "A",
+   	"problem_types": ["rúmfræði"],
+   	"level": 6,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - efra stig",
+	"image": "game/static/images/problem_images/e0809d19.png"
+  },
+  {
+	"problem_text": "Hve margar af tölunum $1$, $2$, $3$, $\\ldots$, $2009$ eru hvorki deilanlegar með $3$ né $5$?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 1072,
+	"numeric_tolerance": 0,
+   	"problem_types": ["fléttufræði"],
+   	"level": 4,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - úrslitakeppni"
+  },
+  {
+	"problem_text": "Haldin er veisla við hringlaga borð. 7 konur hafa sér konu á hægri hönd. 12 konur hafa sér karl á hægri hönd. 3 karlar af hverjum 4 hafa konu sér á hægri hönd. Hvað eru margir við borðið?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 35,
+	"numeric_tolerance": 0,
+   	"problem_types": ["fléttufræði"],
+   	"level": 4,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - úrslitakeppni"
+  },
+  {
+	"problem_text": "Rauntölur $a$, $b$ og $c$ uppfylla eftirfarandi: $$a + \\frac{1}{bc} = \\frac{1}{5},\\quad b + \\frac{1}{ac} = -\\frac{1}{15},\\quad c + \\frac{1}{ab} = \\frac{1}{3}.$$ Hvert er gildið á kvótanum $(c - b)/(c - a)$?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 3,
+	"numeric_tolerance": 0,
+   	"problem_types": ["algebra"],
+   	"level": 6,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - úrslitakeppni"
+  },
+  {
+	"problem_text": "Ferhyrningurinn $ABCD$ á myndinni hefur rétt horn í $A$ og $C$. Punktarnir $E$ og $F$ eru á hornalínunni $AC$ og strikin $DE$ og $BF$ eru hornrétt á $AC$. Ennfremur er $AE = 3$, $DE = 5$ og $CE = 7$. Finnið lengd $BF$.",
+	"choice_a": "$21/5$",
+	"choice_b": "$5$",
+	"choice_c": "$4$",
+	"choice_d": "$23/6$",
+	"correct_answer": "A",
+   	"problem_types": ["rúmfræði"],
+   	"level": 7,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - úrslitakeppni",
+	"image": "game/static/images/problem_images/u0809d4.png"
+  },
+  {
+	"problem_text": "Anna kennir bekk sem í eru sex pör af tvíburum og ekki aðrir nemendur í bekknum. Hún ætlar að skipta bekknum í hópa þannig að enginn sé með tvíburasystkini sínu í hópi. Hvað getur Anna skipt bekknum á marga vegu í tvo sex manna hópa?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 32,
+	"numeric_tolerance": 0,
+   	"problem_types": ["fléttufræði"],
+   	"level": 3,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - úrslitakeppni"
+  },
+  {
+	"problem_text": "Anna kennir bekk sem í eru sex pör af tvíburum og ekki aðrir nemendur í bekknum. Hún ætlar að skipta bekknum í hópa þannig að enginn sé með tvíburasystkini sínu í hópi. Hvað getur Anna skipt bekknum á marga vegu í þrjá fjögurra manna hópa?",
+	"answer_type": "numeric",
+	"correct_answer_numeric": 960,
+	"numeric_tolerance": 0,
+   	"problem_types": ["fléttufræði"],
+   	"level": 6,
+   	"source_info": "Stærðfræðikeppni framhaldsskólanema 2008-2009 - úrslitakeppni"
+  }
+]

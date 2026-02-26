@@ -1,0 +1,205 @@
+[
+    {
+        "problem_text": "Hver er afgangurinn þegar $11$ er deilt upp í $10^{10}+1$?",
+        "choice_a": "$0$",
+        "choice_b": "$2$",
+        "choice_c": "$5$",
+        "choice_d": "$7$",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Þekkingarfræðingarnir Eydís og Sigvaldi eru hvor um sig með tölu á enni sínu og sitja hvort á móti öðru. Þau sjá ekki eigin tölu en sjá hina og vita bæði að tölurnar séu jákvæðar heiltölur. Saga sannsögla segir þeim að summa talnanna eða margfeldi talanna sé $50$. Eydís segir við Sigvalda: 'Ég veit ekki hvaða tala er á enni mínu'. Þá svarar hann: 'Ekki ég heldur'. Hvaða tala er á enni Eydísar?",
+        "choice_a": "$1$",
+        "choice_b": "$2$",
+        "choice_c": "$5$",
+        "choice_d": "$25$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Heiltölurnar $m, n$ eru báðar oddatölur. Hver eftirfarandi talna er oddatala?",
+        "choice_a": "$m + n$",
+        "choice_b": "$(m + 1)n$",
+        "choice_c": "$m(n + 1)$",
+        "choice_d": "$mn$",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Meðalhæð í bekk með 19 nemendum er 160cm. Svo bætist nýr nemandi í bekkinn, hann Stórólfur, sem er 200cm á hæð. Hver er nýja meðalhæð bekksins?",
+        "choice_a": "$158$cm",
+        "choice_b": "$160$cm",
+        "choice_c": "$162$cm",
+        "choice_d": "$164$cm",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Lita skal öll strikin á myndinni þannig að það verði engir einlita þríhyrningar með hringina sem hornpunkta. Hver er fæsti fjöldi lita sem við þurfum í það?",
+        "choice_a": "$1$",
+        "choice_b": "$2$",
+        "choice_c": "$3$",
+        "choice_d": "$4$",
+        "correct_answer": "B",
+        "problem_types": ["fléttufræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024",
+        "image": "game/static/images/problem_images/n2425d5.png"
+    },
+    {
+        "problem_text": "Summa jákvæðra deila $18$ að frumtölum og henni sjálfri frátalinni er $16$. Hver eftirfarandi talna er jöfn summu jákvæðra deila sinna að frumtölum og henni sjálfri frátalinni?",
+        "choice_a": "$28$",
+        "choice_b": "$32$",
+        "choice_c": "$36$",
+        "choice_d": "$42$",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Látum $n = pq$ vera samsetta tölu með $1 < p \\leq q < n$. Hvaða ójafna gildir?",
+        "choice_a": "$p \\leq \\sqrt{n}$",
+        "choice_b": "$q \\leq \\sqrt{n}$",
+        "choice_c": "$\\sqrt[3]{n} \\leq p < \\sqrt{n}$",
+        "choice_d": "$\\sqrt{n} + 1 < q$",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Á myndinni hér til hægri er kort af lystigarðinum í Jómsborg. Talan innan í hverju svæði sýnir hve margar mínútur Þorkell er að ganga í kringum um það. Hve margar mínútur er Þorkell að ganga umhverfis allan garðinn, það er breiðu leiðina?",
+        "choice_a": "$17$",
+        "choice_b": "$18$",
+        "choice_c": "$19$",
+        "choice_d": "$20$",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024",
+        "image": "game/static/images/problem_images/e2425d9.png"
+    },
+    {
+        "problem_text": "Utan um hringina þrjá hér til hliðar er búið að strekkja gúmmíteygju. Hringirnir hafa allir geisla af lengd $1$ og miðjur $(-3, 0), (3, 0), (0, 4)$. Hver er lengd teygjunnar?",
+        "choice_a": "$12\\pi$",
+        "choice_b": "$12 + 2\\pi$",
+        "choice_c": "$16\\pi$",
+        "choice_d": "$16+2\\pi$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024",
+        "image": "game/static/images/problem_images/e2425d10.png"
+    },
+    {
+        "problem_text": "Í skúffu Margeirs eru 4 rauðir sokkar, 6 bláir sokkar og 5 hvítir sokkar. Tveir sokkar af sama lit mynda par. Hvað þarf hann að grípa marga sokka í blindni til að vera viss um að hafa náð pari?",
+        "choice_a": "$2$",
+        "choice_b": "$3$",
+        "choice_c": "$4$",
+        "choice_d": "$5$",
+        "correct_answer": "C",
+        "problem_types": ["fléttufræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Hrefna kastar $20$ hliða teningi með tölunum $1, 2, \\dots, 20$ á hliðunum og Magni kastar $6$ hliða teningi með tölunum $1, 2, \\dots, 6$ á hliðunum. Allar tölur á hverjum teningi eru jafn líklegar og köstin eru óháð hvoru öðru. Hverjar eru líkurnar á að þau fái sömu niðurstöðu?",
+        "choice_a": "$\\frac{1}{120}$",
+        "choice_b": "$\\frac{1}{20}$",
+        "choice_c": "$\\frac{1}{6}$",
+        "choice_d": "$\\frac{1}{2}$",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Jón kaupir stílabækur fyrir námsönnina. Hægt er að kaupa eina stílabók á $300$ kr., tvær á $500$ kr. eða þrjár á $720$ kr. Hann vantar $10$ stílabækur og vill ekki kaupa fleiri en það. Hvað kostar það hann í minnsta lagi?",
+        "choice_a": "$2400$ kr.",
+        "choice_b": "$2420$ kr.",
+        "choice_c": "$2440$ kr.",
+        "choice_d": "$2460$ kr.",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Hvað er minnsta horn þríhyrnings með hliðarlengdir $1, \\sqrt{3}, 2$?",
+        "choice_a": "$30^\\circ$",
+        "choice_b": "$40^\\circ$",
+        "choice_c": "$45^\\circ$",
+        "choice_d": "$60^\\circ$",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Í tilteknum menntaskóla skrá sig allir í þýsku, frönsku eða bæði. Einn níundi þýskunemenda er einnig í frönsku, og einn sjöundi frönskunemenda er einnig í þýsku. Hversu hátt hlutfall allra nemenda er í þýsku?",
+        "choice_a": "$\\frac{1}{2}$",
+        "choice_b": "$\\frac{9}{16}$",
+        "choice_c": "$\\frac{3}{5}$",
+        "choice_d": "$\\frac{7}{9}$",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Ólafur ódauðlegi fæddist 1. janúar $2002$ og mun aldrei deyja. Á afmæli sínu árið $2003$ var hann eins árs og þá deildi aldur hans ártalinu, það er $\\frac{2003}{1}$ er heiltala. Hversu oft mun það gerast að aldur Ólafs í árum deili ártalinu?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 16,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Gefnir eru fimm punktar, $A$, $B$, $C$, $D$ og $E$. Punktur $D$ liggur á strikinu frá $A$ til $B$ og punktur $E$ á strikinu frá $A$ til $C$. Stærð horns $\\angle BAC$ er $30^{\\circ}$, stærð horns $\\angle ABC$ er $50^{\\circ}$, stærð horns $\\angle ACD$ er $35^{\\circ}$ og stærð horns $\\angle AED$ er $70^{\\circ}$. Hve margar gráður er stærð horns $\\angle BED$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 55,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024",
+        "image": "game/static/images/problem_images/n2425d15.png"
+    },
+    {
+        "problem_text": "100 manns mæta á ráðstefnu, 50 þeirra tala íslensku, 50 þeirra ensku og 50 þeirra dönsku. Allir þeirra tala að minnsta kosti eitt tungumálanna. Hver er hámarksfjöldi einstaklinga sem tala aðeins eitt tungumálanna?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 75,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Gísli hefur unun af heita pottinum í sveitinni sinni. Þar eru þrír kranar í litunum rauður, grænnn og blár. Rennsli og hitastig hvers krana er fast. Ef hann skrúfar frá rauða og græna krananum þá tekur það $70$ mín að fylla pottinn af $41^{\\circ}\\text{C}$ gráðu vatni. Ef hann skrúfar frá rauða og bláa krananum þá tekur það $42$ mín að fylla pottinn af $35^{\\circ}\\text{C}$ vatni. Ef hann skrúfar frá græna og bláa krananum þá tekur það $35$ mín að fylla pottinn af $39^{\\circ}\\text{C}$ vatni. Hvað væri hitastig pottsins í gráðum ef hann skrúfar frá öllum krönunum samtímis?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 38,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    },
+    {
+        "problem_text": "Rita má $\\frac{2025}{2024} - \\frac{2024}{2025}$ sem fullstytt brot $\\frac{p}{q}$. Hvert er gildi $p$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 4049,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2024"
+    }
+]

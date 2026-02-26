@@ -1,0 +1,201 @@
+[
+    {
+        "problem_text": "Út úr búð kostar Töfrabumbustrekkjarinn 9.995 kr.  Í Sjónvarpssjoppunni er hægt að kaupa þetta undratæki með þremur afborgunum,hverri að upphæð 2.995 kr., en jafnframt þarf að greiða 995 kr. í sendingarkostnað. Hve mikið sparast með því að kaupa tækið hjá Sjónvarpssjoppunni frekar en út úr búð?",
+        "choice_a": "5 kr.",
+        "choice_b": "10 kr.",
+        "choice_c": "15 kr.",
+        "choice_d": "1010 kr.",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni"
+    },
+    {
+        "problem_text": "Stærðin $$1+\\cfrac{1}{2+\\cfrac{1}{3+\\cfrac{1}{4+\\frac{1}{5}}}}$$ er jöfn",
+        "choice_a": "$\\frac{225}{157}$",
+        "choice_b": "$\\frac{141}{79}$",
+        "choice_c": "$\\frac{337}{104}$",
+        "choice_d": "$\\frac{71}{53}$",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni"
+    },
+    {
+        "problem_text": "Ef $m=\\frac{abc}{a-b}$, þá er $b$ jafnt",
+        "choice_a": "$\\dfrac{m+ac}{ma}$$",
+        "choice_b": "$\\dfrac{ac-ma}{-m}$",
+        "choice_c": "$\\dfrac{1}{1+c}$",
+        "choice_d": "$\\dfrac{ma}{m+ac}$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Rúta keyrir eftir vegi á 72 km hraða á klukkustund.  Fram úr henni fer trukkur sem keyrir á 90 km hraða á klukkustund.  Jörmunrekur situr í rútunni og tekur eftir því að trukkurinn er nákvæmlega 2 sekúndur að fara fram hjá honum.  Hve langur er trukkurinn?",
+        "choice_a": "$5$",
+        "choice_b": "$18$",
+        "choice_c": "$9$",
+        "choice_d": "$10$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Þversumma tölunnar $10^{96}-96$ er",
+        "choice_a": "$996$",
+        "choice_b": "$860$",
+        "choice_c": "$850$",
+        "choice_d": "$840$",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Ef $f(x)=ax^4-bx^2+x+5$ og $f(-3)=2$, þá er $f(3)$ jafnt",
+        "choice_a": "$-2$",
+        "choice_b": "$1$",
+        "choice_c": "$3$",
+        "choice_d": "$8$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Lengd kassa vex um 2% og breidd hans um 3%, en hæð hans minnkar um 5%.  Hvernig breytist rúmmál kassans?",
+        "choice_a": "Það vex.",
+        "choice_b": "Það helst óbreytt.",
+        "choice_c": "Það minnkar.",
+        "choice_d": "Fer eftir lögun kassans",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Heimski Hans, Mummi meinhorn, Sólveig og Venni vinur liggja öll undir grun um að hafa brotið rúðu í húsi Lalla löggu.  Við yfirheyrslu þá kemur eftirfarandi fram: Hans:  ,,Mummi braut hana.``. Mummi:  ,,Sólveig gerði það.``. Sólveig:  ,,Mummi lýgur.``. Venni:  ,,Ég gerði það ekki.``. Ef aðeins eitt þeirra segir satt og hin þrjú ljúga þá getum við ályktað:",
+        "choice_a": "Venni braut rúðuna.",
+        "choice_b": "Hans braut rúðuna",
+        "choice_c": "Mummi  braut rúðuna.",
+        "choice_d": "Ekki er öruggt hver braut rúðuna.",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Fimm tölustafa tala er búin til með því að nota hvern af tölustöfunum 1, 3, 5, 7, 9 einu sinni.  Tölustafirnir sem eru í tuga- og þúsundasætunum eru hvor um sig stærri en tölustafirnir til hliðar við þá.  Hvað eru margar slíkar fimm tölustafa tölur til?",
+        "choice_a": "6",
+        "choice_b": "16",
+        "choice_c": "24",
+        "choice_d": "50",
+        "correct_answer": "B",
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Krossinn hér til hliðar er búinn til úr 6 eins ferningum. Ummál hans er 7.  Hvert er flatarmál hans?",
+        "choice_a": "0,25",
+        "choice_b": "1,5",
+        "choice_c": "6",
+        "choice_d": "7",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni",
+        "image": "game/static/images/problem_images/n9697d6.png"
+    },
+    {
+        "problem_text": "Í þríhyrningnum $ABC$ er hornið $\\angle C$ rétt, $|AC|=6$ og$|BC|=8$.  Punktur $D$ liggur á hliðinni $AB$ og punktur $E$ á hliðinni $BC$, þannig að $\\angle BED=90^\\circ$. Ef $|DE|=4$, þá er lengd striksins $BD$ jöfn",
+        "choice_a": "5",
+        "choice_b": "$\\frac{16}{3}$",
+        "choice_c": "$\\frac{15}{2}$",
+        "choice_d": "$\\frac{20}{3}$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni",
+        "image": "game/static/images/problem_images/n9697d7.png"
+    },
+    {
+        "problem_text": "Fimm punktar á hring eru númeraðir 1, 2, 3, 4 og 5 eins og sýnt er  á myndinni.  Fló hoppar á milli punktanna réttsælis þannig að ef hún er í punkti með oddatölunúmeri, þá hoppar hún í næsta punkt, en ef númer punktsins er slétt tala þá hoppar hún yfir einn punkt.  Ef flóin byrjar í punkti 5, í hvaða punkti verður hún þá eftir 1996 hopp?",
+        "choice_a": "1",
+        "choice_b": "2",
+        "choice_c": "3",
+        "choice_d": "4",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni",
+        "image": "game/static/images/problem_images/n9697d12.png"
+    },
+    {
+        "problem_text": "Innan í hring með geisla 2 liggja tveir hringir með geisla 1 þannigað þeir snertast í miðpunkti stóra hringsins.  Til viðbótar er svo dreginn fjórði hringurinn eins og sýnt er á myndinni.  Hver er geisli minnsta hringsins?",
+        "choice_a": "$\\frac{2}{3}$",
+        "choice_b": "$\\frac{1}{2}$",
+        "choice_c": "$\\frac{\\sqrt{2}}{3}$",
+        "choice_d": "$\\frac{\\sqrt{3}}{2}$",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni",
+        "image": "game/static/images/problem_images/n9697d13.png"
+    },
+    {
+        "problem_text": "Fjarlægðin á milli tveggja nærliggjandi punkta á myndinni er 1.  Hvert er flatarmál skyggða svæðisins?",
+        "choice_a": "14",
+        "choice_b": "15",
+        "choice_c": "16",
+        "choice_d": "17",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni",
+        "image": "game/static/images/problem_images/n9697d14.png"
+    },
+    {
+        "problem_text": "Á myndinni hér fyrir neðan má sjá ellefu ferningslaga spjöld sem hafa verið lögð á borð.  Í hvaða röð voru fyrstu sjö spjöldin lögð á borðið?",
+        "choice_a": "C, G, D, E, F, H, K ",
+        "choice_b": "G, C, D, E, F, H, K",
+        "choice_c": "C, G, D, E, F, K, J",
+        "choice_d": "G, C, D, E, F, K, J",
+        "correct_answer": "B",
+        "problem_types": ["fléttufræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni",
+        "image": "game/static/images/problem_images/n9697d15.png"
+    },
+    {
+        "problem_text": "Í Langtíburtistan er haldin stærðfræðikeppni sem í eru 25 dæmi. Fyrir rétt svar eru gefin 4 stig en eitt stig er dregið frá fyrir rangt svar.  Keppandi sem svaraði öllum spurningunum fékk 70 stig. Hvað svaraði hann mörgum spurningum rétt?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 19,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni"
+    },
+    {
+        "problem_text": "Tölurnar frá 1 upp í 999, að báðum meðtöldum, eru skrifaðar á blað. Hver er summa allra tölustafanna? ",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 13500,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni"
+    },
+    {
+        "problem_text": "Á myndinni má sjá hring með miðju í $A$ og geisla 9, og annan minni hring með miðju í $D$ og geisla 4.  Sameiginlegir snertlar $BC$ og $EF$ eru dregnir.  Ákvarðið lengd $EF$.",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 6,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 7,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1996-1997 - forkeppni",
+        "image": "game/static/images/problem_images/n9697d20.png"
+    }
+]

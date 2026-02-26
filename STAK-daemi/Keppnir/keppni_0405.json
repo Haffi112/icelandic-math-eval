@@ -1,0 +1,271 @@
+[
+    {
+        "problem_text": "Arna vinnur sér inn 1250 krónur á tímann miðað við 40 stunda vinnuviku. Fyrir þá vinnu sem er umfram 40 vikustundir fær hún greitt tvöfalt venjulegt tímakaup. Í síðustu viku vann hún sér inn 62.500 krónur. Hversu margar klukkustundir vann hún?",
+        "choice_a": "41",
+        "choice_b": "43",
+        "choice_c": "45",
+        "choice_d": "50",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Myndin hér til hægri er ferningur og hafa rendurnar allar sömu breidd. Hve stór hluti myndarinnar er skyggður?",
+        "choice_a": "$\\frac{1}{2}$",
+        "choice_b": "$\\frac{7}{12}$",
+        "choice_c": "$\\frac{2}{3}$",
+        "choice_d": "$\\frac{5}{6}$",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig",
+        "image": "game/static/images/problem_images/n04052.png"
+    },
+    {
+        "problem_text": "Tólf félagar skipuleggja tíu daga göngferð um Hornstrandir. Þeir sameinast um kaup á mat fyrir ferðina, þannig að allir verði með sama dagskammt. Á síðustu stundu bætast svo þrír ferðafélagar í hópinn, án þess að tækifæri gefist til að bæta við matarbirgðirnar. Í hversu marga daga munu nú vistirnar duga þeim, ef þeir ákveða að halda sig við upphaflega dagskammtinn á mann?",
+        "choice_a": "6",
+        "choice_b": "7",
+        "choice_c": "8",
+        "choice_d": "9",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Einfaldaðu $\\frac{1 - \\frac{1-x}{1+x}}{1 + \\frac{x-1}{x+1}}$.",
+        "choice_a": "1",
+        "choice_b": "$\\frac{4x}{x+1}$",
+        "choice_c": "$\\frac{1}{x}$",
+        "choice_d": "$\\frac{2x}{2x-2}$",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Ég á gripavigt sem vigtar grísi í pörum. Þannig finn ég út að Onni og Svínka vega saman 60 kíló, Svínka og Gríslingur vega 53 kíló og að Gríslingur og Fleskja vega 58 kíló. Hversu mikið ætli Onni og Fleskja vegi saman?",
+        "choice_a": "54",
+        "choice_b": "$55\\frac{1}{2}$",
+        "choice_c": "59",
+        "choice_d": "65",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Ef fullyrðingin ,,Allir íbúar þessa húss eru listamenn'' er ósönn, hverjar eftirfarandi fullyrðinga hljóta þá að vera sannar? I. Allir íbúar þessa húss eru eitthvað annað en listamenn. II. Einhverjir íbúar þessa húss eru eitthvað annað en listamenn. III. Enginn íbúi þessa húss er listamaður. IV. Ekki eru allir íbúar þessa húss listamenn.",
+        "choice_a": "Aðeins IV",
+        "choice_b": "Aðeins I og III",
+        "choice_c": "Aðeins II og IV",
+        "choice_d": "Aðeins I, II og IV",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Tveir drengir mála kofa. Björn gæti einn og sér málað kofann á 20 klukkustundum, en Gísli gæti málað hann á 32 klst. Þeir byrja svo að mála kofann í sameiningu, en eftir 8 klst. verður Gísli leiður á málningarvinnu og hættir. Björn verður þvì að ljúka verkinu einn. Hversu margar klst. mun það taka hann?",
+        "choice_a": "4",
+        "choice_b": "6",
+        "choice_c": "7",
+        "choice_d": "8",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Ef $3^a = 4$, $4^b = 5$, $5^c = 6$, $6^d = 7$, $7^e = 8$ og $8^f = 9$, hvert er þá gildi $abcdef$?",
+        "choice_a": "2",
+        "choice_b": "$\\sqrt{6}$",
+        "choice_c": "3",
+        "choice_d": "$\\frac{10}{3}$",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Mamma Gutta sækir hann skólann á hverjum degi. Einn daginn fellur niður stærðfræði og Gutti er þvì búinn í skólanum 90 mínútum fyrr en venjulega. Meðan mamma hans er ókomin byrjar hann að labba heim í leið. Mamma Gutta ekur svo fram á hann á leiðinni og tekur hann upp í bílinn. Í þetta skiptið koma þau heim 20 mínútum fyrr en venjulega. Í hversu margar mínútur hafði Gutti gengið áður en hann mætti mömmu sinni?",
+        "choice_a": "20",
+        "choice_b": "50",
+        "choice_c": "70",
+        "choice_d": "80",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Punktarnir sex $A$, $B$, $C$, $D$, $E$ og $F$ eru með jöfnu millibili á hring með geisla (radíus) 1. Við að draga svo línustrikkin $AC$, $CE$, $AE$, $BD$, $DF$ og $BF$ fæst skyggða stjarnan hér til hliðar. Hvert er flatarmál skyggða svæðisins?",
+        "choice_a": "$\\frac{2\\sqrt{6}}{3}$",
+        "choice_b": "$\\sqrt{3}$",
+        "choice_c": "$\\frac{3\\sqrt{2}}{2}$",
+        "choice_d": "$\\frac{3\\pi}{4}$",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig",
+        "image": "game/static/images/problem_images/n040510.png"
+    },
+    {
+        "problem_text": "Tvær konur og þrjú börn þurfa að komast yfir á. Litli árabáturinn þeirra getur aðeins borið eina konu eða tvö börn. Hver er lágmarksfjöldi ferða sem báturinn þarf að fara yfir ána til að skila þeim öllum fimm yfir á hinn bakkann? Athugið að í hvert skipti sem báturinn fer yfir ána þarf einhver að vera um borð.",
+        "choice_a": "9",
+        "choice_b": "10",
+        "choice_c": "11",
+        "choice_d": "13",
+        "correct_answer": "C",
+        "problem_types": ["fléttufræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Fúsi og Lauga tóku eftir því að aldur þeirra tveggja samanlagður, margfaldaður með aldri sonardóttur þeirra, er 2004. Við gerum ráð fyrir að aldur sérhvers þeirra sé heiltala. Hversu gamalt er barnabarnið?",
+        "choice_a": "6",
+        "choice_b": "10",
+        "choice_c": "12",
+        "choice_d": "14",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Hvert er gildi $\\frac{2^{2004} - 2^{2003}}{2^{2004} + 2^{2003}}$?",
+        "choice_a": "0",
+        "choice_b": "$2^{-2006}$",
+        "choice_c": "$\\frac{1}{3}$",
+        "choice_d": "$\\frac{1}{2}$",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Alda, Birta, Dóra og Ella ákváðu í fyrravor að leggja peninga fyrir í ferðasjóð. Árangurinn lét ekki á sér standa þótt engar tvær söfnuðu jafnmiklu. Dóra safnaði minnu en Birta, en Dóra og Birta söfnuðu samanlagt jafnmiklu og Alda og Ella samtals. Ella og Dóra söfnuðu samanlagt minnu en Alda. Alda safnaði ekki mestu. Raðið stúlkunum (í minnkandi röð) eftir því hve miklu þær söfnuðu.",
+        "choice_a": "Alda, Birta, Dóra, Ella",
+        "choice_b": "Birta, Dóra, Alda, Ella",
+        "choice_c": "Birta, Ella, Dóra, Alda",
+        "choice_d": "Birta, Alda, Ella, Dóra",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Addi, Beta, Doddi, Elísa og Frikki eiga hvert sína happatölu. Tölurnar eru 3, 4, 5, 11 og 16. Happatala Betu er lægri en happatala Dodda. Happatala Frikka er frumtala (prímtala). Happatala Dodda er einum lægri en happatala Adda. Hver er happatala Elísu?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 16,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Tölurnar 1, 2, 3, 4, 5 og 6 er raðað umhverfis þríhyrning eins og þann á myndinni þannig að summa talna hverrar hliðar sé 11. Hver er summa talnanna í hornunum þremur (reitunum sem auðkenndir eru með spurningarmerki)?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 12,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig",
+        "image": "game/static/images/problem_images/n040519.png"
+    },
+    {
+        "problem_text": "Reikniδ margfeldið $(1+\\frac{1}{2})(1+\\frac{1}{3})(1+\\frac{1}{4})\\cdots(1+\\frac{1}{4007})$",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 2004,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - neðra stig"
+    },
+    {
+        "problem_text": "Í sveitarfélaginu Fjallaborg eru $\\frac{3}{4}$ kvenna ógiftar og $\\frac{4}{5}$ karla eru ókvæntir. Hvert er hlutfall þess fólks sem er í hjónabandi í sveitarfélaginu?",
+        "choice_a": "$\\frac{2}{9}$",
+        "choice_b": "$\\frac{1}{3}$",
+        "choice_c": "$\\frac{7}{20}$",
+        "choice_d": "$\\frac{4}{9}$",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - efra stig"
+    },
+    {
+        "problem_text": "Í tólfflötungnum hér til hliðar skulum við kalla innri hornalínu sérhvert strik milli tveggja hornpunkta sem ekki liggja á sama hliðarfleti. Hversu margar innri hornalínur eru þá í tólfflötungnum?",
+        "choice_a": "60",
+        "choice_b": "100",
+        "choice_c": "120",
+        "choice_d": "160",
+        "correct_answer": "B",
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - efra stig",
+        "image": "game/static/images/problem_images/e04055.png"
+    },
+    {
+        "problem_text": "Hvert er gildi $a^3 + b^3$, ef $a+b = 2$ og $a^2+b^2 = 5$?",
+        "choice_a": "8",
+        "choice_b": "9",
+        "choice_c": "10",
+        "choice_d": "11",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - efra stig"
+    },
+    {
+        "problem_text": "Á myndinni hér til hægri er $\\angle E = 40^\\circ$ og bogarnir $AB$, $BC$ og $CD$ eru allir af sömu lengd. Finnið gráðutal $\\angle ACD$.",
+        "choice_a": "10",
+        "choice_b": "15",
+        "choice_c": "20",
+        "choice_d": "30",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - efra stig",
+        "image": "game/static/images/problem_images/e04059.png"
+    },
+    {
+        "problem_text": "Fimm af hliðum tenings af stærðinni $4 \\times 4 \\times 4$ eru málaðar og teningurinn síðan skorinn niður í 64 einingakubba. Veljum einn einingakubb af handahófi og köstum honum upp. Hverjar eru líkurnar á því að af þeim fimm hliðum hans sem þá eru sýnilegar séu nákvæmlega tvær litaðar?",
+        "choice_a": "$\\frac{15}{64}$",
+        "choice_b": "$\\frac{29}{128}$",
+        "choice_c": "$\\frac{23}{96}$",
+        "choice_d": "$\\frac{71}{256}$",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - efra stig"
+    },
+    {
+        "problem_text": "Gerum ráð fyrir að $AB$ sé miðstrengur hringsins hér til hliðar, $BC$ sé snertill, $\\angle BAC = 30^\\circ$ og að $CD = \\sqrt{3}$. Hver er lengd $AB$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 6,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - efra stig",
+        "image": "game/static/images/problem_images/e040512.png"
+    },
+    {
+        "problem_text": "Þóra og Þröstur voru að dást að gullfiskakerum í gæludýrabúð. Kerin sem voru átta innihéldu 7, 10, 13, 18, 28, 31, 46 og 62 fiska. Sumir fiskanna voru rauðir, aðrir voru bláir. ,,Taktu eftir einu, Þóra'' sagði Þröstur. ,,Ef við tökum þetta gullfiskaker hér í burtu verða eftir nákvæmlega tvöfalt fleiri rauðir gullfiskar en bláir.'' Hversu margir gullfiskar voru í kerinu sem Þröstur vildi taka í burtu?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 62,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - efra stig"
+    },
+    {
+        "problem_text": "Tölurnar frá 1 upp í 9 eru skrifaðar hver á sinn bréfmiða, síðan eru miðarnir níu látnir í krukku. Þú dregur handahófskennt miða úr krukkunnii, skráir töluna á honum og skilar svo miðanum til baka í krukkuna. Þar næst dregurðu aftur miða úr krukkunnii og reiknar summu talnanna tveggja sem þú ert búinn að draga. Á hvaða tölustaf er líklegast að summan endi?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 0,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2004-2005 - efra stig"
+    }
+]

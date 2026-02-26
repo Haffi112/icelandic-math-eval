@@ -1,0 +1,398 @@
+[
+  {
+    "problem_text": "$0,\\!01-0,\\!001$ er jafnt",
+    "choice_a": "$0,9$",
+    "choice_b": "$0,09$",
+    "choice_c": "$0,009$",
+    "choice_d": "$0,099$",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "$(-1)^4\\cdot 2^3$ er jafnt",
+    "choice_a": "$2^7$",
+    "choice_b": "$2^{12}$",
+    "choice_c": "$-2^7$",
+    "choice_d": "$8$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Ef $2x+1=7$, þá er $4x+1$ jafnt",
+    "choice_a": "$17$",
+    "choice_b": "$15$",
+    "choice_c": "$14$",
+    "choice_d": "$13$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Punktinum $(4,-3)$ er speglað um $x$--ásinn.  Myndpunkti hans er síðan speglað um $y$--ásinn.  Hnit punktsins sem fæst að lokum eru",
+    "choice_a": "$(3,-4)$",
+    "choice_b": "$(-3,4)$",
+    "choice_c": "$(-4,3)$",
+    "choice_d": "$(-4,-3)$",
+    "correct_answer": "C",
+    "problem_types": ["rúmfræði"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Yfirborð tenings er málað þannig að engir tveir hliðarfletir sem hafa sameiginlega brún hafi sama lit.  Minnsti fjöldi lita sem má komast af með er",
+    "choice_a": "$2$",
+    "choice_b": "$3$",
+    "choice_c": "$4$",
+    "choice_d": "$5$",
+    "correct_answer": "B",
+    "problem_types": ["fléttufræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Á myndinni eru strikin $AD, CD$ og $CB$ jafn löng og hornið $\\angle DAC$ er $40^\\circ$.  Stærð hornsins $\\angle DCB$ er",
+    "choice_a": "$40^\\circ$",
+    "choice_b": "$35^\\circ$",
+    "choice_c": "$25^\\circ$",
+    "choice_d": "$20^\\circ$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig",
+    "image": "game/static/images/problem_images/n8788d6.png"
+  },
+  {
+    "problem_text": "Í talnarununni $5, 16, 27,\\ldots$ er hver liður $11$ hærri en næsti liður á undan.  Meðal liðanna í rununni er ",
+    "choice_a": "$91$",
+    "choice_b": "$92$",
+    "choice_c": "$93$",
+    "choice_d": "$94$",
+    "correct_answer": "C",
+    "problem_types": ["talnafræði"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Ef $x-y>x$ og $x+y>y$, þá er ",
+    "choice_a": "$x>0,\\, y<0$",
+    "choice_b": "$x<0,\\, y<0$",
+    "choice_c": "$y>x>0$",
+    "choice_d": "$x<0,\\, y>0$",
+    "correct_answer": "A",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Á myndinni hlýtur lengsta hliðin að vera",
+    "choice_a": "$CD$",
+    "choice_b": "$AC$",
+    "choice_c": "$AD$",
+    "choice_d": "$AB$",
+    "correct_answer": "C",
+    "problem_types": ["rúmfræði"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig",
+    "image": "game/static/images/problem_images/n8788d9.png"
+  },
+  {
+    "problem_text": "Ef $a\\Diamond b=\\frac{ab}{a+b}$, þá er $4\\Diamond(4\\Diamond4)$ jafnt ",
+    "choice_a": "$\\frac{3}{4}$",
+    "choice_b": "$\\frac{4}{3}$",
+    "choice_c": "$2$",
+    "choice_d": "$\\frac{16}{3}$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Ef $(x+2)^2+(y-5)^2=0$, þá er $x+y$ jafnt",
+    "choice_a": "$-7$",
+    "choice_b": "$7$",
+    "choice_c": "$-3$",
+    "choice_d": "$3$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Fiskabúr sem er fullt af vatni er 100 cm langt, 60 cm breitt og 40 cm hátt.  Því er hallað eins og sýnt er á myndinni, þannig að það hvíli á 60 cm langri brún, þar til vatnsyfirborðið nær punktinum $C$, sem er miðpunktur $AB$.  Þegar búrið er aftur sett í upphaflega stöðu, þannig að $AB$ er lárétt, þá er vatnshæðin í búrinu",
+    "choice_a": "1 cm",
+    "choice_b": "10 cm",
+    "choice_c": "8 cm",
+    "choice_d": "5 cm",
+    "correct_answer": "B",
+    "problem_types": ["rúmfræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig",
+    "image": "game/static/images/problem_images/n8788d12.png"
+  },
+  {
+    "problem_text": "Ferningur hefur aðlæga hornpunkta $(0,3)$ og $(4,0)$.  Hinir tveir hornpunktarnir eru í fyrsta fjórðungi hnitakerfisins.  Sá hornpunktur sem er fjærst $x$-ásnum er ",
+    "choice_a": "$(4,7)$",
+    "choice_b": "$\\left(3,\\sqrt{50}\\right)$",
+    "choice_c": "$(3,8)$",
+    "choice_d": "$(3,7)$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Hér stendur hver bókstafur fyrir tölustaf:  4 & $P$ & $Q$ & $R$ & $S$ & $T$ & $U$ & $V$ & 8 & $W$. Summa hverra þriggja samliggjandi tölustafa er 19.  Stafurinn $S$ stendur fyrir tölustafinn",
+    "choice_a": "$4$",
+    "choice_b": "$8$",
+    "choice_c": "$7$",
+    "choice_d": "$5$",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Myndin er búin til með því að nota hálfhringi með $x$-ásinn sem þverstreng.  Flatarmál skyggða svæðisins er",
+    "choice_a": "$2\\pi$",
+    "choice_b": "$3\\pi$",
+    "choice_c": "$\\frac{3\\pi}{2}$",
+    "choice_d": "$\\frac{3\\pi}{4}$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig",
+    "image": "game/static/images/problem_images/n8788d15.png"
+  },
+  {
+    "problem_text": "Í aðlægu ferningunum sem sjást á myndinni liggja punktarnir $A, B$ og $C$ á beinni línu.  Lengdin $x$ er",
+    "choice_a": "$10$",
+    "choice_b": "$\\frac{49}{4}$",
+    "choice_c": "$11$",
+    "choice_d": "$\\frac{33}{4}$",
+    "correct_answer": "B",
+    "problem_types": ["rúmfræði"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig",
+    "image": "game/static/images/problem_images/n8788d16.png"
+  },
+  {
+    "problem_text": "Ef $f(3)=1$ og $f(3n)=n+f(3n-3)$, þar sem $n$ er hvaða heila tala sem er stærri en 1, þá er $f(21)$ jafnt",
+    "choice_a": "$7$",
+    "choice_b": "$13$",
+    "choice_c": "$28$",
+    "choice_d": "$231$",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Athugum mengi allra þriggja stafa talna sem eru stærri en núll og þannig að enginn stafur sé núll.  Ef við tökum einhverja tölu úr menginu, búum til nýja tölu með því að skrifa tölustafina í upphaflegu tölunni í öfugri röð, köllum mismun talnanna $x$ (hér er $x\\geq 0$), þá er fjöldi hugsanlegra gilda tölunnar $x$",
+    "choice_a": "$8$",
+    "choice_b": "$9$",
+    "choice_c": "$10$",
+    "choice_d": "$45$",
+    "correct_answer": "B",
+    "problem_types": ["talnafræði"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Ef við margföldum $(a+b+c)^8$ upp úr svigum, þá verður stuðullinn við $abc^6$ jafn",
+    "choice_a": "$24$",
+    "choice_b": "$28$",
+    "choice_c": "$48$",
+    "choice_d": "$56$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Sívalningslaga vatnsgeymir með þvermál 120 cm og hæð 400 cm er opinn að ofan og hálffullur af vatni.  Keila sem hefur þvermál 60 cm og hæð 100 cm er hengd upp þannig að toppur hennar snýr upp og grunnflötur hennar nemur við vatnsyfirborðið í geyminum.  Nú er keilunni sökkt niður í vatnið þangað til vatnsyfirborðið nemur við topp hennar.  Fjöldi cm sem keilan hefur verið lækkuð er þá",
+    "choice_a": "$75$",
+    "choice_b": "$87\\frac{1}{2}$",
+    "choice_c": "$90$",
+    "choice_d": "$91\\frac{2}{3}$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Hring er velt, án þess að hann renni til, yfir sex jafnstóra hringi þannig að hann færist úr stöðu $x$ í stöðu $y$.  Fjöldi snúninga sem hann snýst um sjálfan sig á leiðinni er",
+    "choice_a": "$\\frac{7}{2}$",
+    "choice_b": "$\\frac{9}{4}$",
+    "choice_c": "$\\frac{11}{6}$",
+    "choice_d": "$\\frac{8}{3}$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 6,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig",
+    "image": "game/static/images/problem_images/n8788d21.png"
+  },
+  {
+    "problem_text": "Ef við skrifum aldur Öldu í árum og strax á eftir aldur Ægis í árum, þá fáum við fjögurra stafa tölu sem er annað veldi af heilli tölu.  Sömuleiðis mun að 31 ári liðnu aldur þeirra skrifaður í sömu röð mynda fjögurra stafa tölu sem er líka annað veldi af heilli tölu.  Hve gömul eru Alda og Ægir nú?",
+    "choice_a": "Alda er 12 ára og Ægir 25 ára.",
+    "choice_b": "Alda er 13 ára og Ægir 24 ára.",
+    "choice_c": "Alda er 11 ára og Ægir 26 ára.",
+    "choice_d": "Alda er 14 ára og Ægir 23 ára.",
+    "correct_answer": "A",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - neðra stig"
+  },
+  {
+    "problem_text": "Hringur og ferningur hafa sama flatarmál.  Ef ferningurinn hefur hliðarlengd 4, þá er geisli hringsins",
+    "choice_a": "$\\frac{2\\sqrt{2}}{\\sqrt{\\pi}}$",
+    "choice_b": "$\\frac{4}{\\sqrt{\\pi}}$",
+    "choice_c": "$\\frac{8}{\\sqrt{\\pi}}$",
+    "choice_d": "$\\frac{8}{\\pi}$",
+    "correct_answer": "B",
+    "problem_types": ["rúmfræði"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig"
+  },
+  {
+    "problem_text": "Línu með jöfnuna $2x+y=0$ er snúið $90^\\circ$ um miðju hnitakerfisins.  Jafna línunnar sem þannig fæst er",
+    "choice_a": "$x+2y=0$",
+    "choice_b": "$x-y=0$",
+    "choice_c": "$2x-y=0$",
+    "choice_d": "$x-2y=0$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig"
+  },
+  {
+    "problem_text": "Ef $A=3^x+3^{-x}$ og $B=3^x-3^{-x}$, þá er $A^2-B^2$ jafnt",
+    "choice_a": "$2\\cdot3^{2x}$",
+    "choice_b": "$2\\cdot3^{-2x}$",
+    "choice_c": "$0$",
+    "choice_d": "$4$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig"
+  },
+  {
+    "problem_text": "Þríhyrningurinn $ABC$ er innritaður í hring með miðju $O$. Ef hornið $\\angle ACB$ er $40^\\circ$, þá er hornið $\\angle BAO$ jafnt",
+    "choice_a": "$50^\\circ$",
+    "choice_b": "$80^\\circ$",
+    "choice_c": "$70^\\circ$",
+    "choice_d": "$40^\\circ$",
+    "correct_answer": "A",
+    "problem_types": ["rúmfræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig",
+    "image": "game/static/images/problem_images/e8788d4.png"
+  },
+  {
+    "problem_text": "Látum $f(x)=5x^2+ax+b$.  Ef $a\\neq b, f(a)=b$ og $f(b)=a$, þá er $a+b$ jafnt",
+    "choice_a": "$-5$",
+    "choice_b": "$-\\frac{1}{5}$",
+    "choice_c": "$0$",
+    "choice_d": "$\\frac{1}{5}$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig"
+  },
+  {
+    "problem_text": "Minnsta heila tala $x$ sem er stærri en núll og þannig að summan $x+2x+3x+\\cdots+100x$ sé annað veldi af heilli tölu er",
+    "choice_a": "$100$",
+    "choice_b": "$101$",
+    "choice_c": "$202$",
+    "choice_d": "$5050$",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 5,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig"
+  },
+  {
+    "problem_text": "Ef $\\sin\\alpha+\\cos\\alpha=1,\\!2$. Þá er $\\sin^3\\alpha+\\cos^3\\alpha$ jafnt",
+    "choice_a": "$1,2$",
+    "choice_b": "$0,936$",
+    "choice_c": "$0$",
+    "choice_d": "$0,432$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 5,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig"
+  },
+  {
+    "problem_text": "Á myndinni er $P$ punktur á gefnum hring.  Annar hringur sem hefur $P$ sem miðju er teiknaður þannig að skurðpunktar hringanna $A$ og $B$ skipta ferli gefna hringsins í tvo jafna hluta.  Ef flatarmál gefna hringsins er $\\pi$, þá er flatarmál skyggða svæðisins",
+    "choice_a": "$\\frac{\\pi}{3}$",
+    "choice_b": "$\\frac{\\pi}{2}$",
+    "choice_c": "$1$",
+    "choice_d": "$\\pi-2$",
+    "correct_answer": "C",
+    "problem_types": ["rúmfræði"],
+    "level": 6,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig",
+    "image": "game/static/images/problem_images/e8788d9.png"
+  },
+  {
+    "problem_text": "Á myndinni er $ABCD$ rétthyrningur, strikin $AK$ og $AP$ eru jafnlöng og strikin $DL$ og $DP$ eru jafnlöng.  Ef lengdirnar $|BK|:|KL|:|LC|$ eru í hlutföllunum $3:4:5$, þá er hlutfallið $|AP|:|PD|$ jafnt",
+    "choice_a": "5:7",
+    "choice_b": "3:4",
+    "choice_c": "4:5",
+    "choice_d": "3:5",
+    "correct_answer": "C",
+    "problem_types": ["rúmfræði"],
+    "level": 6,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig",
+    "image": "game/static/images/problem_images/e8788d11.png"
+  },
+  {
+    "problem_text": "Á myndinni hér til hliðar er $ABCD$ ferhyrningur sem er innritaður í hring og hornið $\\angle DAB$ er $3x$.  Ef hliðarnar $AB$ og $DC$ framlengdar skerast í punktinum $P$, þá er hornið $\\angle APD$ jafnt $x$.  Ef hliðarnar $AD$ og $BC$ framlengdar skerast í punktinum $Q$, þá er hornið $\\angle AQB$ jafnt $2x$.  Finnið $x$.",
+    "choice_a": "$10^\\circ$",
+    "choice_b": "$15^\\circ$",
+    "choice_c": "$20^\\circ$",
+    "choice_d": "$30^\\circ$",
+    "correct_answer": "C",
+    "problem_types": ["rúmfræði"],
+    "level": 5,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig",
+    "image": "game/static/images/problem_images/e8788d13.png"
+  },
+  {
+    "problem_text": "Hornalínur kúpta (úthyrnda) ferhyrningsins $ABCD$ skerast í punkti $P$.  Þríhyrningarnir $ABP$, $BCP$ og $CDP$ hafa flatarmál 12 cm$^2$, 9 cm$^2$ og 15 cm$^2$.  Hvert er flatarmál þríhyrningsins $DAP$?",
+    "answer_type": "numeric",
+    "correct_answer_numeric": 20,
+    "numeric_tolerance": 0,
+    "problem_types": ["rúmfræði"],
+    "level": 8,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1987-1988 - efra stig",
+    "image": "game/static/images/problem_images/e8788d16.png"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

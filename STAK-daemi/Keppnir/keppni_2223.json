@@ -1,0 +1,269 @@
+[
+    {
+        "problem_text": "Ef $f: \\mathbb{R} \\to \\mathbb{R}$ er fall, $f(1)=3$ og $f(x)-f(y)=x-y$, hvað er þá $f(20)$?",
+        "choice_a": "$-1$",
+        "choice_b": "$3$",
+        "choice_c": "$20$",
+        "choice_d": "$22$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Tilraunarglas inniheldur eina bakteríu. Eftir tvær mínútur skiptir bakterían sér í tvær nákvæmlega eins bakteríur. Eftir tvær mínútur í viðbót skipta þessar tvær bakteríur sér aftur, svo þær eru þá orðnar fjórar. Svona heldur þetta áfram og eftir nákvæmlega klukkustund er tilraunaglasið orðið fullt. Hvað hefði það tekið langan tíma ef glasið hefði byrjað með fjórar slíkar bakteríur?",
+        "choice_a": "30 mínútur",
+        "choice_b": "56 mínútur",
+        "choice_c": "58 mínútur",
+        "choice_d": "60 mínútur",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Setjum sem svo að $A$, $B$, $C$, $D$ og $E$ séu punktar á línu þannig að $B$ sé á milli $C$ og $E$, $C$ sé á milli $A$ og $E$ og $D$ sé á milli $A$ og $B$. Hvað eftirfarandi getur ekki gilt:",
+        "choice_a": "$C$ er á milli $A$ og $B$",
+        "choice_b": "$B$ er á milli $A$ og $E$",
+        "choice_c": "$C$ er á milli $A$ og $D$",
+        "choice_d": "$D$ er á milli $B$ og $E$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Bóndi á hænur og kýr. Hann á $22$ dýr samtals sem hafa $62$ fætur. Hvað eru hænurnar margar?",
+        "choice_a": "$10$",
+        "choice_b": "$11$",
+        "choice_c": "$13$",
+        "choice_d": "$17$",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Snigill vill skríða upp úr 2,5 m holu. Hann skríður frá morgni til kvölds, og í lok dags hefur hann skriðið upp um 60 cm. Hins vegar rennur hann aftur niður um 20 cm yfir nóttina meðan hann sefur. Þannig heldur snigillinn áfram þar til hann kemst upp úr holunni. Á hvaða degi kemst snigillinn upp úr holunni.",
+        "choice_a": "fimmta degi",
+        "choice_b": "sjötta degi",
+        "choice_c": "sjöunda degi",
+        "choice_d": "áttunda degi",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Jörmunrekur er að bera fram drykki á hringlaga bakka með geisla af lengd $3$. Hvað getur hann komið fyrir mörgum sívalningslaga glösum með geisla af lengd $1$ á bakkann, án þess að stafla þeim? Glösin mega snertast en mega ekki skara út fyrir bakkann.",
+        "choice_a": "$3$",
+        "choice_b": "$5$",
+        "choice_c": "$7$",
+        "choice_d": "$9$",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Á borði liggja $7$ evrumyntir. Framan á stendur hversu margar evrur myntin er og aftan á er myntin merkt einhverju landi evrópusambandsins. Hvað þarf að snúa við mörgum myntum til að vera viss um að allar einnar evru myntir á borðinu séu merktar DE?",
+        "choice_a": "$1$",
+        "choice_b": "$2$",
+        "choice_c": "$3$",
+        "choice_d": "$4$",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022",
+        "image": "game/static/images/problem_images/e2223d4.png"
+    },
+    {
+        "problem_text": "Hve stór eru hornin í fimmhyrndri reglulegri stjörnu?",
+        "choice_a": "$36^{\\circ}$",
+        "choice_b": "$45^{\\circ}$",
+        "choice_c": "$48^{\\circ}$",
+        "choice_d": "$54^{\\circ}$",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022",
+        "image": "game/static/images/problem_images/n2223d8.png"
+    },
+    {
+        "problem_text": "Hringur með geisla af lengd $r=2\\sqrt{3}$ snertir allar hliðar reglulegs sexhyrnings. Hver er hliðarlengd sexhyrningsins?",
+        "choice_a": "$1$",
+        "choice_b": "$2$",
+        "choice_c": "$3$",
+        "choice_d": "$4$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022",
+        "image": "game/static/images/problem_images/e2223d3.png"
+    },
+    {
+        "problem_text": "Gerum ráð fyrir að $a$, $b$, $c$ og $d$ séu ólíkar jákvæðar rauntölur þannig að $2a+c+d < a+b+c < b+d$. Hver talnanna $a$, $b$, $c$ og $d$ er næst stærst?",
+        "choice_a": "$a$",
+        "choice_b": "$b$",
+        "choice_c": "$c$",
+        "choice_d": "$d$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Tölurnar $1,2, \\ldots, 2022$ eru skrifaðar á spjöld og þeim raðað í stærðarröð í línu, spjaldið $1$ fremst. Fyrsta spjaldið er tekið og fært aftast. Næst eru fremstu tvö spjöldin tekin og færð aftast, án þess að breyta röð þeirra. Svona gengur þetta koll af kolli, þar til í síðasta skrefinu eru fyrstu $2021$ spjöldin tekin og færð aftast. Hvert er númer fremsta spjaldsins í lokin?",
+        "choice_a": "$1$",
+        "choice_b": "$1011$",
+        "choice_c": "$1012$",
+        "choice_d": "$2021$",
+        "correct_answer": "C",
+        "problem_types": ["fléttufræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Ef $a+b+c=3$, $a+b=1$ og $a+c=4$, hvað er þá $a$?",
+        "choice_a": "$-2$",
+        "choice_b": "$-1$",
+        "choice_c": "$1$",
+        "choice_d": "$2$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Stærðin $\\sqrt{89 + 12\\sqrt{55}}$ er jöfn:",
+        "choice_a": "$\\sqrt{5} + 4\\sqrt{11}$",
+        "choice_b": "$2 \\sqrt{5} + 3\\sqrt{11}$",
+        "choice_c": "$3 \\sqrt{5} + 2 \\sqrt{11}$",
+        "choice_d": "$4 \\sqrt{5} + \\sqrt{11}$",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Hver er síðasti tölustafurinn í $1^1+2^2+3^3+\\ldots + 2022^{2022}$?",
+        "choice_a": "0",
+        "choice_b": "2",
+        "choice_c": "7",
+        "choice_d": "9",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 8,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Hver er fjöldi leiða frá $(0,0)$ til $(4,3)$ með skrefunum til hægri $\\rightarrow$ og upp $\\uparrow$?",
+        "choice_a": "$22$",
+        "choice_b": "$24$",
+        "choice_c": "$35$",
+        "choice_d": "$128$",
+        "correct_answer": "C",
+        "problem_types": ["fléttufræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022",
+        "image": "game/static/images/problem_images/e2223d7.png"
+    },
+    {
+        "problem_text": "Fótbolti er samsettur úr 12 fimmhyrningum og 20 sexhyrningum. Hver hornpunktur liggur að nákvæmlega þremur marghyrningum. Hvað eru margir hornpunktar á fótbolta?",
+        "choice_a": "$30$",
+        "choice_b": "$60$",
+        "choice_c": "$90$",
+        "choice_d": "$180$",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Jafnan $x^3 - 8x^2 + 6x - 1 = 0$ í breytunni $x$ hefur þrjár rauntölulausnir $a, b, c$. Hvert er gildið á $a^2 + b^2 + c^2$?",
+        "choice_a": "52",
+        "choice_b": "64",
+        "choice_c": "80",
+        "choice_d": "96",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Gerum ráð fyrir að $n$ sé jákvæð heiltala þannig að $n$ gangi upp í $1 + 2 + \\cdots + n$. Hvað getum við sagt um $n$?",
+        "choice_a": "$n$ er slétt",
+        "choice_b": "$n$ er oddatala",
+        "choice_c": "$n$ er frumtala",
+        "choice_d": "$n = 1$",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Þríhyrningurinn $\\triangle BAC$ er jafnarma með hliðar $AB$ og $AC$ jafnlangar og $\\measuredangle BAC=40^{\\circ}$. Á strikinu $AB$ er punktur $D$ þannig að $\\measuredangle ACD = 15^{\\circ}$ og á strikinu $\\AC$ er punktur $E$ þannig að $\\measuredangle ABE = 35^{\\circ}$. Hver er stærð hornsins $\\angle AED$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 30,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022",
+        "image": "game/static/images/problem_images/e2223d15.png"
+    },
+    {
+        "problem_text": "Elvar á $9$ kubba sem númeraðir eru $1, 2, \\ldots, 9$. Hann langar að nota alla kubbana til að byggja þrjá turna úr $2$, $3$ og $4$ kubbum þannig að númerin á kubbununum í hverjum turn lækki upp á við. Hvað getur hann byggt turnana á marga vegu?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 1260,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Í hliðinni á sívalningslaga stálröri er örlítið gat. Innra borð rörsins er fullkomlega speglandi. Á hve marga vegu má miða leysigeisla inn í gatið þannig að það speglist nákvæmlega $24$ sinnum af innra borði rörsins áður en hann fer aftur út um gatið?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 20,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 7,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022",
+        "image": "game/static/images/problem_images/e2223d12.png"
+    },
+    {
+        "problem_text": "Hve margar talnanna $1,2,\\ldots, 2022$ eru deilanlegar með $3$ eða $5$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 944,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Hver er næsta fjögurra stafa tala á eftir 2022 þar sem aðeins tveir ólíkir tölustafir koma fyrir?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 2111,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Finnið þriggja stafa frumtölu þannig að margfeldi tölustafa hennar sé $112$.",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 827,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    },
+    {
+        "problem_text": "Finnið summu talna frá 1 upp í 2022 sem eru hvorki deilanlegar með 3 né 5.",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 1089453,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2022"
+    }
+]

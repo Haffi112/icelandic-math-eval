@@ -1,0 +1,64 @@
+[
+  {
+    "problem_text": "Á hve marga vegu má skipta eitt þúsund króna seðli í tíu króna,fimm króna og krónu peninga?",
+    "answer_type": "numeric",
+    "correct_answer_numeric": 10201,
+    "numeric_tolerance": 0,
+    "problem_types": ["talnafræði", "fléttufræði"],
+    "level": 5,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1984-1985 - forkeppni"
+  },
+  {
+    "problem_text": "Leysið jöfnuna$$\\left(3+2\\sqrt2\\right)^x+\\left(3-2\\sqrt2\\right)^x=4.$$",
+    "choice_a": "$$x=\\frac{\\ln\\left(2\\pm\\sqrt{3}\\right)}{\\ln a}=\\frac{\\ln\\left(2\\pm\\sqrt{3}\\right)}{\\ln(3-2\\sqrt{2})}.$$",
+    "choice_b": "$$x=\\frac{\\ln\\left(2\\pm\\sqrt3\\right)}{\\ln a}=\\frac{\\ln\\left(2\\pm\\sqrt3\\right)}{\\ln(3+2\\sqrt2)}.$$",
+    "choice_c": "$$x=\\frac{\\ln\\left(3\\pm\\sqrt{2}\\right)}{\\ln a}=\\frac{\\ln\\left(3\\pm\\sqrt{2}\\right)}{\\ln(3+2\\sqrt{2})}.$$",
+    "choice_d": "$$x=\\frac{\\ln\\left(2\\pm\\sqrt{3}\\right)}{\\ln a}=\\frac{\\ln\\left(2\\pm\\sqrt{3}\\right)}{\\ln(2+3\\sqrt{2})}.$$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 7,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1984-1985 - forkeppni"
+  },
+  {
+    "problem_text": "Tvær tölur $x$ og $y$ fullnægja jöfnunum$$\\frac{4^x}{2^y}=16, \\qquad \\frac{9^{x+y}}{3^{x+2}}=243.$$Finnið $x$ og $y$.",
+    "choice_a": "$x=3$ og $y=2$",
+    "choice_b": "$x=2$ og $y=3$",
+    "choice_c": "$x=3$ og $y=-2$",
+    "choice_d": "$x=-3$ og $y=2$",
+    "correct_answer": "A",
+    "problem_types": ["algebra"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1984-1985 - úrslitakeppni"
+  },
+  {
+    "problem_text": "Fyrir hvaða rauntölur gildir ójafnan$$\\frac{4x^2}{\\left(1-\\sqrt{1+2x}\\right)^2}<2x+9?$$",
+    "choice_a": "$-\\frac{1}{2}< x\\leq\\frac{45}{8}$ og $x\\neq 0$",
+    "choice_b": "$-\\frac{1}{2}\\leq x<\\frac{45}{8}$ og $x\\neq 1$",
+    "choice_c": "$-\\frac{1}{2}\\leq x\\leq\\frac{45}{8}$ og $x\\neq 0$",
+    "choice_d": "$-\\frac{1}{2}\\leq x<\\frac{45}{8}$ og $x\\neq 0$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1984-1985 - úrslitakeppni"
+  },
+  {
+    "problem_text": "Verksmiðja sem framleiðir kristalkúlur handa spákonum sendir hverja kúlu sérpakkaða í teningslaga kassa sem hefur (innri) hliðarlengd nákvæmlega jafna þvermáli kúlunnar.  Um hver áramót, þegar verksmiðjan sendir út spákúlur fyrir næsta ár, gefur hún föstum viðskiptavinum vasaútgáfu af spákúlunni, sem er það stór að hún passar nákvæmlega í eitt hornið á kassanum, þegar búið er að koma stóru kúlunni þar fyrir.  Hvað er þvermál minni kúlunnar ef þvermál hinnar er gefið (sem $D$)?",
+    "choice_a": "$$d=\\left(2+\\sqrt{3}\\right)D.$$",
+    "choice_b": "$$d=\\left(3-\\sqrt{2}\\right)D.$$",
+    "choice_c": "$$d=\\left(2-\\sqrt{3}\\right)D.$$",
+    "choice_d": "$$d=\\left(\\sqrt{3}-2\\right)D.$$",
+    "correct_answer": "C",
+    "problem_types": ["rúmfræði"],
+    "level": 7,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1984-1985 - úrslitakeppni"
+  },
+  {
+    "problem_text": "Hversu margar af náttúrlegu tölunum frá 1 til 1000 eru deilanlegar með að minnsta kosti einni af tölunum 3, 5 eða 7?",
+    "answer_type": "numeric",
+    "correct_answer_numeric": 543,
+    "numeric_tolerance": 0,
+    "problem_types": ["talnafræði"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1984-1985 - úrslitakeppni"
+  }
+]

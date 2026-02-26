@@ -1,0 +1,370 @@
+[
+  {
+    "problem_text": "Ef $m=1$ og $n=5$, hver eftirfarandi talna er þá stærst?",
+    "choice_a": "$m+n$",
+    "choice_b": "$\\frac{m}{n}$",
+    "choice_c": "$n-m$",
+    "choice_d": "$mn$",
+    "correct_answer": "A",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Þegar tölunni 15 er bætt við helming tölunnar $x$, þá fæst talan 39. Talan $x$ er þá",
+    "choice_a": "$108$",
+    "choice_b": "$54$",
+    "choice_c": "$48$",
+    "choice_d": "$12$",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Hver eftirfarandi talna er jöfn tölunni 24?",
+    "choice_a": "$(3^3+3)+\\frac{3}{3}$",
+    "choice_b": "$(33\\cdot 3)+\\frac{3}{3}$",
+    "choice_c": "$33-3+3+3$",
+    "choice_d": "$(3^3\\cdot\\frac{3}{3})-3$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Sex systkini hafa samanlagðan aldur 36 ár.  Þrem árum seinna er samanlagður aldur þeirra",
+    "choice_a": "39 ár",
+    "choice_b": "42 ár",
+    "choice_c": "45 ár",
+    "choice_d": "54 ár",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Þegar þríhyrningurinn á myndinni er speglaður um línuna gegnum punktana númer 4, 5 og 6 fæst þríhyrningur sem hefur hornpunkta númer",
+    "choice_a": "3, 4, 8",
+    "choice_b": "1, 4, 8",
+    "choice_c": "2, 4, 9",
+    "choice_d": "2, 6, 7",
+    "correct_answer": "A",
+    "problem_types": ["rúmfræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig",
+    "image": "game/static/images/problem_images/n8889d5.png"
+  },
+  {
+    "problem_text": "Tvö stofublóm standa í gluggakistu.  Annað blómið er 12 cm á hæð og vex um 2 cm á viku. Hitt er 3 cm á hæð og vex um 5 cm á viku.  Tíminn, í vikum, sem það tekur blómin að ná sömu hæð er",
+    "choice_a": "$18$",
+    "choice_b": "$9$",
+    "choice_c": "$6$",
+    "choice_d": "$3$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Fjöldi jákvæðra heilla talna $n$ sem uppfylla $0 < n^2 < 1000$ er",
+    "choice_a": "$30$",
+    "choice_b": "$31$",
+    "choice_c": "$32$",
+    "choice_d": "$62$",
+    "correct_answer": "B",
+    "problem_types": ["fléttufræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Þegar deilt er í aldur Árna með tölunum 2, 3, 4, 5 eða 6, þá gengur alltaf 1 af.  Árni getur verið",
+    "choice_a": "31 árs",
+    "choice_b": "41 árs",
+    "choice_c": "51 árs",
+    "choice_d": "61 árs",
+    "correct_answer": "D",
+    "problem_types": ["talnafræði"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Hverri hlið í $9\\times 12$ rétthyrningi er skipt í þrjá jafn stóra hluta og skiptipunktar tengdir með línustrikum eins og sýnt er á myndinni.  Ummál skyggða átthyrningsins er",
+    "choice_a": "$32$",
+    "choice_b": "$34$",
+    "choice_c": "$40$",
+    "choice_d": "$42$",
+    "correct_answer": "B",
+    "problem_types": ["rúmfræði"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig",
+    "image": "game/static/images/problem_images/n8889d9.png"
+  },
+  {
+    "problem_text": "Erlendur ferðamaður kaupir ullarpeysu fyrir 2000 krónur í búð á Húsavík.  Á heimleið fær hann söluskattinn endurgreiddan í flugstöð Leifs Eiríkssonar.  Ef söluskatturinn er 25%, þá fær hann krónur",
+    "choice_a": "$300$",
+    "choice_b": "$400$",
+    "choice_c": "$500$",
+    "choice_d": "$250$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Í ferhyrningi $ABCD$ er hliðin $AB$ jafn löng hliðinni $BC$ og hliðin $CD$ jafn löng hliðinni $DA$.  Ef hornið $\\angle ABC$ er $50^\\circ$ og hornið $\\angle BAD$ er $120^\\circ$, þá er hornið $\\angle ADC$",
+    "choice_a": "$30^\\circ$",
+    "choice_b": "$40^\\circ$",
+    "choice_c": "$60^\\circ$",
+    "choice_d": "$70^\\circ$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Í runu með sex tölum er fyrsta talan 4 og síðasta talan 47. Hver tala í rununni frá og með þeirri þriðju er summa næstu tveggja á undan.  Summa allra sex talnanna er",
+    "choice_a": "$52$",
+    "choice_b": "$91$",
+    "choice_c": "$100$",
+    "choice_d": "$116$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Ef $p$ og $q$ eru tölur á milli 0 og 1, þá gildir alltaf",
+    "choice_a": "$pq<1$",
+    "choice_b": "$p+q<1$",
+    "choice_c": "$\\frac{p}{q}<1$",
+    "choice_d": "$p+q>1$",
+    "correct_answer": "A",
+    "problem_types": ["algebra"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Hlutfallið á milli flatarmáls óskyggða svæðisins og flatarmáls skyggða svæðisins er",
+    "choice_a": "4:1",
+    "choice_b": "5:1",
+    "choice_c": "6:1",
+    "choice_d": "21:4$",
+    "correct_answer": "A",
+    "problem_types": ["rúmfræði"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig",
+    "image": "game/static/images/problem_images/n8889d14.png"
+  },
+  {
+    "problem_text": "Næsti liður í rununni $1, 5, 13, 29,\\ldots$ er",
+    "choice_a": "$51$",
+    "choice_b": "$59$",
+    "choice_c": "$61$",
+    "choice_d": "$71$",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Fjöldi heilla talna á milli 500 og 700 sem hafa þversummuna 12 er",
+    "choice_a": "11",
+    "choice_b": "12",
+    "choice_c": "13",
+    "choice_d": "15",
+    "correct_answer": "D",
+    "problem_types": ["fléttufræði"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Hringur og ferningur hafa sömu miðju og sama flatarmál.  Hringurinn sker eina hlið ferningsins í punktunum $A$ og $B$.  Ef geisli hringsins er 1, þá er lengd línustriksins $AB$",
+    "choice_a": "$2\\sqrt{1-\\frac{\\pi}{4}}$",
+    "choice_b": "$2\\sqrt{1+\\frac{\\pi}{4}}$",
+    "choice_c": "$\\sqrt{\\frac{4}{\\pi}-1}$",
+    "choice_d": "$\\sqrt{1-\\frac{\\pi}{4}}$",
+    "correct_answer": "A",
+    "problem_types": ["rúmfræði"],
+    "level": 5,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Opinn kassi er búinn til með því að líma saman teningslaga kubba sem eru 1 cm á kant.  Ef utanmál kassans er 10 cm $\\times$ 10 cm $\\times$ 10 cm  og hliðarnar og botninn 1 cm á þykkt, þá er fjöldi kubbanna",
+    "choice_a": "$424$",
+    "choice_b": "$460$",
+    "choice_c": "$464$",
+    "choice_d": "$488$",
+    "correct_answer": "A",
+    "problem_types": ["rúmfræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Í þríhyrningi er lengd einnar hliðar 7,4 og lengd annarrar 11. Lengd þriðju hliðarinnar er heil tala.  Minnsta mögulega gildi á lengd þriðju hliðarinnar er",
+    "choice_a": "$3$",
+    "choice_b": "$4$",
+    "choice_c": "$5$",
+    "choice_d": "$7$",
+    "correct_answer": "B",
+    "problem_types": ["rúmfræði"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Síðustu þrír stafirnir í tölunni $5^{101}$ eru",
+    "choice_a": "$005$",
+    "choice_b": "$025$",
+    "choice_c": "$125$",
+    "choice_d": "$525$",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Tölurnar $x$ og $y$ hafa gagnstæð formerki, $x+y+xy=-2$ og $x^2+y^2+x^2y^2=64$.  Þá er $xy$",
+    "choice_a": "$-8$",
+    "choice_b": "$-6$",
+    "choice_c": "$-\\sqrt{30}$",
+    "choice_d": "$-5$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Á hliðum þríhyrningsins $ABC$ eru valdir punktar $D$ á $AB$, $E$ á $AC$ og $F$ á $BC$ þannig að $|BF|=|DF|$ og $|EF|=|FC|$. Ef $\\angle BAC=40^\\circ$, hvað er þá $\\angle DFE$ margar gráður?",
+    "choice_a": "$100^\\circ$",
+    "choice_b": "$120^\\circ$",
+    "choice_c": "$80^\\circ$",
+    "choice_d": "$110^\\circ$",
+    "correct_answer": "A",
+    "problem_types": ["rúmfræði"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig",
+    "image": "game/static/images/problem_images/n8889d22.png"
+  },
+  {
+    "problem_text": "Tölustafirnir 1, 2, 3, 4, 5 og 6 eru allir notaðir til að skrifa sex stafa töluna $abcde\\!f$, sem hefur þá eiginleika að 4 ganga upp í $abc$, 5 ganga upp í $bcd$, 3 ganga upp í $cde$ og 11 ganga upp í $de\\!f$.  Finnið töluna $abcdef$.",
+    "answer_type": "numeric",
+    "correct_answer_numeric": 324561,
+    "numeric_tolerance": 0,
+    "problem_types": ["talnafræði"],
+    "level": 5,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - neðra stig"
+  },
+  {
+    "problem_text": "Ráðherra ætlar að skipa 4 manna nefnd úr hópi 9 valinkunnra sómamanna. Fjöldi mögulegra nefnda er ",
+    "choice_a": "$4032$",
+    "choice_b": "$3662$",
+    "choice_c": "$4008$",
+    "choice_d": "$126$",
+    "correct_answer": "D",
+    "problem_types": ["fléttufræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - efra stig"
+  },
+  {
+    "problem_text": "Þríhyrningarnir $BAC$ og $CDB$ hafa hliðarlengdir 3, 4 og 5 og skarast eins og sýnt er á myndinni.  Ef lengd $BC$ er 5, þá er flatarmál skyggða svæðisins",
+    "choice_a": "$3$",
+    "choice_b": "$3\\frac{3}{4}$",
+    "choice_c": "$4\\frac{1}{2}$",
+    "choice_d": "$4\\frac{11}{16}$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 6,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - efra stig",
+    "image": "game/static/images/problem_images/e8889d7.png"
+  },
+  {
+    "problem_text": "Ef $\\frac{2}{7}$ er skrifað sem tugabrot, þá er 1998. aukastafur",
+    "choice_a": "$2$",
+    "choice_b": "$5$",
+    "choice_c": "$7$",
+    "choice_d": "$8$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - efra stig"
+  },
+  {
+    "problem_text": "Látum $MON$ vera geira hrings sem hefur miðju í $O$ og geisla 6.  Ef hornið $\\angle MON$ er $60^\\circ$, þá er geisli hringsins gegnum punktana $M$, $O$ og $N$",
+    "choice_a": "$2\\sqrt{3}$",
+    "choice_b": "$3$",
+    "choice_c": "$6$",
+    "choice_d": "$2\\sqrt{3}$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 5,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - efra stig",
+    "image": "game/static/images/problem_images/e8889d9.png"
+  },
+  {
+    "problem_text": "Látum $f(x)=x^4-2x^2$.  Þá er summa allra talna $x$ sem uppfylla jöfnuna $f(f(x))=f(x)$ jöfn",
+    "choice_a": "$-\\sqrt{5}$",
+    "choice_b": "$-\\frac{1+\\sqrt{5}}{2}$",
+    "choice_c": "$0$",
+    "choice_d": "$1$",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - efra stig"
+  },
+  {
+    "problem_text": "Látum $a, b, c$ og $d$ vera jákvæðar heilar tölur sem fullnægja jöfnunum $$a^5=b^6, \\qquad c^3=d^4, \\qquad d-a=61.$$ Þá er $c-b$ jöfn",
+    "choice_a": "$61$",
+    "choice_b": "$93$",
+    "choice_c": "$382$",
+    "choice_d": "$593$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 7,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - efra stig"
+  },
+  {
+    "problem_text": "Tveir hringir með geisla 2 snertast.  Línan gegnum miðju hringanna sker þá í punktunum $A$ og $B$.  Gegnum punktana $A$ og $B$ eru dregnar snertilínur við annan hringinn eins og sýnt er á myndinni. Köllum skurðpunkt snertilínanna $C$.  Finnið lengd línustriksins $BC$.",
+    "choice_a": "$2\\sqrt2$",
+    "choice_b": "$2\\sqrt3$",
+    "choice_c": "$3$",
+    "choice_d": "$3\\sqrt{2}$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 6,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - efra stig",
+    "image": "game/static/images/problem_images/e8889d14.png"
+  },
+  {
+    "problem_text": "Látum $a, b, c, d$ og $e$ vera tölur þannig að $a < b < c < d < e$.  Þegar tölurnar eru lagðar saman tvær og tvær fást útkomurnar $$183, 186, 187, 190, 191, 192, 193, 194, 196, 200.$$ Finnið töluna $a$.",
+    "answer_type": "numeric",
+    "correct_answer_numeric": 91,
+    "numeric_tolerance": 0,
+    "problem_types": ["algebra"],
+    "level": 6,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1988-1989 - efra stig"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,279 @@
+[
+    {
+        "problem_text": "Hlaupbangsar kosta 12 krónur í sjoppu einni, en hægt er að fá þrjá bangsa fyrir 30 krónur. Hvað er hægt að fá marga bangsa fyrir 200 kall?",
+        "choice_a": "16",
+        "choice_b": "17",
+        "choice_c": "19",
+        "choice_d": "20",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Faðir Tóta er 24 árum eldri en Tóti og jafnframt er aldur föðurins þrefaldur aldur Tóta. Hver er samanlagður aldur feðganna?",
+        "choice_a": "24",
+        "choice_b": "36",
+        "choice_c": "48",
+        "choice_d": "60",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Myndhöggvarinn Hvítur, fiðluleikarinn Svartur og málarinn Rauður hittust á kaffihúsi. Einn þeirra mælir svo: ,,Ég er með svart hár, annar ykkar er rauðhærður og hinn hvíthærður en samt hefur enginn okkar sama nafn og háraliturinn.'' Þá segir Hvítur: ,,Þú hefur á réttu að standa.'' Hver er háralitur málarans?",
+        "choice_a": "hvítur",
+        "choice_b": "svartur",
+        "choice_c": "rauður",
+        "choice_d": "grár",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Myndin hér til hægri er búin til með því að þriðjunga miðstreng stóra hringsins og raða þeim fjórum hálfhringum sem myndast eins og á sést á myndinni. Hvert er flatarmál skyggða svæðisins, ef flatarmál hringsins er 1?",
+        "choice_a": "$\\frac{1}{3}$",
+        "choice_b": "$\\frac{1}{4}$",
+        "choice_c": "$\\frac{1}{6}$",
+        "choice_d": "$\\frac{\\pi}{9}$",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig",
+        "image": "game/static/images/problem_images/n03044.png"
+    },
+    {
+        "problem_text": "Ef $x - y = xy = 1 - x - y$, hvað er þá $x + y$?",
+        "choice_a": "$\\frac{1}{2}$",
+        "choice_b": "$\\frac{5}{6}$",
+        "choice_c": "$\\frac{7}{8}$",
+        "choice_d": "$\\frac{3}{4}$",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Hvor marga þúsundkalla má fá fyrir 1% af 1% af þúsund milljónum?",
+        "choice_a": "1",
+        "choice_b": "10",
+        "choice_c": "100",
+        "choice_d": "1000",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Ef þrír kaffibollar, ein kleina og tvær jólakökusneiðar kosta 1000 krónur, tveir kaffibollar og ein jólakökusneiðar kosta 600 krónur, hvað kosta þá fimm kaffibollar, þrjár kleinur og fjórar jólakökusneiðar?",
+        "choice_a": "1800",
+        "choice_b": "2000",
+        "choice_c": "2400",
+        "choice_d": "3000",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Hvað má finna marga þríhyrninga á myndinni?",
+        "choice_a": "10",
+        "choice_b": "25",
+        "choice_c": "30",
+        "choice_d": "fleiri en 30",
+        "correct_answer": "D",
+        "problem_types": ["fléttufræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig",
+        "image": "game/static/images/problem_images/n03048.png"
+    },
+    {
+        "problem_text": "Hver eftirfarandi talna er ekki jöfn hinum þremur?",
+        "choice_a": "$24^{24}$",
+        "choice_b": "$8^{24} \\cdot 9^{12}$",
+        "choice_c": "$2^{72} \\cdot 81^6$",
+        "choice_d": "$12^{48}$",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Gísli, Eirίkur og Helgi unnu lottóvinning. Þeir ákveða að skipta vinningnum milli sín, þannig að Gísli fái 10% meira en Eirίkur, en Eirίkur fái 10% meira en Helgi. Hlutfall Eirίks í heildarvinningnum er þá:",
+        "choice_a": "Nákvæmlega þriðjungur",
+        "choice_b": "Meira en þriðjungur",
+        "choice_c": "Minna en þriðjungur",
+        "choice_d": "Breytilegt eftir vinningsupphæð",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Tuttugu karamellum er skipt á milli nokkurra barna þannig að hvert barn fær að minnsta kosti eina karamellu og engin tvö börn fá jafnmargar. Hversu mörg geta börnin í mesta lagi verið?",
+        "choice_a": "5",
+        "choice_b": "6",
+        "choice_c": "8",
+        "choice_d": "10",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Stjórnmálamaður $A$ skrökvar á mánudögum, þriðjudögum og miðvikudögum, en segir satt aðra daga vikunnar. Stjórnmálamaður $B$ skrökvar á fimmtudögum, föstudögum og laugardögum, en segir satt aðra daga vikunnar. Einn daginn sögðu þeir báðir: ,,Í gær skrökvaði ég.'' Hvaða vikudagur var?",
+        "choice_a": "sunnudagur",
+        "choice_b": "mánudagur",
+        "choice_c": "miðvikudagur",
+        "choice_d": "fimmtudagur",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Margfeldi tölustafanna í aldri Gutta er núna sama jákvæða talan og það var fyrir sex árum. Eftir hversu mörg ár verður það aftur hið sama?",
+        "choice_a": "14",
+        "choice_b": "18",
+        "choice_c": "19",
+        "choice_d": "24",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Baktería fjölgar sér með því að skipta sér í tvennt og tekur það þrjár mínútur. Þegar ein slík baktería er sett á glerplötu fyllist platan af bakteríum á einni klukkustund. Hvað myndi taka hana margar mínútur að fyllast ef í upphafi væru settar á hana tvær bakteríur?",
+        "choice_a": "$\\sqrt{60}$",
+        "choice_b": "19",
+        "choice_c": "30",
+        "choice_d": "57",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Í leikskóla einum eru 50 börn. Öll börnin eru annað hvort bláeygð eða brúneygð og annað hvort ljóshærð eða dökkhærð. Ef 14 börn eru ljóshærð og bláeygð, 31 barn er dökkhært og 18 börn eru brúneygð, hversu mörg börn eru þá dökkhærð og brúneygð?",
+        "choice_a": "5",
+        "choice_b": "9",
+        "choice_c": "11",
+        "choice_d": "13",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Gefnar eru sex samliggjandi heiltölur. Summa annarrar, fjórðu og fimmtu tölunnar er 41. Hver er summa þriðju og sjöttu tölunnar?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 29,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Rut og Regína tóku sömu skyndiprófin um veturinn. Þær fengu sömu einkunn á síðasta skyndiprófinu. Meðaleinkunn Rutar úr skyndiprófunum hækkaði við þetta úr 83 stigum í 86 og meðaleinkunn Regínu hækkaði úr 88 stigum í 90. Hversu mörg skyndiprófin tók hvor um sig alls yfir veturinn?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 5,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Hvert er flatarmál skyggða svæðisins hér til hliðar, ef $ABCD$ er ferningur, $E$ og $F$ eru miðpunktar hliðanna $AD$ og $BC$, $AE$ og $BF$ eru geislar hringgeiranna sem hafa miðju í $A$ og $B$ og er þvermál skyggða hálfhringsins?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 32,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig",
+        "image": "game/static/images/problem_images/n030418.png"
+    },
+    {
+        "problem_text": "Ef Gutti og Jörmunrekur fara heiman frá sér á sama tíma og ganga hvor með sínum jafna hraða í áttina til hins, þá mætast þeir eftir 5 mínútur. Ef Gutti leggur 3 mínútum seinna af stað en Jörmunrekur, þá mætast þeir þegar Gutti er búinn að ganga í 3 mínútur. Hversu margar mínútur myndi hann vera að ganga alla leið heiman frá sér heim til Jörmunreks?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 15,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Í skóla eru hundrað nemendur og þrjár kennslustofur, $A$, $B$ og $C$. Í frímínútum skiptir helmingur nemendanna sem voru í stofu $A$ yfir í stofu $B$, $\\frac{1}{5}$ nemendanna sem voru í stofu $B$ fer yfir í stofu $C$ og $\\frac{1}{3}$ nemendanna sem voru í stofu $C$ fer yfir í stofu $A$. Heildarfjöldi nemenda í hverri stofu helst hins vegar óbreyttur. Hvað eru margir nemendur í stofu $A$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 20,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - neðra stig"
+    },
+    {
+        "problem_text": "Ef $2x - y = 1$, $2y - z = 2$ og $2z - x = 3$, hvað er þá $x + y + z$?",
+        "choice_a": "1",
+        "choice_b": "3",
+        "choice_c": "4",
+        "choice_d": "6",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - efra stig"
+    },
+    {
+        "problem_text": "Agnar lagði saman allar heilar tölur frá og með 1 til og með 100, en Baldur lagði saman allar heilar tölur frá og með 101 til og með 200. Hve miklu stærri er útkoma Baldurs?",
+        "choice_a": "100",
+        "choice_b": "5050",
+        "choice_c": "10.000",
+        "choice_d": "15.050",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - efra stig"
+    },
+    {
+        "problem_text": "Hver er summa hornanna $A$, $B$, $C$, $D$ og $E$ á myndinni hér til hliðar, í gráðum talið?",
+        "choice_a": "150",
+        "choice_b": "180",
+        "choice_c": "225",
+        "choice_d": "360",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - efra stig",
+        "image": "game/static/images/problem_images/e03049.png"
+    },
+    {
+        "problem_text": "Ef 12 smiðir byggja 3 hús á 20 dögum, hvað tekur þá marga daga fyrir 10 smiði að byggja 4 hús?",
+        "choice_a": "20",
+        "choice_b": "32",
+        "choice_c": "36",
+        "choice_d": "40",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - efra stig"
+    },
+    {
+        "problem_text": "Myndin hér til hliðar sýnir jafnhyrndan sexhyrning með hliðarlengdir 4, 8, 10, 14, 15 og 19, innritaðan inn í jafnhliða þríhyrning með hliðarlengd 37. Einnig er hægt að innrita sexhyrninginn inn í þríhyrning með aðra hliðarlengd. Hver er sú hliðarlengd?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 33,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - efra stig",
+        "image": "game/static/images/problem_images/e030412.png"
+    },
+    {
+        "problem_text": "Íbúarnir við Fífugötu ákváðu allir að endurnýja húsnúmerin sín og mættu í því skyni allir í sömu byggingavöruverslunina í einu. Nú vildi svo til að í versluninni voru aðeins til 100 eintök af hverjum tölustaf. Það kom hins vegar ekki að sök og allir héldu heim með réttu tölustafina til að setja á húsið sitt. Hvað geta húsin við Fífugötu í mesta lagi verið mörg?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 162,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2003-2004 - efra stig"
+    }
+]

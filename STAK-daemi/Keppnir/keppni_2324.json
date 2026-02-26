@@ -1,0 +1,140 @@
+[
+    {
+        "problem_text": "Í 16 manna teiti skáluðu allir gestir við alla hina nákvæmlega einu sinni. Hve oft var skálað?",
+        "choice_a": "$30$",
+        "choice_b": "$120$",
+        "choice_c": "$225$",
+        "choice_d": "$240$",
+        "correct_answer": "B",
+        "problem_types": ["fléttufræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023"
+    },
+    {
+        "problem_text": "Tveir hringir innan í ferning snerta hvorn annan og tvær af hliðum ferningsins hvor. Hringirnir hafa báðir geisla af lengd 1. Hver er hliðarlengd ferningsins?",
+        "choice_a": "$1+\\sqrt{2}$",
+        "choice_b": "$2+\\sqrt{2}$",
+        "choice_c": "$2-\\sqrt{2}$",
+        "choice_d": "$4+2\\sqrt{2}$",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023",
+        "image": "game/static/images/problem_images/n2324d1.png"
+    },
+    {
+        "problem_text": "Atli á helling af $1$kr. $5$kr. og $10$kr. myntum. Hann langar í tyggjó sem kostar $25$kr. Með hve mörgum ólíkum samsetningum getur hann borgað fyrir það?",
+        "choice_a": "$9$",
+        "choice_b": "$10$",
+        "choice_c": "$11$",
+        "choice_d": "$12$",
+        "correct_answer": "D",
+        "problem_types": ["fléttufræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023"
+    },
+    {
+        "problem_text": "Ákvarðið gildi stærðarinnar $1 + \\cfrac{1}{2 + \\cfrac{1}{2 + \\cfrac{1}{2 + \\ddots}}}$",
+        "choice_a": "$\\sqrt{2}$",
+        "choice_b": "$\\frac{1}{2}$",
+        "choice_c": "$\\sqrt{3}$",
+        "choice_d": "$\\frac{3}{2}$",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023"
+    },
+    {
+        "problem_text": "Askjan til hægri er rétthyrnd á alla kanta. Lengd hennar er $9$, breidd hennar $6$ og hæð hennar $2$. Hver er lengd brotastriksins frá horni í gagnstætt horn?",
+        "choice_a": "$9$",
+        "choice_b": "$10$",
+        "choice_c": "$11$",
+        "choice_d": "$12$",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023",
+        "image": "game/static/images/problem_images/n2324d2.png"
+    },
+    {
+        "problem_text": "Skoðum hringskífu með miðju í $(0,0)$ og geisla af óþekktri lengd. Við teljum fjölda punkta $(a,b)$ sem liggja innan í hringskífunni þannig að $a,b\\in\\mathbb{Z}$. Hvert af eftirfarandi gæti verið fjöldi punkta?",
+        "choice_a": "$2017$",
+        "choice_b": "$2018$",
+        "choice_c": "$2019$",
+        "choice_d": "$2020$",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023",
+        "image": "game/static/images/problem_images/n2324d10.png"
+    },
+    {
+        "problem_text": "Hvað er næsta ártal sem er frumtala?",
+        "choice_a": "$2025$",
+        "choice_b": "$2027$",
+        "choice_c": "$2028$",
+        "choice_d": "$2031$",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023"
+    },
+    {
+        "problem_text": "Inga á þríhyrninga, stjörnur og hringi. Tvö form af sömu gerð vega það sama. Vogirnar tvær hér að neðan eru í jafnvægi. Hvaða valkost mætti setja í stað spurningamerkis á þriðju voginni þannig að hún sé í jafnvægi?",
+        "choice_a": "Valkostur A",
+        "choice_b": "Valkostur B", 
+        "choice_c": "Valkostur C",
+        "choice_d": "Valkostur D",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023",
+        "image": "game/static/images/problem_images/e2324d14.png"
+    },
+    {
+        "problem_text": "Tveir mangarar eru jafn ríkir. Einn á 5 rúbína, 5 perlur og 90 gullpeninga. Hinn á 8 rúbína, 9 perlur og 48 gullpeninga. Rúbínar eru dýrari en perlur. Hvað er virði eins rúbíns og einnar perlu til samans í gullpeningum?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 13,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023"
+    },
+    {
+        "problem_text": "Hvað eru til margar heilar tölur $n$ þannig að $(n+1)(n-2)$ deili $(n+3)(n-4)$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 4,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023"
+    },
+    {
+        "problem_text": "Þríhyrningur $ABC$ er jafnhliða. Hálfhringurinn sem hefur miðstreng $\\lineseg{B}{C}$ og liggur sömu megin miðstrengsins og $A$. Hann sker hliðarnar $\\lineseg{A}{B}$ og $\\lineseg{A}{C}$ í $P \\neq B$ og $Q \\neq C$. Hver er stærð hornins $\\angle CPQ$ í gráðum talið?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 30,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023",
+        "image": "game/static/images/problem_images/e2324d7.png"
+    },
+    {
+        "problem_text": "Tóta á tening með hliðarlengd $7$. Hún á ferningslaga pappír sem hún ætlar að brjóta saman utan um tening (án þess að rífa) þannig að hann þeki allar hliðar teningsins. Brúnir pappírsins þurfa ekki að skarast. Pappírinn rétt dugar til að þekja teninginn. Hvert er flatarmál hans?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 392,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 7,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023"
+    },
+    {
+        "problem_text": "Í venjulegum spilastokki eru spil í 13 stærðum og hver stærð kemur fyrir í fjórum sortum (hjarta, spaða, tígli og laufi). Í spilinu Rommí er slagur 3 eða fleiri spil með sömu stærð eða slagur er 3 eða fleiri spil í röð af sömu sort. Hver er mesti fjöldi spila sem hægt er að hafa á hendi án þess að vera með slag?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 26,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2023"
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "problem_text": "Hver eftirfarandi talna er oddatala?",
+        "choice_a": "$3^4 + 2$",
+        "choice_b": "$5^4 + 3$",
+        "choice_c": "$7^4 + 5$",
+        "choice_d": "$11^4 + 7$",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Í fótboltaleik var stađan í hálfleik þannig að lið A var yfir á móti liði B, 3:2. Í seinni hálfleik voru svo skoruð sex mörk. Hvert af eftirfarandi hefði ekki getað verið úrslit leiksins?",
+        "choice_a": "Jafntefli",
+        "choice_b": "Lið B vann með 4 marka mun",
+        "choice_c": "Lið A vann með 2 marka mun",
+        "choice_d": "Lið A vann með 5 marka mun",
+        "correct_answer": "D",
+        "problem_types": ["fléttufræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Um tvær tölur $x$ og $y$ sem ekki eru núll gildir að margfeldi þeirra er tvöföld summa þeirra. Hver eftirfarandi jafna er þá rétt?",
+        "choice_a": "$\\frac{1}{x} + \\frac{1}{y} = 2$",
+        "choice_b": "$\\frac{1}{x+y} = 2xy$",
+        "choice_c": "$x = \\frac{2y}{2 - y}$",
+        "choice_d": "$\\frac{1}{x} + \\frac{1}{y} = \\frac{1}{2}$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Lítum á teninginn $ABCDEFGH$. Látum $P$ vera miðpunkt $BC$ og látum $Q$ vera miðpunkt $EF$. Hvert eftirfarandi hugtaka á þá ekki við um rúmmyndina $APHQ$?",
+        "choice_a": "Ferhyrningur",
+        "choice_b": "Samsíðungur",
+        "choice_c": "Tígull",
+        "choice_d": "Rétthyrningur",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig",
+        "image": "game/static/images/problem_images/n02034.png"
+    },
+    {
+        "problem_text": "Fjórir vinir fóru í veiđitúr. Þeir komu til baka með samtals ellefu fiska og allir höfðu veitt eitthvað. Hvert af eftirfarandi verður þá að vera satt?",
+        "choice_a": "Einhver veiddi nákvæmlega 3 fiska",
+        "choice_b": "Einhver veiddi færri en 3 fiska",
+        "choice_c": "Einhver veiddi fleiri en 3 fiska",
+        "choice_d": "Tveir af vinunum veiddu fleiri en 1 fisk",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Andri, Bjarki, Davíð, Einar og Gunnar sitja (í þessarri röð) kringum borð og leika ,,úps'': Þeir telja, hver á eftir öðrum, tölurnar frá og með 1, nema þegar kemur að tölu sem er deilanleg með 7 þá á að segja ,,úps'' í staðinn, annars er maður úr leik. Andri byrjar, og sá fyrsti sem gerir mistök reynist sá sem átti að segja níunda ,,úps''-ið. Hver var það?",
+        "choice_a": "Bjarki",
+        "choice_b": "Davíð",
+        "choice_c": "Einar",
+        "choice_d": "Gunnar",
+        "correct_answer": "B",
+        "problem_types": ["fléttufræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Á myndinni er $EF = FC$. $B$ er miðpunktur bogans $AC$. Ef $x$ er stærð hornsins $AEC$, hve stórt er þá hornið $ABC$?",
+        "choice_a": "$180^\\circ - 2x$",
+        "choice_b": "$180^\\circ - x$",
+        "choice_c": "$90^\\circ + x$",
+        "choice_d": "$90^\\circ + 2x$",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig",
+        "image": "game/static/images/problem_images/n02037.png"
+    },
+    {
+        "problem_text": "Þegar ein hliðarlengd tenings er stækkuð um 1 cm, önnur minnkuð um 1 cm og sú þriðja látin vera óbreytt, minnkar rúmmál teningsins um 12 cm$^3$. Hvert er yfirborðsflatarmál upphaflega teningsins (í cm$^2$)?",
+        "choice_a": "500",
+        "choice_b": "804",
+        "choice_c": "864",
+        "choice_d": "906",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Til þess að jafnan $8^{15} = 32^x$ sé sönn þarf gildi $x$ að vera",
+        "choice_a": "5",
+        "choice_b": "7",
+        "choice_c": "9",
+        "choice_d": "12",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Í söguprófi voru 30 krossaspurningar og gefin voru 5 stig fyrir sérhvert rétt svar, 1 stig fyrir autt svar og 0 stig fyrir sérhvert rangt svar. Fjórir nemendur voru að metast um árangur sinn í prófinu. A sagðist hafa fengið 139 stig, B sagðist hafa fengið 141 stig, C sagðist hafa fengið 143 stig, D sagðist hafa fengið 144 stig. Aðeins einn þeirra sagði rétt frá. Hver var það?",
+        "choice_a": "A",
+        "choice_b": "B",
+        "choice_c": "C",
+        "choice_d": "D",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Hver er lengd striksins $AC$ í reglulegum sexhyrningi $ABCDEF$ með hliðarlengd 2?",
+        "choice_a": "3",
+        "choice_b": "$\\sqrt{3}$",
+        "choice_c": "$2\\sqrt{3}$",
+        "choice_d": "$2\\sqrt{5}$",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Húsin við götu nokkra eru þannig staðsett að hvert hús er nákvæmlega andspænis öðru húsi hinu megin götunnar. Húsin eru númeruð $1, 2, 3,\\ldots$ o.s.frv. öðru megin götunnar og númeraröðin heldur síðan áfram til baka hinu megin götunnar. Hús númer 37 er andspænis húsi númer 64. Hve mörg hús eru í götunni?",
+        "choice_a": "98",
+        "choice_b": "100",
+        "choice_c": "102",
+        "choice_d": "104",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Ef $x^2 = x + 3$ þá er $x^3$ jafnt og",
+        "choice_a": "$x + 6$",
+        "choice_b": "$x^2 + 3x + 3$",
+        "choice_c": "$4x + 3$",
+        "choice_d": "$4x^2 + 3$",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "$\\frac{2002}{11 \\cdot 13}$ er",
+        "choice_a": "$5 \\cdot 11$",
+        "choice_b": "$2 \\cdot 7$",
+        "choice_c": "$3 \\cdot 7$",
+        "choice_d": "$5 \\cdot 3$",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "London og Bern eru í ólíkum tímabeltum. Hjá flugfélagi nokkru er tímaáætlunin þannig (miðað er við staðartíma): Bern brottför: 10:00, London koma: 10:40, London brottför: 11:30, Bern koma: 14:10. Hver er flugtíminn í mínútum milli þessara borga?",
+        "choice_a": "40",
+        "choice_b": "100",
+        "choice_c": "140",
+        "choice_d": "160",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Í ár er ártalið 2002 sem verður eins þótt lesið sé aftan frá. Hve mörg ártöl $1, 2, \\ldots, 2002$ hafa þennan eiginleika?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 119,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Hliðarlengdir þriggja ferninga eru ólíkar heiltölur, þannig að sami munur er á hliðarlengdum þess minnsta og miðferningsins annars vegar og miðferningsins og þess stærsta hins vegar. Ef mismunur flatarmála þess í miðið og hins minnsta er 31, hvert er þá flatarmál stærsta ferningsins?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 289,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Hversu margar náttúrlegar tölur minni en 20.000 eru hvort tveggja í senn, ferningstölur og teningstölur? (Dæmi um slíka tölu er 64 þar að $64 = 8^2 = 4^3$)",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 5,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Látum $a$, $b$, $c$ vera jákvæðar rauntölur þannig að $ab = c$, $bc = 12$ og $b = 3c$. Hvert er margfeldið $abc$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 4,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - neðra stig"
+    },
+    {
+        "problem_text": "Hversu margir þríhyrningar eru til sem hafa hornpunkta í einhverjum af punktunum tólf í grindinni hér til hliðar?",
+        "choice_a": "64",
+        "choice_b": "204",
+        "choice_c": "220",
+        "choice_d": "256",
+        "correct_answer": "B",
+        "problem_types": ["fléttufræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - efra stig",
+        "image": "game/static/images/problem_images/e02036.png"
+    },
+    {
+        "problem_text": "Tölurnar $2002, 2001, 2000, 1999, \\ldots, 3, 2, 1$ eru skrifaðar upp hver á eftir annarri. Hvaða tölustafur lendir í $2002.$ sæti?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 5,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - efra stig"
+    },
+    {
+        "problem_text": "Látum $ABCD$ vera fjórhliðunginn hér til hliðar, þar sem $O$ er skurðpunktur hornalínanna $AC$ og $BD$. Ef flatarmál $AOB$ er 3, flatarmál $BOC$ er 6 og flatarmál $COD$ er 2, hvert er þá flatarmál $DOA$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 1,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 7,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2002-2003 - efra stig",
+        "image": "game/static/images/problem_images/e020312.png"
+    }
+]

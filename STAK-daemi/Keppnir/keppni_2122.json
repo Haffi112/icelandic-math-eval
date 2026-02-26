@@ -1,0 +1,283 @@
+[
+    {
+        "problem_text": "Hversu langt er sigtið?",
+        "choice_a": "15 cm",
+        "choice_b": "7 cm",
+        "choice_c": "17 cm",
+        "choice_d": "20 cm",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021",
+        "image": "game/static/images/problem_images/n2122d1.png"
+    },
+    {
+        "problem_text": "Hvert eftirtaldra brota er stærst?",
+        "choice_a": "$\\frac{4+3}{2}$",
+        "choice_b": "$\\frac{4}{3+2}$",
+        "choice_c": "$\\frac{3+2}{4}$",
+        "choice_d": "$\\frac{3}{4+2}$",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Með því að raða þessu rétt saman fæst reikningsdæmi. Hver er útkoman úr því dæmi?",
+        "choice_a": "22",
+        "choice_b": "32",
+        "choice_c": "41",
+        "choice_d": "122",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021",
+        "image": "game/static/images/problem_images/n2122d2.png"
+    },
+    {
+        "problem_text": "Nokkrar vinkonur eiga saman poka af karamellum og borða úr honum á fjórum dögum en skilja síðan afganginn eftir. Á fyrsta degi borða þær $\\frac{1}{2}$ af karamellunum í pokanum. Á öðrum degi borða þær $\\frac{2}{3}$ af karamellunum sem eftir eru. Á þriðja degi borða þær $\\frac{3}{4}$ af karamellunum sem eftir eru. Á fjórða degi borða þær $\\frac{4}{5}$ af karamellunum sem eftir eru. Hvað voru í minnsta lagi margar karamellur í pokanum í upphafi, áður en vinkonurnar byrjuðu að borða þær?",
+        "choice_a": "60",
+        "choice_b": "120",
+        "choice_c": "180",
+        "choice_d": "240",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Jákvæð heiltala kallast spegiltala ef hana má lesa eins aftur á bak og áfram. Talan 13931 er dæmi um spegiltölu. Finndu næstu spegiltölu á eftir 13931 og leggðu saman alla tölustafi hennar. Hver er útkoman?",
+        "choice_a": "8",
+        "choice_b": "10",
+        "choice_c": "11",
+        "choice_d": "14",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Hver af eftirtöldum tölum er summa af þremur samliggjandi tölum (tölum í röð)?",
+        "choice_a": "178",
+        "choice_b": "191",
+        "choice_c": "225",
+        "choice_d": "259",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Hvaða ljósgrái kubbur var notaður? (Gefið er að það var ekki E)",
+        "choice_a": "A",
+        "choice_b": "B",
+        "choice_c": "C",
+        "choice_d": "D",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021",
+        "image": "game/static/images/problem_images/e2122d6.png"
+    },
+    {
+        "problem_text": "Ef $m+1=\\frac{n-2}{3}$, hvert er þá gildið á $3m-n$?",
+        "choice_a": "$-1$",
+        "choice_b": "$-5$",
+        "choice_c": "$-3$",
+        "choice_d": "$-9$",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Hve margar heilar tölur milli 100 og 300 eru margfeldi af bæði 5 og 7, en eru ekki margfeldi af 10?",
+        "choice_a": "1",
+        "choice_b": "2",
+        "choice_c": "3",
+        "choice_d": "4",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Ef $2=4^{2x}$, þá er $x$ jafnt og",
+        "choice_a": "0",
+        "choice_b": "$\\frac{1}{4}$",
+        "choice_c": "$\\frac{1}{2}$",
+        "choice_d": "1",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Regína raðar tölustöfunum 1,2,3,4,5,6,7 í reitina til hægri. Tölurnar við slaufusvigana standa fyrir summu nágrannatalna. Hvaða tölustafur verður að standa í gráa reitnum til að þetta gangi upp?",
+        "choice_a": "2",
+        "choice_b": "3",
+        "choice_c": "4",
+        "choice_d": "5",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021",
+        "image": "game/static/images/problem_images/n2122d5.png"
+    },
+    {
+        "problem_text": "Í Húsdýragarðinum telur Anna kýr og hesta, samtals 12 dýr. Breki telur kýr og grísi, samtals 22 dýr. Díana telur hesta og grísi, samtals 24 dýr. Einar telur kýr, hesta og grísi. Hvaða tölu fær hann?",
+        "choice_a": "26",
+        "choice_b": "29",
+        "choice_c": "34",
+        "choice_d": "48",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Í dæminu hér til hliðar standa $P$, $Q$ og $R$ fyrir ólíkar jákvæðar heiltölur (allar minni en 10). Hvert er gildið á $P+Q+R$?",
+        "choice_a": "13",
+        "choice_b": "12",
+        "choice_c": "14",
+        "choice_d": "3",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021",
+        "image": "game/static/images/problem_images/n2122d13.png"
+    },
+    {
+        "problem_text": "Á myndinni er $\\triangle PQR$ rétthyrndur með $Q$ rétt og $\\measuredangle QPR=54$°. Punktur $S$ liggur á $PQ$ þannig að $\\measuredangle PRS=\\measuredangle SRQ$. Hvað er $\\measuredangle QSR$ stórt?",
+        "choice_a": "18°",
+        "choice_b": "36°",
+        "choice_c": "54°",
+        "choice_d": "72°",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021",
+        "image": "game/static/images/problem_images/e2122d12.png"
+    },
+    {
+        "problem_text": "Auðun álfur og Trausti tröll hittast. Auðun segir alltaf satt og Trausti lýgur alltaf. Báðir segja nákvæmlega sömu setninguna. Hvaða setning getur það verið?",
+        "choice_a": "Við segjum báðir satt",
+        "choice_b": "Ég lýg alltaf",
+        "choice_c": "Ég segi satt",
+        "choice_d": "Annar okkar segir satt og hinn lýgur",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Á myndinni er ferningur með hliðarlengd 2. Þrír hálfhringir skerast í miðjum ferningnum. Hvert er flatarmál skyggða svæðisins?",
+        "choice_a": "$2-\\frac{\\pi}{2}$",
+        "choice_b": "$4-\\pi$",
+        "choice_c": "$4-\\frac{3\\pi}{4}$",
+        "choice_d": "$\\frac{\\pi}{2}$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021",
+        "image": "game/static/images/problem_images/e2122d7.png"
+    },
+    {
+        "problem_text": "Íssali nokkur býr dag einn til 20 kg af ísblöndu. Hann selur stóra og litla ísa. Lítill ís kostar 12 kr. og er 2 ískúlur en stór kostar 16 kr. og er 3 ískúlur. Úr einu kg af ísblöndu fást 12 ískúlur. Í lok dagsins hefur hann selt allan ísinn fyrir 1376 kr. Hvað hefur hann selt marga stóra ísa þann dag?",
+        "choice_a": "17",
+        "choice_b": "24",
+        "choice_c": "32",
+        "choice_d": "43",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Á hvaða tölustaf endar $2^{2021}$?",
+        "choice_a": "2",
+        "choice_b": "4",
+        "choice_c": "6",
+        "choice_d": "8",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Blær ekur 42 km til vinnu. Vegna framkvæmda kemst hán aðeins með hraða 12 km/klst fyrstu 21 km. Hve hratt þarf hán að aka seinni 21 km leiðarinnar til að ná meðalhraða 20 km/klst fyrir alla leiðina?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 60,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Hver er stærsta frumtalan sem gengur upp í $4^{11}-2^{12}$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 31,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Gerum ráð fyrir að $x$ og $y$ séu rauntölur þannig að $xy = 3$. Hvert er minnsta gildið sem $x^2 + y^2$ getur haft?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 6,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Alls sitja 25 riddarar við hringborð. Þrír riddarar eru valdir af handahófi til að fást við erfiðan dreka. Á hve marga vegu má velja þessa þrjá, þannig að a.m.k. tveir þeirra sitji hlið við hlið?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 550,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Fyrstu tvö stök heiltalnarunu eru $1$ og $3$. Næsta stak í rununni er fundið með því að reikna mismun síðustu tveggja staka, $3-1=2$ og svo á sama hátt, $2-3 = -1$ og svo framvegis þannig að runan byrjar svona $1, 3, 2, -1, \\ldots$ Hvert er þá stak númer 2021 í rununni?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": -3,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Á hve marga vegu má raða níu ásum inn í venjulegt Sudoku? Engir tveir ásar mega vera í sama dálki eða sömu línu, né í sama $3\\times3$ ferningi með þykkri rönd.",
+        "choice_a": "40320",
+        "choice_b": "46656",
+        "choice_c": "50000",
+        "choice_d": "65536",
+        "correct_answer": "B",
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Tveir kúlulaga boltar liggja á gólfi og snertast í einum punkti. Annar hefur þvermál $198$ cm og hinn hefur þvermál $126$ cm. Í hvaða hæð frá gólfinu er snertipunktur boltanna tveggja?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 77,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    },
+    {
+        "problem_text": "Edda á snjallsíma sem er rétthyrndur með hlutfall lengdar og breiddar $2 : 1$. Á horni rétthyrnds borðs vegur sími Eddu salt og er næstum dottinn fram af. Hversu stór hluti bakhliðar símans getur staðið fram af borðinu í mesta lagi án þess að hann detti? Síminn dettur ef miðja hans er utan borðflatarins.",
+        "choice_a": "$\\frac{1}{2}$",
+        "choice_b": "$\\frac{5}{8}$",
+        "choice_c": "$\\frac{3}{4}$",
+        "choice_d": "$\\frac{7}{8}$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2021"
+    }
+]

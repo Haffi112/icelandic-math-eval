@@ -1,0 +1,222 @@
+[
+    {
+        "problem_text": "Fyrir náttúrlega tölu $n$, með rithátt $a_1a_2a_3\\ldots a_k$ í tugakerfi, skilgreinum við snjóboltaveldi tölunnar, táknað $S(n)$, sem töluna $((a_1^{a_2})^{a_3\\ldots})^{a_k}$. Hve margar talnanna $1$, $2$, $\\ldots$, $2008$ hafa snjóboltaveldi sem er ekki $1$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 728,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2007-2008 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Ef í einum og sama mánuðinum eru þrír þriðjudagar sem lenda á mánaðardegi sem er slétt tala, hvaða vikudagur er þá 21. dagur þess mánaðar?",
+        "choice_a": "Sunnudagur",
+        "choice_b": "Laugardagur", 
+        "choice_c": "Föstudagur",
+        "choice_d": "Fimmtudagur",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Kaupmaður hækkar vöru um 25%, en ákveður svo að lækka vöruna aftur í upphaflegið verð. Um hve mörg prósent lækkar þá varan?",
+        "choice_a": "15%",
+        "choice_b": "20%",
+        "choice_c": "25%",
+        "choice_d": "fer eftir verði",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Fána er skipt í tvær rendur af sömu breidd. Hvorri rönd er skipt í jafna hluta sem sumir eru litaðir gráir eins og myndin sýnir (efri röndinni skipt í brennt, en þeirri neðri í tvennt). Hve stór hluti fánans er grár?",
+        "choice_a": "$\\frac{1}{2}$",
+        "choice_b": "$\\frac{2}{3}$",
+        "choice_c": "$\\frac{3}{5}$",
+        "choice_d": "$\\frac{7}{12}$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig",
+        "image": "game/static/images/problem_images/e07081.png"
+    },
+    {
+        "problem_text": "Ef $x + y = 0$ og $x \\neq 0$, hvert er gildið á $\\frac{x^{2007}}{y^{2007}}$?",
+        "choice_a": "$-2007$",
+        "choice_b": "$-1$",
+        "choice_c": "$1$",
+        "choice_d": "$2007$",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Tveir hringar hafa sameiginlega miðju. Strengur í stærri hringnum er jafnframt snertill minni hrings og af lengd 12. Hve stórt er flatarmál kragans milli hringanna?",
+        "choice_a": "$24\\pi$",
+        "choice_b": "$32\\pi$",
+        "choice_c": "$36\\pi$",
+        "choice_d": "$48\\pi$",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig",
+        "image": "game/static/images/problem_images/e07082.png"
+    },
+    {
+        "problem_text": "Gerum ráð fyrir að $x$ og $y$ séu ekki núll og $xy = \\frac{x}{y} = x - y$. Hvert er gildið á $x + y$?",
+        "choice_a": "$-\\frac{3}{2}$",
+        "choice_b": "$-\\frac{1}{2}$",
+        "choice_c": "$\\frac{1}{2}$",
+        "choice_d": "$\\frac{3}{2}$",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 7,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Summa sjö samliggjandi heiltalna (sjö heiltölur í röð) er 630. Hversu margar þeirra eru frumtölur (prímtölur)?",
+        "choice_a": "0",
+        "choice_b": "1",
+        "choice_c": "2",
+        "choice_d": "3",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Sex eins hringjum er raðað þétt saman til að mynda þríhyrningslaga heild, eins og myndin sýnir. Ef hæð uppröðuninnar er 2, hver er þá geisli hvers hrings?",
+        "choice_a": "$\\frac{1}{1 + \\sqrt{3}}$",
+        "choice_b": "$\\frac{2}{1 + \\sqrt{3}}$",
+        "choice_c": "$\\frac{1}{2 + \\sqrt{3}}$",
+        "choice_d": "$\\frac{2}{2 + \\sqrt{3}}$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 8,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig",
+        "image": "game/static/images/problem_images/e07083.png"
+    },
+    {
+        "problem_text": "Sérhver eftirfarandi fullyrðinga er annaðhvort sönn eða ósönn: (A) Fullyrðing (C) og (D) eru báðar sannar. (B) Fullyrðingar (A) og (C) eru báðar ósannar. (C) Fullyrðing (A) er sönn. (D) Fullyrðing (C) er ósönn. Hve margar þessara fullyrðinga eru sannar?",
+        "choice_a": "0",
+        "choice_b": "1",
+        "choice_c": "2",
+        "choice_d": "3",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 8,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Stigi er reistur upp við vegg. Hann rennur niður á við og nemur á leiðinni við vegginn og jörðina. Hver er ferill miðpunks stígans?",
+        "choice_a": "Beinn strik",
+        "choice_b": "Hringur",
+        "choice_c": "Parabóla",
+        "choice_d": "Ellipsa",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 7,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig",
+        "image": "game/static/images/problem_images/e07084.png"
+    },
+    {
+        "problem_text": "Sívalningur er 3cm að ummáli og 16cm að lengd. Þráður er vafinn nákvæmlega 4 sinnum um sívalninginn frá öðrum endanum til hins. Hversu langur þarf þráðurinn að vera?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 20,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Gutti hyggst lita rúðustríkaðan ferning, með 10 láréttum línum og 10 lóðréttum dálkum. Hann byrjar á því að lita allan 1. dálkinn bláan, síðan litar hann alla 1. línuna rauða, því næst litar hann allan 2. dálkinn bláan, svo alla 2. línuna rauða, næst allan 3. dálkinn bláan og alla 3. línuna rauða o.s.frv. þar til hann hefur lokið við að lita ferninginn. Ef við gerum ráð fyrir að hver reitur hafi þann lit sem hann fékk síðast, hve margir reitir ferningsins verða þá bláir?",
+        "choice_a": "45",
+        "choice_b": "50", 
+        "choice_c": "55",
+        "choice_d": "60",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Ef $a + b = 2$ og $a^2 + b^2 = 5$ hvert er þá gildið á $a^3 + b^3$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 11,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Í öskju eru 30 tvílitar kúlur. 12 kúlur eru rauðar og bláar, 10 kúlur eru bláar og grænar, 8 kúlur eru grænar og rauðar. Hver er lágmarksfjöldi af kúlum sem taka þarf úr öskjunni til þess að víst sé að teknar séu a.m.k. 7 kúlur sem hafa einn sameiginlegan lit?",
+        "choice_a": "16",
+        "choice_b": "19",
+        "choice_c": "22", 
+        "choice_d": "25",
+        "correct_answer": "B",
+        "problem_types": ["fléttufræði"],
+        "level": 7,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Bjarni skrifaði niður allar jákvæðar heiltölur sem innihalda allt að sjö tölustafi og þá eingöngu 0 og 1. Hversu oft skrifaði Bjarni töluna 1?",
+        "choice_a": "127",
+        "choice_b": "254",
+        "choice_c": "381",
+        "choice_d": "508",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 8,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Er til fjögurra stafa tala, sem skrifuð er $abcd$ í tugakerfinu, og er þannig að mismunur hennar og viðsnúnu tölunnar $dcba$ er 2007?",
+        "choice_a": "Já, til dæmis 2580",
+        "choice_b": "Já, til dæmis 3691",
+        "choice_c": "Já, til dæmis 5803",
+        "choice_d": "Nei, engin slík tala er til",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 9,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Tveir strengir gefins hrings, $AB$ og $CD$ skerast undir réttu horni í punkti $E$. Einnig er gefið að $AE = 12$, $DE = 4$ og $CE = 6$. Finnið flatarmál hringsins.",
+        "choice_a": "Flatarmál = $65\\pi$",
+        "choice_b": "Flatarmál = $169\\pi$", 
+        "choice_c": "Flatarmál = $225\\pi$",
+        "choice_d": "Flatarmál = $289\\pi$",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 9,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig",
+        "image": "game/static/images/problem_images/e07085.png"
+    },
+    {
+        "problem_text": "Anna og Birna taka þátt í 500 þrauta keppni sem stendur í tvo daga. Hver rétt leyst þraut gefur eitt stig og því er hægt að fá 500 stig ef allar þrautir eru leystar. Fjöldi þrauta eru gefin tvær þraut þar sem anna við á hvorum degi, en verða að reyna við a.m.k. eina þraut hvorn dag. Anna fékk 160 stig af 300 stigum á fyrri degi og 140 stig af 200 á seinni degi. Hlutfallsleg frammistaða Birnu er lakari en Önnu á hvorum degi. Hver er mesti stigafjöldi sem Birna getur hugsanlega fengið?",
+        "choice_a": "298",
+        "choice_b": "299",
+        "choice_c": "300",
+        "choice_d": "301",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 9,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig"
+    },
+    {
+        "problem_text": "Myndin sýnir tvo misstóra hringi þar sem minni hringurinn snertir þann stærri að innanverðu í punkti $T$ og streng $AB$ í stærri hringnum sem snertir minni hringinn í punkti $P$. Sannið að línan $TP$ skipti horninu $\\angle ATB$ til helminga.",
+        "choice_a": "Sannað með hornasetningu í hring",
+        "choice_b": "Sannað með snertisetningunni",
+        "choice_c": "Sannað með Pythagoras",
+        "choice_d": "Þarf flóknari sönnun",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 10,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - efra stig",
+        "image": "game/static/images/problem_images/e07086.png"
+    }
+]

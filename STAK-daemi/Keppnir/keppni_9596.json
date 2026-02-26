@@ -1,0 +1,172 @@
+[
+    {
+        "problem_text": "Tvær ólíkar tölur eru valdar úr $-9$, $-7$, $-5$, 2, 4 og 6.  Ef þær eru margfaldaðar saman, þá er lægsta mögulega gildið á útkomunni",
+        "choice_a": "-63",
+        "choice_b": "-54",
+        "choice_c": "-18",
+        "choice_d": "8",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - forkeppni"
+    },
+    {
+        "problem_text": "Ef $a=b=c$ og $a+b+c=1$, þá er gildið á $$\\left(1+\\frac{1}{a}\\right)\\left(1+\\frac{1}{b}\\right) \\left(1+\\frac{1}{c}\\right)$$",
+        "choice_a": "8",
+        "choice_b": "$\\frac{64}{27}$",
+        "choice_c": "27",
+        "choice_d": "64",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - forkeppni"
+    },
+    {
+        "problem_text": "Gerum ráð fyrir að allir ráðherrar séu þingmenn og að sumir lögfræðingar séu ráðherrar.  Hverjar eftirtalinna fullyrðinga hljóta þá að vera réttar: X: Allir þingmenn eru lögfræðingar. Y: Sumir lögfræðingar eru þingmenn. Z: Til eru lögfræðingar sem eru ekki ráðherrar.",
+        "choice_a": "Aðeins X",
+        "choice_b": "Aðeins Y",
+        "choice_c": "Aðeins Z",
+        "choice_d": "Aðeins Y og Z",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Sexhyrnd stjarna er mynduð með því að framlengja hliðarnar í reglulegum sexhyrningi.  Ef ummál sexhyrningsins er 21, þá er ummál stjörnunnar",
+        "choice_a": "$49$",
+        "choice_b": "$31\\frac{1}{2}$",
+        "choice_c": "$42$",
+        "choice_d": "$40$",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Mamma og hjúkrunarkonan þurfa að vigta Gutta í fjögurra ára skoðuninni.  Gutti vildi aldrei vera kyrr á vigtinni, gretti sig og bara hló.  Að lokum gripu þær til þess ráðs að mamma sté á vigtina og hélt á Gutta, og hjúkrunarkonan las 78 kg, síðan hélt hjúkrunarkonan á Gutta og mamma las 97 kg og að endingu hélt mamma á hjúkrunarkonunni og Gutti las 141 kg af vigtinni.  Hvað er Gutti þungur?",
+        "choice_a": "34 kg",
+        "choice_b": "17 kg",
+        "choice_c": "20 kg",
+        "choice_d": "14 kg",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Sjöunda rót tölunnar $7^{(7^7)}$ er",
+        "choice_a": "$7^7$",
+        "choice_b": "$7^{(7^7-1)}$",
+        "choice_c": "$7^{(6^7)}$",
+        "choice_d": "$7^{(7^6)}$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Ef $3^x+2^y=985$ og $3^x-2^y=473$, þá er $x+y$ jafnt",
+        "choice_a": "12",
+        "choice_b": "13",
+        "choice_c": "14",
+        "choice_d": "15",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Jörmunrekur og Gutti eru í leik þannig að fyrir framan þá er hrúga með $41$ eldspýtu, og fer leikurinn þannig fram að þeir skiptast á að taka eldspýtur úr hrúgunni.  Í hvert skipti má taka 1, 2, 3, 4 eða 5 eldspýtur.  Sá tapar sem tekur síðustu eldspýtuna.  Gutti hóf leikinn og tryggði sér strax sigur.  Hvað tók Gutti margar eldspýtur í fyrsta sinn?",
+        "choice_a": "1",
+        "choice_b": "2",
+        "choice_c": "3",
+        "choice_d": "4",
+        "correct_answer": "D",
+        "problem_types": ["fléttufræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Stærðtáknið $$\\frac{1}{\\sqrt{a+1}-\\sqrt{a}}-\\frac{1}{\\sqrt{a+1}+\\sqrt{a}},$$ er jafnt",
+        "choice_a": "$\\sqrt{a+1}$",
+        "choice_b": "$\\sqrt{a}$",
+        "choice_c": "$2\\sqrt{a+1}$",
+        "choice_d": "2\\sqrt{a}$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Rétthyrningi með kantlengdirnar 5 og 10 er skipt í fjóra þríhyrninga eins og myndin sýnir.  Flatarmál tveggja þríhyrninga er sýnt á myndinni. Flatarmál svæðisins sem merkt er með $A$ er",
+        "choice_a": "7",
+        "choice_b": "9",
+        "choice_c": "14",
+        "choice_d": "17",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - forkeppni",
+        "image": "game/static/images/problem_images/n9596d2.png"
+    },
+    {
+        "problem_text": "Ef við skrifum heilu tölurnar frá 1 upp að 999 (báðar meðtaldar) niður á blað, hvað höfum við þá skrifað tölustafinn 0 oft?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 189,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - forkeppni"
+    },
+    {
+        "problem_text": "Skrifum samlægar sléttar tölur, 31 talsins,  í röð þannig að síðasta talan sé jöfn summu 13. og 15. talnanna.  Hver er miðtalan í röðinni?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 38,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - forkeppni"
+    },
+    {
+        "problem_text": "Hver er 1995. aukastafurinn þegar almenna brotið $\\frac{1}{13}$ er skrifað sem tugabrot?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 6,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - forkeppni"
+    },
+    {
+        "problem_text": "Þríhyrningurinn $ABC$ á myndinni er rétthyrndur, auk þess er$|DE|=\\frac{1}{4}|AB|$.  Hvað er flatarmál skyggða rétthyrnda ferhyrningsins stór hluti af flatarmáli þríhyrningsins?",
+        "choice_a": "$\\frac{3}{8}$",
+        "choice_b": "$\\frac{3}{16}$",
+        "choice_c": "$\\frac{1}{8}$",
+        "choice_d": "4",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - forkeppni",
+        "image": "game/static/images/problem_images/n9596d19.png"
+    },
+    {
+        "problem_text": "Talnamengin $A_1, A_2, A_3,\\ldots$ eru mynduð samkvæmt eftirfarandi mynstri: $$A_1=\\{1\\},\\, A_2=\\{2, 3\\},\\, A_3=\\{4, 5, 6\\},\\, A_4=\\{7, 8, 9, 10\\}, \\ldots$$.  Hver er summa talnanna í menginu $A_{21}$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 4641,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - forkeppni"
+    },
+    {
+        "problem_text": "Hver eftirtalinna margliða gengur upp í $x^{17}-4x^{15}-x^3+4$?",
+        "choice_a": "$x+2$",
+        "choice_b": "$x-2$",
+        "choice_c": "$x+1$",
+        "choice_d": "$x-1$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1995-1996 - forkeppni"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "problem_text": "Þversumma jákvæðrar heiltölu er skilgreind sem summa tölustafa hennar. Til dæmis hefur talan 12345 þversummuna 15 og talan 2007 þversummuna 9. Hve margar tölur minni en 2007 hafa þversummuna 9?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 100,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2006-2007 - úrslitakeppni"
+    }
+]

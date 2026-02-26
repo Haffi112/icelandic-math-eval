@@ -1,0 +1,187 @@
+[
+    {
+        "problem_text": "Í dag, 18.~október 1994, er sólarupprás í Reykjavík kl.~8:26 fyrir hádegi og sólarlag kl.~5:59 eftir hádegi. Í dag er sólin á lofti í Reykjavík í",
+        "choice_a": "573 mínútur",
+        "choice_b": "513 mínútur",
+        "choice_c": "147 mínútur",
+        "choice_d": "633 mínútur",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Talan $\\left( 3\\frac{1}{3}\\right)^2$ er jöfn tölunni",
+        "choice_a": "$11\\frac{1}{9}$",
+        "choice_b": "$9\\frac{1}{9}$",
+        "choice_c": "$\\frac{16}{9}$",
+        "choice_d": "$\\frac{100}{3}$",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Hver er minnsti hugsanlegi fjöldi barna í fjölskyldu þar sem hvert barn á að minnsta kosti tvo bræður og þrjár systur?",
+        "choice_a": "4",
+        "choice_b": "5",
+        "choice_c": "6",
+        "choice_d": "7",
+        "correct_answer": "D",
+        "problem_types": ["fléttufræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Látum $y>0$ og $x=-y$.  Hver eftirfarandi fullyrðinga er röng?",
+        "choice_a": "$\\frac{x}{y}+1=0$",
+        "choice_b": "$x+y=0$",
+        "choice_c": "$xy<0$",
+        "choice_d": "$\\frac{1}{x}-\\frac{1}{y}=0$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Talan sem þarf að leggja við $\\frac{1}{b+2}$ til að fá $\\frac{1}{b}$ er",
+        "choice_a": "$\\frac{1}{-2}$",
+        "choice_b": "$\\frac{2}{b(b+2)}$",
+        "choice_c": "2",
+        "choice_d": "$\\frac{2(b+1)}{b(b+2)}$",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Skurðgrafa er einn klukkutíma að grafa holu sem er 3 metrar að lengd, 3 metrar að breidd og 3 metrar að dýpt.  Hve lengi eru tvær samskonar gröfur sem vinna á sama hraða að grafa holu sem er 6 metra löng, 6 metra breið og 6 metra djúp?",
+        "choice_a": "1 tíma",
+        "choice_b": "2 tíma",
+        "choice_c": "4 tíma",
+        "choice_d": "8 tíma",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Jörmunrekur hefur keyrt 80.000 km án þess að kaupa ný dekk.  Hve marga kílómetra hefur hvert dekkjanna fimm verið notað ef varadekkið hefur verið notað til jafns við hin dekkin?",
+        "choice_a": "64.000 km",
+        "choice_b": "60.000 km",
+        "choice_c": "20.000 km",
+        "choice_d": "16.000 km",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Ef $x^2=x+3$, þá er $x^3$ jafnt og",
+        "choice_a": "$x+6$",
+        "choice_b": "$x^2+3x+3$",
+        "choice_c": "$4x+3$",
+        "choice_d": "$4x^2+3$",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Ef það eru fimm sunnudagar í desember, þá gæti aðfangadagur verið á",
+        "choice_a": "miðvikudegi",
+        "choice_b": "fimmtudegi",
+        "choice_c": "laugardegi",
+        "choice_d": "sunnudegi",
+        "correct_answer": "D",
+        "problem_types": ["fléttufræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Í þingflokki Bandalags framsækinna sjálfstæðra alþýðukvenna eru níu konur.  Á vegum þingflokksins starfa ýmsar nefndir: (Fjárhagsnefnd: Anna, Jóhanna og María.) (Sjávarútvegsnefnd: &Anna, Björk og Sunna.) (Landbúnaðarnefnd: &Dröfn, Erla og Sunna.) (Iðnaðarnefnd: &Björk, Erla, Hrefna og Jóhanna.) (Viðskiptanefnd: &Björk, Dröfn og Þóra.) Hver þingkona getur sökum anna bara sótt fund í einni nefnd á dag.  Hver er minnsti fjöldi daga sem dugar til að það náist að halda fundi í öllum nefndunum?",
+        "choice_a": "2",
+        "choice_b": "3",
+        "choice_c": "4",
+        "choice_d": "5",
+        "correct_answer": "C",
+        "problem_types": ["fléttufræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Margfeldið $$\\left(1-\\frac{1}{2^2}\\right)\\left(1-\\frac{1}{3^2}\\right)\\left(1-\\frac{1}{4^2}\\right)\\cdots\\left(1-\\frac{1}{199^2}\\right)\\left(1-\\frac{1}{200^2}\\right)$$ er jafnt og",
+        "choice_a": "$\\frac{201}{400}$",
+        "choice_b": "$\\frac{1}{2}$",
+        "choice_c": "$\\frac{5}{12}$",
+        "choice_d": "$\\frac{99}{200}$",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Látum $a,b,c,d$ tákna tölustafi.  Finnið fjögurra stafa tölu $abcd$ þannig að $$9\\cdot abcd=dcba.$$",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 1089,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Hver er summa allra þriggja stafa talna sem innihalda bara tölustafina 1, 3, 5, 7, 9.",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 69375,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni"
+    },
+    {
+        "problem_text": "Hliðarnar í rétthyrndum þríhyrningi $ABC$ hafa lengdir 6, 8, 10. Hringur með geisla 1 og miðju í $P$ rúllar innan í $ABC$ þannig að hann snertir alltaf eina hlið þríhyrningsins.  Hversu langt hefur punkturinn $P$ farið þegar hringurinn er aftur kominn í upphaflega stöðu?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 12,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni",
+        "image": "game/static/images/problem_images/e9495d22.png"
+    },
+    {
+        "problem_text": "Hverja  myndanna er ekki hægt að teikna án þess að lyfta blýantinum frá blaðinu eða fara tvisvar um eitthvert strik?",
+        "choice_a": "A",
+        "choice_b": "B",
+        "choice_c": "C",
+        "choice_d": "D",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni",
+        "image": "game/static/images/problem_images/n9495d4.png"
+    },
+    {
+        "problem_text": "Flatarmál skyggða svæðisins á myndinni er",
+        "choice_a": "16",
+        "choice_b": "256",
+        "choice_c": "144",
+        "choice_d": "80",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni",
+        "image": "game/static/images/problem_images/n9495d7.png"
+    },
+    {
+        "problem_text": "Hornin $\\angle ABC$ og $\\angle BCD$ eru bæði $90^\\circ$.  Lengd striksins $d$, sem er hornrétt á $BC$, er",
+        "choice_a": "10",
+        "choice_b": "10$\\sqrt{2}$",
+        "choice_c": "10$\\sqrt{\\frac{3}{2}}$",
+        "choice_d": "12",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1994-1995 - forkeppni",
+        "image": "game/static/images/problem_images/n9495d10.png"
+    }
+]

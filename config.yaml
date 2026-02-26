@@ -1,0 +1,57 @@
+# Evaluation Configuration
+
+# Evaluation mode: "with_choices" or "without_choices"
+evaluation_mode: "without_choices"
+
+# Models to evaluate (OpenRouter model IDs)
+# Note: Verify these model IDs on openrouter.ai/models
+models:
+  - "openai/gpt-5"
+  - "anthropic/claude-sonnet-4.5"
+  - "google/gemini-2.5-pro"
+#  - "x-ai/grok-4"
+#  - "anthropic/claude-opus-4.1"
+
+# Paths
+data_dir: "./STAK-daemi/Keppnir"
+image_dir: "./STAK-daemi/Myndir"
+cache_dir: "./cache"
+
+# API Configuration
+max_retries: 3
+timeout_seconds: 360
+rate_limit_delay: 0.5  # seconds between requests
+max_parallel_requests: 100  # number of simultaneous API calls per model
+max_tokens: 25000  # maximum tokens in model response
+
+# Prompts in Icelandic
+prompts:
+  with_choices_system: |
+    Þú ert sérfræðingur í stærðfræði. Þér verður gefið stærðfræðiverkefni með nokkrum svarmöguleikum.
+    Lestu verkefnið vandlega og veldu rétta svarið (A, B, C eða D).
+    Svaraðu eingöngu með stafnum sem táknar rétta svarið (A, B, C, eða D).
+
+  with_choices_user: |
+    {problem_text}
+
+    Svarmöguleikar:
+    A) {choice_a}
+    B) {choice_b}
+    C) {choice_c}
+    D) {choice_d}
+
+    Svaraðu eingöngu með stafnum (A, B, C eða D):
+
+  without_choices_system: |
+    Þú ert sérfræðingur í stærðfræði. Þér verður gefið stærðfræðiverkefni.
+    Lestu verkefnið vandlega og skilaðu rétta svarinu.
+
+  without_choices_user: |
+    {problem_text}
+
+    Hvert er svarið?
+
+  numeric_without_choices_user: |
+    {problem_text}
+
+    Svaraðu með tölu:

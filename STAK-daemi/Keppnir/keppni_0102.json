@@ -1,0 +1,254 @@
+[
+    {
+        "problem_text": "$1 - 2 + 3 - 4 + 5 - 6 + 7 - 8 + 9 - 10 = $",
+        "choice_a": "0",
+        "choice_b": "-1",
+        "choice_c": "-5",
+        "choice_d": "-10",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Hver af eftirfarandi tölum gæti verið summa af þremur samliggjandi heiltölum?",
+        "choice_a": "0",
+        "choice_b": "2",
+        "choice_c": "4",
+        "choice_d": "8",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Um daginn sóttu 80% drengjanna í Králaskóla og 30% stúlkanna fótboltaleik. Ef vitað er að 40% nemenda Králaskóla eru stúlkur, hversu hátt hlutfall nemenda skólans mun þá hafa verið á fótboltaleiknum?",
+        "choice_a": "40%",
+        "choice_b": "50%",
+        "choice_c": "60%",
+        "choice_d": "70%",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Addi, Binni, Doddi, Elli, Fúsi og Gummi standa í röð. Vitað er að: i) Doddi stendur milli Ella og Fúsa. ii) Gummi er á milli Dodda og Ella. iii) Binni er á milli Gumma og Dodda. iv) Addi er á milli Binna og Gumma. Hver af eftirfarandi fullyrðingum er rétt?",
+        "choice_a": "Addi er á öðrum hvorum enda raðarinnar.",
+        "choice_b": "Addi er annar í röðinni (öðru hvoru megin frá).",
+        "choice_c": "Addi er þriðji í röðinni (öðru hvoru megin frá).",
+        "choice_d": "Ekki er hægt að raða drengjunum upp á þennan hátt.",
+        "correct_answer": "C",
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Ef ein skammhlið rétthyrnds þríhyrnings er $\\sqrt{a}$ og langhlið hans er $\\sqrt{c}$, hver er þá lengd hinnar skammhliðarinnar?",
+        "choice_a": "$\\sqrt{c^2 - a^2}$",
+        "choice_b": "$\\sqrt{c^2 + a^2}$",
+        "choice_c": "$\\sqrt{c - a}$",
+        "choice_d": "$c + a$",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Ef $x - a + y - z = 0$, þá er $a$ jafnt",
+        "choice_a": "$z - x - y$",
+        "choice_b": "$x + z - y$",
+        "choice_c": "$x + y - z$",
+        "choice_d": "$x + y + z$",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Í Litlu deildinni í fótbolta voru fjögur lið og lék hvert lið einu sinni við hvert hinna. Sigurleikur gaf þrjú stig, en jafntefli eitt stig. Lokaúrstaðan varð þessi: Lið A fékk 7 stig, B fékk 4 stig, C fékk 3 stig og D fékk 3 stig. Hvernig fór leikurinn milli A og D?",
+        "choice_a": "A vann",
+        "choice_b": "D vann",
+        "choice_c": "Jafntefli",
+        "choice_d": "Ógerlegt að segja",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Rétthyrningur er innritaður í þríhyrning þannig að efra hægra horn hans helmingar viðkomandi hlið þríhyrningsins. Hvert er hlutfallið milli skyggða flatarmálsins og flatarmáls alls þríhyrningsins?",
+        "choice_a": "1 : 2",
+        "choice_b": "4 : 3",
+        "choice_c": "2 : 3",
+        "choice_d": "Það er breytilegt",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig",
+        "image": "game/static/images/problem_images/n01028.png"
+    },
+    {
+        "problem_text": "Hver eftirfarandi talna er ekki jöfn hinum?",
+        "choice_a": "$\\frac{26}{28}$",
+        "choice_b": "$0,92$",
+        "choice_c": "$1-\\frac{1}{14}$",
+        "choice_d": "$\\sqrt{\\frac{338}{392}}$",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Rögnvaldur fer oft á skíði í Smáfjöllum. Að jafnaði er það svo að hann er 2 mínútur upp með skíðalyftunni, 3 mínútur að renna sér niður og svo þarf hann að bíða í fimm mínútur í biðröð eftir að komast í skíðalyftuna á ný. Um páska er reyndar meira af fólki og lengri biðraðir og Rögnvaldi reiknast svo til að það fari ekki nema 1/10 af tíma hans í að renna sér á skíðum. Hversu lengi þýðir það að hann þurfi að standa í biðröð?",
+        "choice_a": "18 mínútur",
+        "choice_b": "20 mínútur",
+        "choice_c": "25 mínútur",
+        "choice_d": "28 mínútur",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Meðaltal tíu talna er 20. Við tökum eina tölu í burtu og þá er meðaltal þeirra níu talna sem eftir eru 18. Hver var talan sem við tókum í burtu?",
+        "choice_a": "10",
+        "choice_b": "19",
+        "choice_c": "29",
+        "choice_d": "38",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Hvað eru margir tölustafir í útkomuna af margfeldinu $4^5 \\cdot 5^{13}$?",
+        "choice_a": "12",
+        "choice_b": "13",
+        "choice_c": "16",
+        "choice_d": "17",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Hve margar þriggja stafa tölur eru ferningstölur? (Ferningstala er tala sem skrifa má sem einhverja náttúrlega tölu í öðru veldi.)",
+        "choice_a": "20",
+        "choice_b": "22",
+        "choice_c": "30",
+        "choice_d": "32",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Lítum á þá þríhyrninga sem hafa hornpunkta í einhverjum hornpunkta gefins tenings. Hversu margir þeirra eru rétthyrndir?",
+        "choice_a": "12",
+        "choice_b": "24",
+        "choice_c": "36",
+        "choice_d": "48",
+        "correct_answer": "D",
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Hve margar tveggja stafa tölur eru jafnar summu tölustafa sinna að viðbættum margfeldi tölustaafanna?",
+        "choice_a": "6",
+        "choice_b": "7",
+        "choice_c": "8",
+        "choice_d": "9",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "A, B, C og D leigja saman sumarbústað fyrir 12.000 krónur. A ætlar að borga helminginn af því sem B, C og D borga samanlagt. B ætlar að borga þriðjung af því sem A, C og D borga samanlagt. C ætlar að borga fjórðung af því sem A, B og D borga samtals. Hversu mikið á D að borga?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 2600,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Margföldun saman 2001 fyrstu oddatölu frumtölurnar, $3 \\times 5 \\times 7 \\times 11 \\times 13 \\times \\ldots$. Á hvaða tölustaf endar útkoman?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 5,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Lítum á tölurnar $\\frac{3}{1}, \\frac{5}{3}, \\frac{7}{5}, \\frac{9}{7}, \\frac{11}{9}, \\ldots, \\frac{101}{99}$. Hve margar þeirra eru minni en $1,1$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 40,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Ef $a$ og $b$ eru jákvæðar heiltölur og $\\sqrt{a} + \\sqrt{b} = \\sqrt{8}$, hvað er þá $a + b$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 4,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Í þríhyrningi $ABC$ er $D$ miðpunktur $AB$ og $E$ er miðpunktur $AC$. Skurðpunktur $BE$ og $CD$ er $F$. Gefið er að flatarmál ferhyrningsins $ADFE$ er 18. Hvert er flatarmál þríhyrningsins $ABC$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 54,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 7,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    },
+    {
+        "problem_text": "Látum $ABCD$ vera ferhyrning sem umritar hring með miðju í $O$. Ef flatarmál þríhyrningsins $OAD$ er 17 og flatarmál þríhyrningsins $OBC$ er 12, hvert er þá flatarmál ferhyrningsins $ABCD$?",
+        "choice_a": "29",
+        "choice_b": "$20\\sqrt{5}$",
+        "choice_c": "58",
+        "choice_d": "60",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - efra stig",
+        "image": "game/static/images/problem_images/e01025.png"
+    },
+    {
+        "problem_text": "Fjórir keppendur taka þátt í langhlaupi sem lýst er í útvarppi. Eftirfarandi hefur komið fram í frásögn fréttamannsins: Páll er 12 sekúndum á eftir næsta manni. Sá fremsti er 20 sekúndum á undan þeim síðasta. Þór er einni sekúndu á undan einhverjum. Steinn er 19 sekúndum á undan Jóni. Í hvaða röð eru hlaupararnir (talið frá þeim fremsta til þess síðasta)?",
+        "choice_a": "Steinn, Þór, Páll og Jón",
+        "choice_b": "Þór, Steinn, Páll og Jón",
+        "choice_c": "Þór, Steinn, Jón og Páll",
+        "choice_d": "Steinn, Þór, Jón og Páll",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - efra stig"
+    },
+    {
+        "problem_text": "Nemandi var beðinn að margfalda 67 með tveggja stafa tölu sem hafði tölustafinn í einingasætinu helmingi lægri en þann í tugasætinu. Nú víxlaði nemandinn óvart tölustalunum í seinni tölunni og fékk þannig niðurstöðu sem var 1809 lægri en rétta niðurstöðan. Hver var rétta niðurstöðan?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 4221,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - efra stig"
+    },
+    {
+        "problem_text": "Talnasafn inniheldur fimm tölur. Með því að leggja saman hverjar tvær ólíkar tölur úr safninu fást eftirfarandi níu summur: $137, 169, 294, 415, 419, 451, 540, 572, 697$. Hver getur stærsta talan í safninu verið?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 409,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2001-2002 - neðra stig"
+    }
+]

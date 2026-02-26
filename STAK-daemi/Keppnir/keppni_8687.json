@@ -1,0 +1,406 @@
+[
+  {
+    "problem_text": "Talan $\\frac{1-\\frac{3}{4}}{\\frac{4}{3}-1}$ er jöfn",
+    "choice_a": "$\\frac{3}{4}$",
+    "choice_b": "$\\frac{1}{12}$",
+    "choice_c": "$-1$",
+    "choice_d": "$\\frac{4}{3}$",
+    "correct_answer": "A",
+    "problem_types": ["algebra"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Hver af eftirfarandi tölum kemst næst tölunni $\\frac{0,435}{0,0821}$?",
+    "choice_a": "$50$",
+    "choice_b": "$5$",
+    "choice_c": "$0,2$",
+    "choice_d": "$0,05$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Hve marga staura þarf í girðingu umhverfis þríhyrningslaga svæði sem hefur hliðarlengdir 20 m, 20 m og 30 m, ef hafðir eru 5 metrar milli staura?",
+    "choice_a": "$11$",
+    "choice_b": "$13$",
+    "choice_c": "$14$",
+    "choice_d": "$15$",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Ef $x=-3$ og $y=-1$, þá er $\\frac{(x-y)^3}{x^3-y^3}$ jafnt",
+    "choice_a": "$\\frac{4}{13}$",
+    "choice_b": "$\\frac{16}{7}$",
+    "choice_c": "$1$",
+    "choice_d": "$\\frac{2}{7}$",
+    "correct_answer": "A",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Ef reikniaðgerðin $\\circ$ er skilgreind með jöfnunni $a\\circ b=ab+a+b$ og $2\\circ x=3\\circ 5$, þá er $x$ jafnt",
+    "choice_a": "$7\\frac{1}{2}$",
+    "choice_b": "$7$",
+    "choice_c": "$6$",
+    "choice_d": "$4\\frac{1}{3}$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Á myndinni til hægri er geisli litla hringsins helmingur af geisla stóra hringsins.  Hlutfallið milli flatarmála skyggða svæðisins og óskyggða svæðisins er ",
+    "choice_a": "2:1",
+    "choice_b": "3:1",
+    "choice_c": "4:1",
+    "choice_d": "5:1",
+    "correct_answer": "B",
+    "problem_types": ["rúmfræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig",
+    "image": "game/static/images/problem_images/n8687d7.png"
+  },
+  {
+    "problem_text": "Þegar tölunni 5 er deilt í heila tölu $x$, þá er afgangurinn 3.  Þegar tölunni 5 er deilt í töluna $7x$, þá er afgangurinn ",
+    "choice_a": "$0$",
+    "choice_b": "$1$",
+    "choice_c": "$2$",
+    "choice_d": "$3$",
+    "correct_answer": "B",
+    "problem_types": ["talnafræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Ef $f(x)=x^3$, þá er $\\frac{f(a)}{f(b)}$ jafnt",
+    "choice_a": "$\\big(\\frac{a}{b}\\big)^3$",
+    "choice_b": "$\\big(\\frac{a}{b}\\big)^0$",
+    "choice_c": "$(a-b)^3$",
+    "choice_d": "$a^3-b^3$",
+    "correct_answer": "A",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Ef $(3x-1)(x-2)=0$, þá getur $3x-1$ einungis verið",
+    "choice_a": "$\\frac{1}{3}$",
+    "choice_b": "$0$",
+    "choice_c": "$\\frac{1}{3}$ eða $0$",
+    "choice_d": "$0$ eða $5$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Segjum að náttúrleg tala sé stígandi ef hver stafur hennar er hærri en næsti stafur á undan (dæmi um stígandi tölu er 2478).  Fjöldi stígandi talna milli 4000 og 5000 er",
+    "choice_a": "$7$",
+    "choice_b": "$8$",
+    "choice_c": "$9$",
+    "choice_d": "$10$",
+    "correct_answer": "D",
+    "problem_types": ["talnafræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Hornalína í ferningi er 2 cm á lengd. Flatarmál ferningsins er",
+    "choice_a": "1 cm$^2$",
+    "choice_b": "$\\sqrt{2}$ cm$^2$",
+    "choice_c": "2 cm$^2$",
+    "choice_d": "$2\\sqrt{2}$ cm$^2$",
+    "correct_answer": "C",
+    "problem_types": ["rúmfræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Hús hefur rétthyrndan grunnflöt með hliðarlengdir 20 m og 10 m.  Rafknúin sláttuvél er tengd með snúru við innstungu utan á einu horni hússins.  Snúran er það löng að unnt er að ná með vélinni 15 m frá horninu, en ekki lengra.  Flatarmál skikans sem slá má, mælt í fermetrum, er",
+    "choice_a": "$225\\pi-50$",
+    "choice_b": "$175\\pi$",
+    "choice_c": "$225\\pi$",
+    "choice_d": "$\\frac{675\\pi}{4}$",
+    "correct_answer": "B",
+    "problem_types": ["rúmfræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Þegar línu með jöfnuna $y=3x+1$ er speglað um línu með jöfnuna $y=4$, þá fæst lína með jöfnuna",
+    "choice_a": "y=\\frac{1}{3}x+1$",
+    "choice_b": "$y=-3x+7$",
+    "choice_c": "$y=-\\frac{1}{3}x+6$",
+    "choice_d": "$y=-3x+6$",
+    "correct_answer": "B",
+    "problem_types": ["rúmfræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Þrjár hliðar í trapisu eru jafn langar og grunnlína hennar er tveimur einingum styttri en þessar þrjár hliðar samanlagðar.  Fjarlægðin milli samsíða hliða trapisunnar er 5 einingar.  Flatarmál hennar, í flatareiningum, er",
+    "choice_a": "$13$",
+    "choice_b": "$35$",
+    "choice_c": "$65$",
+    "choice_d": "$125$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 2,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig",
+    "image": "game/static/images/problem_images/n8687d15.png"
+  },
+  {
+    "problem_text": "Fjöldi stafa í tölunni $4^5\\cdot 5^{13}$ þegar hún er skrifuð í tugakerfi með venjulegum hætti er ",
+    "choice_a": "$10$",
+    "choice_b": "$11$",
+    "choice_c": "$13$",
+    "choice_d": "$18$",
+    "correct_answer": "C",
+    "problem_types": ["talnafræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Hallatala línunnar $OA$ á myndinni er",
+    "choice_a": "$\\frac{4}{3}$",
+    "choice_b": "$\\frac{3}{4}$",
+    "choice_c": "$\\frac{5}{3}$",
+    "choice_d": "$\\frac{3}{5}$",
+    "correct_answer": "A",
+    "problem_types": ["rúmfræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig",
+    "image": "game/static/images/problem_images/n8687d17.png"
+  },
+  {
+    "problem_text": "Tvær talnanna sem ganga upp í tölunni $4^{12}-1$ eru stærri en 60 og minni en 80.  Þessar tölur eru",
+    "choice_a": "67 og 75",
+    "choice_b": "65 og 75",
+    "choice_c": "63 og 65",
+    "choice_d": "61 og 68",
+    "correct_answer": "C",
+    "problem_types": ["talnafræði"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Sléttan sem punktarnir $A$, $B$ og $C$ liggja í skiptir teningnum á myndinni til hægri í tvo rúmskika.  Ef brún teningsins hefur lengd 10, þá er rúmmál minni skikans",
+    "choice_a": "$200\\sqrt{2}$",
+    "choice_b": "$100\\sqrt{2}$",
+    "choice_c": "$333\\frac{1}{3}$",
+    "choice_d": "$166\\frac{2}{3}$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 6,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig",
+    "image": "game/static/images/problem_images/n8687d19.png"
+  },
+  {
+    "problem_text": "Ef $2^{3x}=16^{y+1}$ og $2x=5y-2$, þá er $x+y$ jafnt",
+    "choice_a": "$-1$",
+    "choice_b": "$2$",
+    "choice_c": "$3$",
+    "choice_d": "$6$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Hver af hringunum fjórum sem sýndir eru á myndinni snertir hina þrjá.  Ef geisli hvers af minni hringunum er $r$, þá er geisli stærsta hringsins jafn",
+    "choice_a": "$\\frac{2+\\sqrt{3}} {\\sqrt{3}}\\,r$",
+    "choice_b": "$(1+\\sqrt{3})r$",
+    "choice_c": "$\\frac{3\\sqrt{3}+4}{4}\\,r$",
+    "choice_d": "$(2+\\sqrt{3})r$",
+    "correct_answer": "A",
+    "problem_types": ["rúmfræði"],
+    "level": 6,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig",
+    "image": "game/static/images/problem_images/n8687d21.png"
+  },
+  {
+    "problem_text": "Runa $t_1, t_2, t_3, \\ldots$ er skilgreind þannig að $$t_1=7,\\ t_{n+1}=\\sqrt{|t_n^2-16|}\\, fyrir }n\\geq 1.$$Talan $t_{80}$ er jöfn",
+    "choice_a": "$\\sqrt{15}$",
+    "choice_b": "$\\sqrt{17}$",
+    "choice_c": "$79\\sqrt{33}$",
+    "choice_d": "$1$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 5,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Á myndinni er $ABCD$ ferningur og $$|AE|:|EB|=|CF|:|FD|=2:1.$$  Hlutfallið milli flatarmáls samsíðungsins $EGFH$ og flatarmáls ferningsins $ABCD$ er",
+    "choice_a": "$\\frac{1}{9}$",
+    "choice_b": "$\\frac{2}{9}$",
+    "choice_c": "$\\frac{1}{3}$",
+    "choice_d": "$\\frac{4}{9}$",
+    "correct_answer": "B",
+    "problem_types": ["rúmfræði"],
+    "level": 5,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig",
+    "image": "game/static/images/problem_images/n8687d23.png"
+  },
+  {
+    "problem_text": "Hornið $\\angle ABC$ í þríhyrningnum $ABC$ er $90^\\circ$, lengd hliðarinnar $AB$ er 20 og lengdir hinna hliðanna eru heilar tölur.  Umhve marga ólíka þríhyrninga getur hér verið að ræða?",
+    "choice_a": "$7$",
+    "choice_b": "$6$",
+    "choice_c": "$5$",
+    "choice_d": "$4$",
+    "correct_answer": "D",
+    "problem_types": ["rúmfræði"],
+    "level": 6,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig",
+    "image": "game/static/images/problem_images/n8687d24.png"
+  },
+  {
+    "problem_text": "Alda fer fótgangandi að heimsækja vin sinn Ægi og gengur síðan sömu leið til baka.  Hún gengur alltaf 2 kílómetra á klukkustund þegar hún fer upp í móti, 6 km/klst þegar hún fer niður á við og 3 km/klst þegar hún gengur á jafnsléttu.  Meira en helmingur leiðarinnar er hallandi.  Allur tíminn sem hún notar til göngunnar er 6 klukkustundir.  Ef $x$ er öll fjarlægðin sem hún gengur, mæld í kílómetrum, þá er",
+    "choice_a": "$12< x\\leq15$",
+    "choice_b": "$15< x\\leq18$",
+    "choice_c": "$18< x\\leq21$",
+    "choice_d": "$21< x\\leq24$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - neðra stig"
+  },
+  {
+    "problem_text": "Ef $x=\\frac{1}{6}$, þá er $\\big(2-\\frac{1}{2x}\\big)\\big(3-\\frac{1}{3x}\\big)$ jafnt",
+    "choice_a": "$-12$",
+    "choice_b": "$-1$",
+    "choice_c": "$12$",
+    "choice_d": "$\\frac{25}{6}$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 1,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - efra stig"
+  },
+  {
+    "problem_text": "Í teningnum á myndinni er hvassa hornið milli strikanna $AB$ og $BC$ jafnt",
+    "choice_a": "$60^\\circ$",
+    "choice_b": "$90^\\circ$",
+    "choice_c": "$30^\\circ$",
+    "choice_d": "$45^\\circ$",
+    "correct_answer": "A",
+    "problem_types": ["rúmfræði"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - efra stig",
+    "image": "game/static/images/problem_images/e8687d2.png"
+  },
+  {
+    "problem_text": "Línan í gegnum skurðpunkta ferlanna með jöfnur $x^2+y^2=4$ og $y=\\frac{1}{3}x^2$ hefur sjálf jöfnuna",
+    "choice_a": "$y=4$",
+    "choice_b": "$y=-4$",
+    "choice_c": "$y=\\sqrt{3}$",
+    "choice_d": "$y=1$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - efra stig"
+  },
+  {
+    "problem_text": "Summan $\\sin\\frac{\\pi}{2}+\\sin\\frac{2\\pi}{2}+\\sin\\frac{3\\pi}{2}+\\cdots+ \\sin\\frac{51\\pi}{2}$ (sem hefur 51 lið) er jöfn",
+    "choice_a": "$y=-1$",
+    "choice_b": "$y=1$",
+    "choice_c": "$y=0$",
+    "choice_d": "$y=51$",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - efra stig"
+  },
+  {
+    "problem_text": "Ef punkturinn $(-2,7)$ er hágildispunktur fallsins sem er gefið með $y=-2x^2-4ax+k$, þá er $k$ jafnt",
+    "choice_a": "$15$",
+    "choice_b": "$-1$",
+    "choice_c": "$-\\frac{1}{3}$",
+    "choice_d": "$11$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - efra stig"
+  },
+  {
+    "problem_text": "Nemendum í skóla $A$ hefur fjölgað um 40% á tilteknu tímabili og nemendum í skóla $B$ um 60% á sama tímabili.  Heildarfjölgun nemendanna í báðum skólunum á tímabilinu var 54%.  Hlutfallið millli nemendafjölda í skóla $A$ og nemendafjölda í skóla $B$ í upphafi tímabilsins var",
+    "choice_a": "10:13",
+    "choice_b": "35:38",
+    "choice_c": "3:7",
+    "choice_d": "7:12",
+    "correct_answer": "C",
+    "problem_types": ["algebra"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - efra stig"
+  },
+  {
+    "problem_text": "Fyrir hvaða rauntölur $x$ gildir ójafnan $$\\frac{1}{1-\\frac{1}{1-x}}\\geq \\frac{1}{1-\\frac{1}{1+x}}?$$",
+    "choice_a": "$x<0$ og $x\\neq -1$",
+    "choice_b": "$x>0$ og $x\\neq -1$",
+    "choice_c": "$x<0$ og $x\\neq 1$",
+    "choice_d": "$x\\leq 0$ og $x\\neq -1$",
+    "correct_answer": "A",
+    "problem_types": ["algebra"],
+    "level": 4,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - efra stig"
+  },
+  {
+    "problem_text": "Leysið jöfnuna $$\\log(101-10^x)=2-x.$$ (Hér táknar ,,$\\log$``  logrann með grunntölu 10.)",
+    "choice_a": "$x=0$ eða $x=-2$",
+    "choice_b": "$x=1$ eða $x=2$",
+    "choice_c": "$x=0$ eða $x=3$",
+    "choice_d": "$x=0$ eða $x=2$",
+    "correct_answer": "D",
+    "problem_types": ["algebra"],
+    "level": 3,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - efra stig"
+  },
+  {
+    "problem_text": "Skipta skal fyrstu $n$ náttúrlegu tölunum í flokka þannig að enginn flokkur innihaldi bæði tiltekna tölu og þá tölu tvöfaldaða. Hver er minnsti fjöldi flokka sem við komumst af með?",
+    "answer_type": "numeric",
+    "correct_answer_numeric": 2,
+    "numeric_tolerance": 0,
+    "problem_types": ["fléttufræði"],
+    "level": 5,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - úrslitakeppni"
+  },
+  {
+    "problem_text": "Köllum margliðu leyfilega ef sérhver stuðull hennar er ein af tölunum $0, 1, 2$ eða $3$.  Finnið fyrir gefna náttúrlega tölu $n$ fjöldann af öllum leyfilegum margliðum þannig að $P(2)=n$.",
+    "choice_a": "$\\lceil\\frac{n}{2}\\rceil + 1$",
+    "choice_b": "$\\frac{1}{2}n+1$ ef $n$ er slétt tala en $\\frac{1}{2}(n+1)$ ef $n$ er oddatala.",
+    "choice_c": "$\\lfloor\\frac{n+1}{2}\\rfloor + 1$",
+    "choice_d": "$\\begin{cases} \\frac{n}{2} + 1 & \\text{if } n \\equiv 0 \\pmod{2} \\\\ \\frac{n+1}{2} + 1 & \\text{if } n \\equiv 1 \\pmod{2} \\end{cases}$",
+    "correct_answer": "B",
+    "problem_types": ["algebra"],
+    "level": 8,
+    "source_info": "Stærðfræðikeppni framhaldsskólanema 1986-1987 - úrslitakeppni"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,214 @@
+[
+    {
+        "problem_text": "Hvert er gildið á $3^{x-2}$ ef $3^x=15$?",
+        "choice_a": "1",
+        "choice_b": "$\\frac{5}{3}$",
+        "choice_c": "5",
+        "choice_d": "$\\frac{15}{2}$",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    },
+    {
+        "problem_text": "Í Geirsnefi er fólk á gangi með hundana sína. Á svæðinu eru 82 fætur og 26 höfuð alls. Hversu margir hundar eru á Geirsnefi?",
+        "choice_a": "10",
+        "choice_b": "12",
+        "choice_c": "15",
+        "choice_d": "18",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - neðra stig"
+    },
+    {
+        "problem_text": "Ef geisli (radíus) hrings er tvöfaldaður þá eykst flatarmál hringsins um",
+        "choice_a": "250%",
+        "choice_b": "300%",
+        "choice_c": "350%",
+        "choice_d": "400%",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - neðra stig"
+    },
+    {
+        "problem_text": "Nokkrir félagar halda veislu og skipta kostnaðinn jafnt með sér. Heildarkostnaður er 60 þúsund krónur. Einn félagi til viðbótar slæst í hópinn. Þá eykst heildarkostnaður um 10 þúsund krónur en hlutur hvers lækkar um 1 þúsund. Hversu margir voru félagarnir upphaflega?",
+        "choice_a": "3",
+        "choice_b": "4",
+        "choice_c": "5",
+        "choice_d": "6",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    },
+    {
+        "problem_text": "Rauntölurnar $x$ og $y$ fullnægja jöfnunni $x^2+y^2=10x-6y-34$. Hvert er gildið á $x+y$?",
+        "choice_a": "1",
+        "choice_b": "2",
+        "choice_c": "3",
+        "choice_d": "4",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    },
+    {
+        "problem_text": "Ef vara er seld fyrir $x$ krónur er 15% tap á sölunni miðað við kostnað. Á hinn bóginn er 15% hagnaður af sölunni ef varan er seld fyrir $y$ krónur. Hvert er hlutfallið $\\frac{y}{x}$?",
+        "choice_a": "$\\frac{23}{17}$",
+        "choice_b": "$\\frac{17}{23}$",
+        "choice_c": "$\\frac{13}{10}$",
+        "choice_d": "Er háð verði",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - neðra stig"
+    },
+    {
+        "problem_text": "Ef tölunni $x$ er bætt við báði teljara og nefnara brotsins $\\frac{a}{b}$, þar sem $a\\ne b\\ne0$ og útkoman verður $\\frac{c}{d}$ þá er $x$ jafnt og",
+        "choice_a": "$\\frac{ad-bc}{c-d}$",
+        "choice_b": "$\\frac{ad-bc}{c+d}$",
+        "choice_c": "$\\frac{bc-ac}{c-d}$",
+        "choice_d": "$\\frac{bc-ac}{c+d}$",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - neðra stig"
+    },
+    {
+        "problem_text": "Gunnar, Fanney og Bergur fóru saman í helgarferð. Þau ákváðu að skipta kostnaðinum jafnt. Í ferðinni borgaði Gunnar 10500 kr., Fanney 12500 kr. og Bergur 17500 kr. Til að jafna út kostnaðinn þá lét Gunnar Berg fá $x$ krónur og Fanney lét Berg fá $y$ krónur. Hvert er gildið á $x-y$?",
+        "choice_a": "1500",
+        "choice_b": "2000",
+        "choice_c": "2500",
+        "choice_d": "3000",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - neðra stig"
+    },
+    {
+        "problem_text": "Geimflaug flýgur frá jörðu að plánetu í $2^{20}$ km fjarlægð. Eftir fjórðung leiðarinnar missir geimflaugið talstöðvarsamband við jörðu og nær aftur talstöðvarsambandi þegar geimflaugið er $2^{19}$ km fjarlægð frá jörðu. Hversu marga kílómetra flaug geimflaugið án talstöðvarsambands við jörðu?",
+        "choice_a": "$2^8$ km",
+        "choice_b": "$2^9$ km",
+        "choice_c": "$2^{10}$ km",
+        "choice_d": "$2^{18}$ km",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - neðra stig"
+    },
+    {
+        "problem_text": "Ragna, Sigrún, Tinna, Una og Vera hittast á kaffihúsi. Ragna heilsar nákvæmlega einni hinna með handabandi og Sigrún heilsar líka nákvæmlega einni hinna með handabandi. Tinna, Una og Vera heilsa hins vegar nákvæmlega tveimur hinna með handabandi hver um sig. Það er alveg víst að Ragna og Vera heilsuðust með handabandi. Hverjar eftirtalinna hafa án nokkurs vafa EKKI heilsast með handabandi?",
+        "choice_a": "Vera og Una",
+        "choice_b": "Vera og Tinna",
+        "choice_c": "Sigrún og Tinna",
+        "choice_d": "Sigrún og Vera",
+        "correct_answer": "D",
+        "problem_types": ["fléttufræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    },
+    {
+        "problem_text": "Skilgreinum aðgerð $a*b=\\frac{a}{a+b}$. Gefið er að $s*t=5$, hvert er gildið á $t*s$?",
+        "choice_a": "-5",
+        "choice_b": "-4",
+        "choice_c": "3",
+        "choice_d": "2",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    },
+    {
+        "problem_text": "Milli kl. 14.00 og kl. 15.00 falla stóri og litli vísir saman. Þá er klukkan næst því að vera",
+        "choice_a": "14.09",
+        "choice_b": "14.10",
+        "choice_c": "14.11",
+        "choice_d": "14.12",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - neðra stig"
+    },
+    {
+        "problem_text": "Um þriggja stafa töluna $abc$ gildir að $a>c$ og að mismunurinn $abc-cba$ er þriggja stafa tala með 4 sem fyrsta tölustaf. Þá eru annar og þriðji tölustafur mismunarins",
+        "choice_a": "4 og 9",
+        "choice_b": "9 og 5",
+        "choice_c": "5 og 4",
+        "choice_d": "Ekki ótvírætt svar",
+        "correct_answer": "B",
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    },
+    {
+        "problem_text": "Ef deilt er í $y^2-my+2$ með $y-1$ fæst sama leif og ef deilt er með $y+1$. Hvert er gildið á $m$?",
+        "choice_a": "0",
+        "choice_b": "1",
+        "choice_c": "2",
+        "choice_d": "Upplýsingar skortir",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    },
+    {
+        "problem_text": "Sigrídur fer nokkrum sinnum á dag til Sveins gjaldkera með reikninga. Hún lætur reikning alltaf efst í staflann hjá Sveini. Þegar Sveinn hefur tíma tekur hann efsta reikninginn í staflanum og afgreiðir hann. Einn daginn eru reikningarnir fimm og Sigrídur kemur með þá í röðinni 1, 2, 3, 4, 5. Í hvaða röð gæti Sveinn ekki hafa afgreitt reikningana?",
+        "choice_a": "1,2,3,4,5",
+        "choice_b": "2,4,3,5,1",
+        "choice_c": "3,2,4,1,5",
+        "choice_d": "4,5,2,3,1",
+        "correct_answer": "D",
+        "problem_types": ["fléttufræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - neðra stig"
+    },
+    {
+        "problem_text": "Jörmunrekur þarf að ýta þungum steinum upp á fjall, einum steini á hverjum degi. Fyrsta daginn tekur það 7 tíma að ýta steininum upp og labba niður. Næstu daga fer hann hvern dag helmingi hægar upp fjallið en daginn á undan og tvöfalt hraðar niður en daginn á undan. Ef hann þarf 8 tíma til að fara upp og niður á öðrum degi, hvað þarf hann þá marga tíma á þriðja degi?",
+        "choice_a": "$8\\frac{1}{2}$",
+        "choice_b": "9",
+        "choice_c": "$10\\frac{1}{4}$",
+        "choice_d": "13",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    },
+    {
+        "problem_text": "Ef $n$ er jákvæð heiltala þá látum við $\\textrm{þ}(n)$ tákna þversummu hennar. Til dæmis er $\\textrm{þ}(138)=12$ og $\\textrm{þ}(2013)=6$. Finnið summuna $\\textrm{þ}(1)+\\textrm{þ}(2)+\\textrm{þ}(3)+\\cdots+\\textrm{þ}(100)$.",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 901,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    },
+    {
+        "problem_text": "Vatnsdæla fyllir tank á 12 klst. Ef opnað er fyrir niðurfall þá tæmist tankurinn á 20 klst. Hversu langan tíma tekur að fylla tankinn ef niðurfallið opnast óvart þegar tankurinn er hálfullur?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 21,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - neðra stig"
+    },
+    {
+        "problem_text": "Tökum tölurnar $1,2,3,4,5$ með $p,q,r,s,t$ nema hvað röðin má vera önnur. Látum $x=\\frac{1}{p+\\frac{1}{q+\\frac{1}{r+\\frac{1}{s+\\frac{1}{t}}}}}$. Gildin á $p,q,r,s,t$ eru valin svo að $x$ verði sem stærst. Hvaða gildi hefur $t$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 3,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    },
+    {
+        "problem_text": "Fall $f$ er þannig að $f(x)+f(1-x)=10$ fyrir allar rauntölur $x$. Hver er summan $f\\left(\\frac{1}{100}\\right)+f\\left(\\frac{2}{100}\\right)+\\cdots+f\\left(\\frac{99}{100}\\right)$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 495,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2013-2014 - efra stig"
+    }
+]

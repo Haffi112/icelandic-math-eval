@@ -1,0 +1,207 @@
+[
+    {
+        "problem_text": "Hvert er hornið milli litla og stóra vísisins á klukku þegar hún er $1:30$?",
+        "choice_a": "$120^\\circ$",
+        "choice_b": "$130^\\circ$",
+        "choice_c": "$135^\\circ$",
+        "choice_d": "$150^\\circ$",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Í september síðastliðnum var haldin 13. alþjóðlega ráðstefna tiltekinna samtaka sem fyrst héldu slíka ráðstefnu árið 1989. Fyrstu árin voru ráðstefnurnar árlega en síðan annað hvert ár. Hvaða ár var ráðstefnunni í fyrsta sinn sleppt?",
+        "choice_a": "1996",
+        "choice_b": "1997",
+        "choice_c": "1998",
+        "choice_d": "2000",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "$ABCD$ er trapisa með $AB = 40$ samsíða $CD = 16$. Punkturinn $P$ er staðsettur á $AB$ þannig að strikið $DP$ skipti trapisunni í tvo jafna hluta að flatarmáli. Hver er lengd $AP$?",
+        "choice_a": "16",
+        "choice_b": "20",
+        "choice_c": "28",
+        "choice_d": "32",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig",
+        "image": "game/static/images/problem_images/n05063.png"
+    },
+    {
+        "problem_text": "Einfaldaðu $\\frac{x+2}{ 2 - \\frac{1}{ 1 + \\frac 1x}}$.",
+        "choice_a": "1",
+        "choice_b": "$\\frac{1}{x + 1}$",
+        "choice_c": "$x - 1$",
+        "choice_d": "$x + 1$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Í ferhyrningi $ABCD$ eru punktarnir $E$ og $F$ staðsettir þannig að strikin $AE$ og $AF$ skipti ferningnum í þrjá jafnstóra hluta. Hversu stórt hlutfall er flatarmál þríhyrningsins $AEF$ af heildarflatarmáli ferningsins?",
+        "choice_a": "5/18",
+        "choice_b": "2/9",
+        "choice_c": "1/6",
+        "choice_d": "1/3",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig",
+        "image": "game/static/images/problem_images/n05065.png"
+    },
+    {
+        "problem_text": "Meðaltal níu talna er 5. Þegar tíundu tölunni er bætt við verður meðaltalið 6. Hver var tíunda talan sem bættist við?",
+        "choice_a": "1",
+        "choice_b": "4",
+        "choice_c": "15",
+        "choice_d": "36",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Strikin $AB$, $CD$ og $EF$ skerast í punktinum $S$, eins og sýnt er á myndinni. Hver er summa hornanna við oddpunkta $A$, $B$, $C$, $D$, $E$ og $F$?",
+        "choice_a": "$180^\\circ$",
+        "choice_b": "$240^\\circ$",
+        "choice_c": "$300^\\circ$",
+        "choice_d": "$360^\\circ$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig",
+        "image": "game/static/images/problem_images/n05067.png"
+    },
+    {
+        "problem_text": "Frumbyggjar eyjunnar Ooz skiptast í tvo þjóðflokka: Verasíta sem alltaf segja satt og Atrósíta sem aldrei segja satt. Ferðalangur hittir fjóra frumbyggja og spyr til hvaða þjóðflokks hver heyri. Hann fær eftirfarandi svör: Au: Minnst einn okkar er Atrósíti. Bo: Au er Verasíti. Co: Við erum ekki allir Atrósítar. Di: Þeir eru allir að ljúga. Hver tilheyrir hvaða þjóðflokki?",
+        "choice_a": "Allir eru Atrósítar",
+        "choice_b": "Einungis Di er Verasíti",
+        "choice_c": "Allir nema Di eru Verasítar",
+        "choice_d": "Au og Bo eru Verasítar en hinir tveir eru Arósítar",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Kengúra, sem tekur tvö stökk á einni og hálfri sekúndu, fer áfram á hraðanum 12 km/klst. Fjöldi stökka sem hún tekur til þess að komast 100 metra er:",
+        "choice_a": "20",
+        "choice_b": "30",
+        "choice_c": "40",
+        "choice_d": "50",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Hver er fjöldi lausna á forminu $(a,b)$ þar sem $a$ og $b$ eru náttúrlegar tölur á jöfnunni $a^b = 16$?",
+        "choice_a": "1",
+        "choice_b": "2",
+        "choice_c": "3",
+        "choice_d": "4",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Ef eftirfarandi tölur eru margfaldaðar með 256, hver þeirra mun þá gefa margfeldi sem endar á flestum núllum?",
+        "choice_a": "7500",
+        "choice_b": "5000",
+        "choice_c": "3125",
+        "choice_d": "1250",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Myndin sýnir óvenjulega hlaupabraut. Þríhyrningurinn $CFG$ er jafnhliða. Hliðarlengd ferninganna (út frá miðjum hliðum $CG$ og $CF$) er 1/3 af hliðum þríhyrningsins. Brautin er sett saman úr fjórum hringbogum og eru miðjur þeirra í $H$, $I$ og $C$ (tveir hafa miðju í síðastnefnda punktinum). Lengd bogans $AB$ er 90 m. Hve margir metrar er öll hlaupabrautin?",
+        "choice_a": "314",
+        "choice_b": "540",
+        "choice_c": "600",
+        "choice_d": "720",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig",
+        "image": "game/static/images/problem_images/n050613.png"
+    },
+    {
+        "problem_text": "Hjólreiðakona hefur farið 2/3 leiðar sinnar þegar springur. Hún lýkur ferðinni gangandi og tekur það hana tvöfaldan hjólreiðartímann að komast á leiðarenda. Hvaða margfeldi af gönguhraðanum var hraðinn á hjólinu?",
+        "choice_a": "2",
+        "choice_b": "3",
+        "choice_c": "4",
+        "choice_d": "5",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Tveir rétthyrningar með hliðarlengdir sem eru jákvæðar heilar tölur hafa hvor um sig ummál 48. Hver er mesti mögulegi munur flatarmála þeirra?",
+        "choice_a": "144",
+        "choice_b": "121",
+        "choice_c": "120",
+        "choice_d": "25",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Hver er minnsta ferningstalan (tala sem er annað veldi af heiltölu) sem er deilanleg með 60?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 900,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Í reglulegum marghyrningi eru grannhornin fjórðungur af stærð hvers horns. Hve margar hliðar hefur slíkur marghyrningur?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 10,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Pósturinn Páll ekur reglulega til Keflavíkur (frá Reykjavík) til að sækja flugpóst erlendis frá. Nú ber svo við í eitt skipti að flugvélin er á undan áætlun og ábyrgur starfsmaður leggur af stað gangandi með póstinn til Reykjavíkur. Eftir hálftíma gang mætir hann Páli sem tekur tafarlaust við póstinum og kemur honum á áfangastað 20 mínútum fyrr en áætlað var. Hve mörgum mínútum á undan áætlun lenti vélin ef gengið er út frá því að Páll hafi ekið á sama hraða og hann var vanur í þessum ferðum?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 40,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - neðra stig"
+    },
+    {
+        "problem_text": "Á hve mörgum núllum endar talan 2005! ?",
+        "choice_a": "200",
+        "choice_b": "401",
+        "choice_c": "410",
+        "choice_d": "500",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - efra stig"
+    },
+    {
+        "problem_text": "Orðið HUGUR felur í sér fimm stafa tölu, þar sem ólíkir bókstafir standa fyrir ólíka tölustafi og sömu bókstafir standa fyrir sömu tölustafi. Sérhver tölustafur er frumtala og summa allra fimm tölustafanna er það líka. Tveggja stafa talan UH og þriggja stafa talan UGR eru einnig frumtölur. Fyrir hvaða tölustaf stendur G?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 5,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2005-2006 - efra stig"
+    }
+]

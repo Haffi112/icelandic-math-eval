@@ -1,0 +1,239 @@
+[
+    {
+        "problem_text": "Rögnvaldur og vinir hans fjórir eiga að að meðaltali 220 krónur, en Rögnvaldur sjálfur á 380 kr. Hve mikið eiga vinirnir fjórir að meðaltali?",
+        "choice_a": "160 krónur",
+        "choice_b": "180 krónur",
+        "choice_c": "220 krónur",
+        "choice_d": "300 krónur",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Hvert af eftirtöldu er rétt?",
+        "choice_a": "Talan $8^8$ er $2.$ veldi tölunnar $4^4$",
+        "choice_b": "Talan $8^8$ er $3.$ veldi tölunnar $4^4$",
+        "choice_c": "Talan $8^8$ er $4.$ veldi tölunnar $4^4$",
+        "choice_d": "Talan $8^8$ er $8.$ veldi tölunnar $4^4$",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Þjónustufyrirtæki hækkaði einingarverð vöru sinnar um $40\\%$, en tekjur fyrirtækisins jukust aðeins um $26\\%$. Hve miklu færri einingar seldi fyrirtækið?",
+        "choice_a": "$10 \\%$",
+        "choice_b": "$14 \\%$",
+        "choice_c": "$40 \\%$",
+        "choice_d": "$66 \\%$",
+        "correct_answer": "A",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Þegar úti er rigning, þá er kötturinn annaðhvort inni í herbergi eða niðri í kjallara. Þegar kötturinn er í herberginu, þá er músin í holu sinni og osturinn er í ísskápnum. Þegar osturinn er á borðinu og kötturinn er í kjallaranum, þá er músin í herberginu. Núna er rigning og osturinn er á borðinu. Því hlýtur nauðsynlega að gilda:",
+        "choice_a": "Kötturinn er í herberginu",
+        "choice_b": "Músin er í holunni",
+        "choice_c": "Annaðhvort er kötturinn í herberginu eða músin er í holunni",
+        "choice_d": "Kötturinn er í kjallaranum og músin er í herberginu",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Á myndinni hér að neðan er $ABCD$ ferningur og $P$ er punktur á hringnum, $CB$ er miðstrengur, $CP = 7$ og $PB = 11$. Hvert er flatarmál ferningsins?",
+        "choice_a": "144",
+        "choice_b": "169",
+        "choice_c": "170",
+        "choice_d": "180",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig",
+        "image": "game/static/images/problem_images/n00015.png"
+    },
+    {
+        "problem_text": "Á eyju einni búa sannsöglir menn sem alltaf segja satt og lygarar sem alltaf segja ósatt. Á eyjunni búa 2000 manns. Sérhver íbúanna stundar nákvæmlega eina af þremur íþróttum sund, hlaup eða stangarstökk. Fyrir hvern íbúa eru lagðar eftirfarandi þrjár spurningar. 1) Stundar þú sund? 2) Stundar þú hlaup? 3) Stundar þú stangastökk? 1010 manns svöruðu 1. spurningu játandi, 690 manns svöruðu 2. spurningu játandi og 510 manns svöruðu 3. spurningu játandi. Hve margir lygarar eru á eyjunni?",
+        "choice_a": "180",
+        "choice_b": "210",
+        "choice_c": "500",
+        "choice_d": "990",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Í handboltakeppni leikur hvert lið einu sinni við sérhvert hinna liðanna. Fyrir sigur í leik fást 2 stig, 1 stig fyrir jafntefli og 0 stig fyrir tap. Sigurliðið fékk 7 stig, liðið í 2. sæti fékk 5 stig og liðið í 3. sæti fékk 3 stig. Hve mörg stig fékk neðsta lið?",
+        "choice_a": "0",
+        "choice_b": "1",
+        "choice_c": "2",
+        "choice_d": "3",
+        "correct_answer": "C",
+        "problem_types": ["fléttufræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Jafnhliða þríhyrningur og reglulegur sexhyrningur hafa sama ummál. Hvert er hlutfallið milli flatarmáls þríhyrningsins og flatarmáls sexhyrningsins?",
+        "choice_a": "$\\frac{1}{2}$",
+        "choice_b": "$\\frac{2}{3}$",
+        "choice_c": "$\\frac{\\sqrt{2}}{2}$",
+        "choice_d": "$\\frac{\\sqrt{3}}{3}$",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Hversu margir ferningar eru til í myndinni hér fyrir neðan þar sem hliðarlínur ferninganna ákvarðast af rúðustrikunum?",
+        "choice_a": "72",
+        "choice_b": "75",
+        "choice_c": "89",
+        "choice_d": "91",
+        "correct_answer": "D",
+        "problem_types": ["fléttufræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig",
+        "image": "game/static/images/problem_images/n000109.png"
+    },
+    {
+        "problem_text": "Í safni af tölum er viss fjöldi af ellefum og afgangurinn er tólfur. Ellefurnar eru þremur fleiri en tólfurnar. Hver gæti summa talnanna í safninu verið?",
+        "choice_a": "232",
+        "choice_b": "234",
+        "choice_c": "235",
+        "choice_d": "240",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Lítum á meðfylgjandi skýringarmynd. Gefið er að $AD$ er samsíða $BC$. Hvert er samanlagt flatarmál þríhyrninganna tveggja á myndinni?",
+        "choice_a": "6",
+        "choice_b": "$\\frac{25}{4}$",
+        "choice_c": "$\\frac{13}{2}$",
+        "choice_d": "$\\frac{27}{4}$",
+        "correct_answer": "B",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig",
+        "image": "game/static/images/problem_images/n000111.png"
+    },
+    {
+        "problem_text": "Hvert er yfirborðsflatarmál hlutarins sem fæst með því að fjarlægja einingarnar $A$, $B$ og $C$ úr $3 \\times 3 \\times 3$ teningnum hér að neðan?",
+        "choice_a": "50",
+        "choice_b": "54",
+        "choice_c": "58",
+        "choice_d": "60",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig",
+        "image": "game/static/images/problem_images/n000112.png"
+    },
+    {
+        "problem_text": "Fullhlaðinn vörubíll vegur $x$ tonn. Ef hann er hlaðinn til hálfs þá vegur hann $y$ tonn. Hve mörg tonn vegur bíllinn óhlaðinn?",
+        "choice_a": "$\\frac{x-y}{2}$",
+        "choice_b": "$x-y$",
+        "choice_c": "$x-2y$",
+        "choice_d": "$2y-x$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Talan $\\sqrt{4 + 2\\sqrt{3}}$ er jöfn:",
+        "choice_a": "$(\\sqrt{2} + \\sqrt{3})^2$",
+        "choice_b": "$1 + \\sqrt{3}$",
+        "choice_c": "$2 + 2\\sqrt{3}$",
+        "choice_d": "$2 + \\sqrt{2 \\sqrt{2}}$",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Ef $x > 5$, hvert eftirtalinna brota er þá minnst?",
+        "choice_a": "$\\frac{5}{x}$",
+        "choice_b": "$\\frac{5}{x-1}$",
+        "choice_c": "$\\frac{x}{5}$",
+        "choice_d": "$\\frac{5}{x+1}$",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Punktinum $A = (2,3)$ er speglað um $x$-ásinn (í venjulegu hnitakerfi) og hafnar hann þá í punktinum $B$. Síðan er punktinum $B$ speglað um línuna $y = x$ og hann hafnar í punktinum $C$. Hvert er flatarmál þríhyrningsins ABC?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 15,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Látum $N$ vera minnstu jákvæðu tölu sem er þriðja veldi heillar tölu og jafnframt fimmta veldi annarrar heillar tölu. Hve margir tölustafir eru í $N$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 5,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Fjársjóður er grafinn á ákveðnum stað við veg sem liggur í beinni línu gegnum bæina $A$, $B$, $C$ og $D$ í þessari röð. Eftirfarandi leiðbeiningar eiga að vísa á fjársjóðinn: Byrjaðu í bænum $A$ og farðu hálfa leiðina til $C$. Farðu síðan þriðjung leiðarinnar þaðan til $D$. Farðu loks fjórðung leiðarinnar þaðan til $B$ og grafðu upp fjársjóðinn. Ef leiðin $AB$ er $6$ kílómetrar, $BC$ er $8$ kílómetrar og fjársjóðurinn er grafinn miðja vegu milli $A$ og $D$, hver er þá fjarlægðin frá $C$ til $D$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 6,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - neðra stig"
+    },
+    {
+        "problem_text": "Trapisu er skipt í tvo hluta með miðþverli hæðar trapisunnar. Ef $k$ er hlutfall flatarmála hlutanna tveggja hvert eftirfarandi gilda er óhugsandi fyrir $k$?",
+        "choice_a": "$\\frac{2}{3}$",
+        "choice_b": "$2$",
+        "choice_c": "$\\frac{8}{3}$",
+        "choice_d": "$\\frac{10}{3}$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - efra stig"
+    },
+    {
+        "problem_text": "Sérhvert spjaldanna á myndinni hér fyrir neðan hefur tölu á annarri hliðinni og bókstaf á hinni. Hversu mörgum spjaldanna þarf að snúa við til að sanna réttmæti eftirfarandi fullyrðingar: Öll spjöld með sérhljóða á annarri hliðinni hafa oddatölu á hinni.",
+        "choice_a": "2",
+        "choice_b": "3",
+        "choice_c": "4",
+        "choice_d": "5",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - efra stig",
+        "image": "game/static/images/problem_images/n000110.png"
+    },
+    {
+        "problem_text": "Hve margar jákvæðar heiltölur, minni en 1000 má skrifa sem margfeldi tveggja mismunandi talna, sem báðar eru sléttar?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 248,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - efra stig"
+    },
+    {
+        "problem_text": "Látum $a$, $b$ og $c$ vera allar þrjár rætur margliðunnar $x^3 - 64x - 14$. Hvert er gildið á $a^3 + b^3 + c^3$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 42,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2000-2001 - efra stig"
+    }
+]

@@ -1,0 +1,49 @@
+# Paper directory (has its own Overleaf git repo)
+6877c3ca527894f8a6dc6e93/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Cache directories
+cache/
+cache_old/
+cache_judge/
+cache_judge_*/
+
+# Results and generated outputs
+results/
+tables/
+figures/
+/*.json
+
+# Claude metadata
+.claude/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup git directories
+.git_backup/
+
+# Archives
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,191 @@
+[
+    {
+      "problem_text": "Krossið við þá jöfnu sem samsvarar eftirfarandi staðhæfingu: Þreföld summan af 5 og þriðjungnum af 9 er fjórðungur mismunarins á 100 og 4.",
+      "choice_a": "$$3\\cdot(5+\\frac{1}{3}\\cdot 9)=\\frac{1}{4}\\cdot (100-4)$$",
+      "choice_b": "$$3\\cdot 5+\\frac{1}{3}\\cdot 9=\\frac{1}{4}\\cdot (100-4)$$",
+      "choice_c": "$$3\\cdot 5+\\frac{1}{3}\\cdot 9=4-\\frac{1}{4}\\cdot 100$$",
+      "choice_d": "$$3\\cdot (5+\\frac{1}{3}\\cdot 9)=\\frac{1}{4}\\cdot100-4$$",
+      "correct_answer": "A",
+      "problem_types": ["algebra"],
+      "level": 1,
+      "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - forkeppni"
+    },
+    {
+      "problem_text": "Slökkviliðsmaður við störf stendur í miðþrepi stiga.  Nú leggur reykinn í aðra átt og slökkviliðsmaðurinn kemst 9 þrepum ofar, en eldurinn blossar upp aftur og hann verður að hörfa niður um 11 þrep. Síðan ná slökkviliðsmenn tökum á eldinum og okkar maður kemst upp í efsta þrep stigans, sem þýðir að hann fer upp um 17 þrep.  Hvað eru mörg þrep í stiganum?",
+      "choice_a": "$30$",
+      "choice_b": "$31$",
+      "choice_c": "$32$",
+      "choice_d": "$33$",
+      "correct_answer": "B",
+      "problem_types": ["talnafræði"],
+      "level": 3,
+      "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - forkeppni"
+    },
+    {
+      "problem_text": "Hver eftirfarandi talna er stærst?",
+      "choice_a": "$\\sqrt{\\sqrt{5\\cdot 6}}$",
+      "choice_b": "$\\sqrt{6\\sqrt{5}}$",
+      "choice_c": "$\\sqrt{5\\sqrt{6}}$",
+      "choice_d": "$\\sqrt{5\\cdot{6}}$",
+      "correct_answer": "D",
+      "problem_types": ["talnafræði"],
+      "level": 2,
+      "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+    },
+    {
+      "problem_text": "Þegar deilt er í töluna $-\\frac{1}{2^2}$ með 2 kemur út",
+      "choice_a": "$\\frac{1}{2}$",
+      "choice_b": "$-\\frac{1}{2}$",
+      "choice_c": "$-\\frac{1}{4}$",
+      "choice_d": "$$-\\frac{1}{8}$$",
+      "correct_answer": "D",
+      "problem_types": ["talnafræði"],
+      "level": 1,
+      "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+    },
+    {
+      "problem_text": "Í körfuboltakeppni, þar sem hvert lið leikur einn leik á móti hverju hinna,  vann sigurliðið alla leiki sína nema einn, neðsta liðið tapaði öllum leikjum sínum nema einum, og hin liðin unnu fjóra leiki hvert.  (Athugið að í körfubolta lýkur leik aldrei með jafntefli.)  Hve mörg voru liðin?",
+      "choice_a": "$4$",
+      "choice_b": "$7$",
+      "choice_c": "$8$",
+      "choice_d": "$9$",
+      "correct_answer": "D",
+      "problem_types": ["talnafræði"],
+      "level": 2,
+      "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+    },
+    {
+      "problem_text": "Þú ert með lykla að þrennum dyrum $A$, $B$ og $C$ í höndunum, en veist ekki hvaða lykill gengur að hvaða dyrum.  Þú vilt prófa lyklana til þess að geta merkt þá rétt.  Hver er minnsti fjöldi tilrauna sem þú getur fyrirfram sagt með vissu að dugi til  að komast að því hvernig á að merkja lyklana, óháð því hvernig einstakar tilraunir fara?",
+      "choice_a": "$3$",
+      "choice_b": "$4$",
+      "choice_c": "$5$",
+      "choice_d": "$6$",
+      "correct_answer": "A",
+      "problem_types": ["fléttufræði"],
+      "level": 2,
+      "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+    },
+    {
+        "problem_text": "Talan 1.000.000 er rituð sem margfeldi af tveimur jákvæðum heilum tölum þannig að tölustafurinn 0 komi fyrir í hvorugri tölunni.  Þá er minni talan",
+        "choice_a": "$16$",
+        "choice_b": "$32$",
+        "choice_c": "$64$",
+        "choice_d": "$72$",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+      },
+      {
+        "problem_text": "Þríhyrningur $ABC$ hefur flatarmál $F$.  Þríhyrningurinn $PQR$ er einslaga $ABC$, og hlið í $PQR$ er $k$ sinnum lengri en samsvarandi hlið í $ABC$.  Þá er flatarmál $PQR$ jafnt",
+        "choice_a": "$\\frac{1}{2}kF$",
+        "choice_b": "$kF$",
+        "choice_c": "$2kF$",
+        "choice_d": "$k^2F$",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+      },
+      {
+        "problem_text": "Í nefnd eru fjórir menn: Einar, Friðrik, Lárus og Rögnvaldur. Um hvern þeirra er vitað að annaðhvort segir hann alltaf satt, eða lýgur alltaf.  Fundargerð síðasta nefndarfundar lítur svona út:  Einar segir við Friðrik: ´Þú ert lygari'. Rögnvaldur segir við Einar:  ,,Þú ert sjálfur lygari.`` Lárus segir við Rögnvald:  ,,Þeir eru báðir lygarar.`` Skömmu síðar heldur Lárus áfram og segir við Rögnvald: ,,Þú ert líka lygari.`` Fleira gerðist ekki.  Fundi slitið. Hver eftirfarandi fullyrðinga er rétt (miðað við að fundargerðin sé rétt)?",
+        "choice_a": "Allir ljúga alltaf.",
+        "choice_b": "Einar og Friðrik eru lygarar.",
+        "choice_c": "$Einar segir alltaf satt.",
+        "choice_d": "Einar og Lárus eru lygarar.",
+        "correct_answer": "D",
+        "problem_types": ["algebra"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+      },
+      {
+        "problem_text": "Anna leit á stofuklukku sína þegar hún fór út.  Klukkan sýndi 12.  Anna hélt svo til vinkonu sinnar, Ásu. Þegar hún kom til Ásu þá sýndi stofuklukka Ásu 17.  Eftir tveggja tíma dvöl hélt Anna sömu leið til baka.  Þegar Anna kom heim sýndi klukkan hennar 17.  Báðar klukkurnar ganga rétt.  Klukka Önnu er vitlaust stillt, en klukka Ásu er rétt. Hvað var rétt klukka er Anna kom heim?",
+        "choice_a": "17",
+        "choice_b": "19",
+        "choice_c": "19:30",
+        "choice_d": "20:30",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+      },
+      {
+        "problem_text": "Gefnar eru fjórar heilar tölur.  Þegar  þrjár þeirra eru lagðar saman fást útkomurnar 180, 197, 208, 222.  Hvert er gildi stærstu tölunnar af upphaflegu tölunum fjórum?",
+        "choice_a": "60",
+        "choice_b": "77",
+        "choice_c": "83",
+        "choice_d": "89",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+      },
+      {
+        "problem_text": "Fjórir punktar $P, Q, R, S$ liggja á beinni línu í planinu með eins kílómetra millibili (sjá mynd).  Fara þarf á milli punktanna $P$ og $S$ þannig að fjarlægðin til $Q$ og $R$ verði aldrei minni en 1 kílómetri. Hve langa leið þarf að fara hið minnsta (í kílómetrum)?",
+        "choice_a": "$1+\\pi$",
+        "choice_b": "$1+2\\sqrt{2}$",
+        "choice_c": "$1+2\\pi$",
+        "choice_d": "5",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - forkeppni",
+        "image": "game/static/images/problem_images/n9798d5.png"
+    },
+    {
+        "problem_text": "Rétthyrningi er skipt í 4 minni rétthyrninga með tveimur strikum sem eru samsíða hliðum rétthyrningsins (sjá mynd).  Ummál þriggja þeirra eru gefin á myndinni.  Hvert er ummál fjórða rétthyrningsins?",
+        "choice_a": "2 cm",
+        "choice_b": "3 cm",
+        "choice_c": "4 cm",
+        "choice_d": "5 cm",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - forkeppni",
+        "image": "game/static/images/problem_images/n9798d7.png"
+    },
+    {
+        "problem_text": "Í upphafi er gefinn rétthyrndur þríhyrningur $ABC$ þannig að báðar skammhliðarnar hafi lengd 1.  Byrjum á að bæta við nýjum þríhyrningum með því að teikna utan á $ABC$ rétthyrndan þríhyrning þannig að langhlið $ABC$ sé önnur skammhlið þess nýja, en hin skammhliðin hafi lengd 1.  Svona höldum við áfram að bæta við rétthyrndum þríhyrningum, þannig að í hvert skipti verði langhlið þess næsta á undan önnur skammhlið þess sem við erum að bæta við og hin skammhliðin hafi lengdina 1.  Hvert er flatarmál áttunda þríhyrningsins sem við bætum við?",
+        "choice_a": "$\\frac{3}{2}$",
+        "choice_b": "$\\sqrt{2}$",
+        "choice_c": "$\\frac{\\sqrt{7}}{2}$",
+        "choice_d": "$2\\sqrt{2}$",
+        "correct_answer": "A",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - forkeppni",
+        "image": "game/static/images/problem_images/n9798d15.png"
+    },
+    {
+        "problem_text": "Hlutfallið, $v$, á milli lengdar og breiddar A4 blaðs er þannig að það er jafnt hlutfallinu á milli lengdar og breiddar A5 blaðs.  A5 blað fæst með því að skipta A4 blaði í tvennt eftir línu sem liggur milli miðpunkta langhliðanna.  Reiknið $v$.",
+        "choice_a": "0,5",
+        "choice_b": "2",
+        "choice_c": "$\\sqrt2$",
+        "choice_d": "16",
+        "correct_answer": "C",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+      },
+      {
+        "problem_text": "Flytja þarf 150 þvottavélar á milli staða.  Til flutninganna er hægt að fá tvennskonar bíla: Stóra bíla sem geta flutt 18 þvottavélar í einu og hver ferð kostar 3.500 kr. og litla bíla sem geta flutt 13 þvottavélar og hver ferð kostar 2.500 kr.  Hvað á að panta marga bíla af hvorri gerð til að flutningarnir kosti sem minnst?",
+        "choice_a": "4 stóra bíla og 6 litla",
+        "choice_b": "2 stóra bíla og 10 litla",
+        "choice_c": "Einungis stóra",
+        "choice_d": "Einungis litla",
+        "correct_answer": "A",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - úrslitakeppni"
+      },
+      {
+        "problem_text": "Punktur $P$ er valinn innan í þríhyrningnum $ABC$.  Í gegnum $P$ eru dregnar línur samsíða hliðum þríhyrningsins.  Þá myndast þrír minni þríhyrningar, sem hafa flatarmál 4, 9 og 49.  Hvert er flatarmál stóra þríhyrningsins $ABC$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 144,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 6,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 1997-1998 - forkeppni",
+        "image": "game/static/images/problem_images/n9798d20.png"
+    }
+  ]

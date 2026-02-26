@@ -1,0 +1,213 @@
+[
+    {
+        "problem_text": "Aðgerðin $\\bigstar$ er skilgreind með jöfnunni $a\\bigstar b=a^2b-ab^2$.  Hvert er gildið á $2\\bigstar 7$?",
+        "choice_a": "$-140$",
+        "choice_b": "$-70$",
+        "choice_c": "$0$",
+        "choice_d": "$70$",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig"
+    },
+    {
+        "problem_text": "Aðgerðirnar $\\clubsuit$ og $\\spadesuit$ eru skilgreindar svona: $a\\clubsuit b=a^2-b^2$ og $a\\spadesuit b=4ab$.  Hvert er þá gildið á $5\\spadesuit(3\\clubsuit 2)$?",
+        "choice_a": "$-100$",
+        "choice_b": "$0$",
+        "choice_c": "$100$",
+        "choice_d": "$200$",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - efra stig"
+    },
+    {
+        "problem_text": "Tölurnar 1, 5, 6, 7, 13, 14, 17, 22 og 26 eru ritaðar í hringi sem standa í röð. Gunnar reiknar út meðaltal talnanna í fyrstu þremur hringjunum, meðaltal talnanna í miðjuhringjunum þremur og meðaltal talnanna í síðustu þremur hringjunum. Þessi þrjú meðaltöl reynast vera jöfn. Ef tölunum 13 og 17 er komið fyrir eins og sést á myndinni, hvaða tala á þá að vera í skyggða hringnum?",
+        "choice_a": "1",
+        "choice_b": "5",
+        "choice_c": "7",
+        "choice_d": "14",
+        "correct_answer": "C",
+        "problem_types": ["algebra"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - efra stig",
+        "image": "game/static/images/problem_images/n1718d8.png"
+    },
+    {
+        "problem_text": "Látum $M(n)$ og $S(n)$ tákna margfeldi og summu tölustafa heiltölunnar $n$.  Til dæmis er $M(23)=6$ og $S(23)=5$.  Hvaða tala er í einingarsæti tveggja stafa heiltölunnar $k$ ef $k=M(k)+S(k)$?",
+        "choice_a": "4",
+        "choice_b": "6",
+        "choice_c": "7",
+        "choice_d": "9",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - efra stig"
+    },
+    {
+        "problem_text": "Sívalningslaga gosdós er gerð úr ferningslaga málmplötu og tveimur hringskífum sem báðar hafa þvermálið $k$. Hvert er rúmmál dósarinnar?",
+        "choice_a": "$k^3\\pi$",
+        "choice_b": "$\\frac{k^3 \\pi}{2}$",
+        "choice_c": "$\\frac{k^3\\pi^2}{4}$",
+        "choice_d": "$k^3\\pi^2$",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - efra stig"
+    },
+    {
+        "problem_text": "Tommi skrifaði niður allar tölurnar frá og með 1 til og með 20 í belg og biðu og fékk þannig 31-stafs töluna 1234567891011121314151617181920. Síðan eyddi hann 24 af þessum 31 tölustaf þannig að talan sem eftir varð var eins stór og mögulegt var. Hvaða tala varð eftir?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 9781920,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig"
+    },
+    {
+        "problem_text": "Látum $\\frac{a}{b}$ vera fullstytt brot sem má einnig rita sem summu $\\frac{2}{n}+\\frac{1}{n^2}$ þar sem $n$ er jákvæð heiltala.  Finnið brotið þegar gefið er að $a+b=1024$.",
+        "choice_a": "$\\frac{1}{1023}$",
+        "choice_b": "$\\frac{63}{961}$",
+        "choice_c": "$\\frac{123}{901}$",
+        "choice_d": "$\\frac{117}{907}$",
+        "correct_answer": "B",
+        "problem_types": ["algebra"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig"
+    },
+    {
+        "problem_text": "Hver er fjöldi heiltalna $n$ þannig að $\\frac{1}{7}\\le\\frac{6}{n}\\le\\frac{1}{4}$.",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 19,
+        "numeric_tolerance": 0,
+        "problem_types": ["fléttufræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig"
+    },
+    {
+        "problem_text": "Talnarunan 2,3,6,8,8,... er útbúin með því að skrá fyrst 2 og 3 og síðan einingartölu margfeldis talnanna tveggja á undan.  Hver er tala númer 2017 í þessari talnarunu?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 2,
+        "numeric_tolerance": 0,
+        "problem_types": ["talnafræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig"
+    },
+    {
+        "problem_text": "Fimm línur, sem allar liggja samsíða einni hlið þríhyrnings, skipta hinum tveimur hliðum þríhyrningsins upp í 6 jafnstór bil og þríhyrningnum sjálfum í 6 svæði.  Hvert er flatarmál þríhyrningsins ef flatarmál stærsta svæðisins er 33 flatareiningar?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 108,
+        "numeric_tolerance": 0,
+        "problem_types": ["rúmfræði"],
+        "level": 5,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig"
+    },
+    {
+        "problem_text": "Hver er útkoman þegar $1 - (2 - 3) - (4 - 5) - (6 - 7) - (8 - 9)$ er reiknað?",
+        "choice_a": "-5",
+        "choice_b": "-1",
+        "choice_c": "1",
+        "choice_d": "5",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 1,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig"
+    },
+    {
+        "problem_text": "Á myndinni er $TU$ samsíða $PS$ og punktarnir $Q$ og $R$ liggja á $PS$. Stærðir hornanna $\\angle PQT$, $\\angle RQT$ og $\\angle TUR$ eru sýndar myndinni. Hver er stærð hornsins $\\angle URS$?",
+        "choice_a": "125°",
+        "choice_b": "130°",
+        "choice_c": "135°",
+        "choice_d": "140°",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig",
+        "image": "game/static/images/problem_images/n1718d2.png"
+    },
+    {
+        "problem_text": "Sigrún límdi saman kubba sem allir voru jafnstórir líkt og sést hér að neðan. Hversu marga kubba notaði Sigrún?",
+        "choice_a": "6",
+        "choice_b": "9",
+        "choice_c": "10",
+        "choice_d": "11",
+        "correct_answer": "B",
+        "problem_types": ["fléttufræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig",
+        "image": "game/static/images/problem_images/n1718d3.png"
+    },
+    {
+        "problem_text": "Á myndinni sést lítill ferningur innan í stærri ferningi. Flatarmál skyggða svæðisins og flatarmál óskyggða svæðisins eru bæði 18 cm². Hver er hliðarlengd stærri ferningsins?",
+        "choice_a": "3 cm",
+        "choice_b": "4 cm",
+        "choice_c": "6 cm",
+        "choice_d": "9 cm",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig",
+        "image": "game/static/images/problem_images/n1718d4.png"
+    },
+    {
+        "problem_text": "Bolli Bjalla byrjaði á hægri endanum og er búinn að tritla $\\frac{3}{4}$ af stönginni. Mæja maur byrjaði á vinstri endanum og er búin að tritla $\\frac{2}{3}$ af stönginni. Hversu stór hluti stangarinnar skilur á milli Bolla og Mæju?",
+        "choice_a": "$\\frac{3}{8}$",
+        "choice_b": "$\\frac{5}{7}$",
+        "choice_c": "$\\frac{1}{2}$",
+        "choice_d": "$\\frac{5}{12}$",
+        "correct_answer": "D",
+        "problem_types": ["talnafræði"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig",
+        "image": "game/static/images/problem_images/n1718d5.png"
+    },
+    {
+        "problem_text": "Í samlagningunni tákna $x$, $y$ og $z$ tölustafi. Hvert er gildið á $x + y + z$?",
+        "answer_type": "numeric",
+        "correct_answer_numeric": 15,
+        "numeric_tolerance": 0,
+        "problem_types": ["algebra"],
+        "level": 2,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig",
+        "image": "game/static/images/problem_images/n1718d6.png"
+    },
+    {
+        "problem_text": "Hringur hefur miðju $O$. Strengurinn $AB$ er miðþverill geislans $OC$. Hvert er flatarmál hringsins, í cm², ef $AB = 8\\sqrt{3}$ cm?",
+        "choice_a": "$36\\pi$",
+        "choice_b": "$48\\pi$",
+        "choice_c": "$64\\pi$",
+        "choice_d": "$96\\pi$",
+        "choice_e": "$112\\pi$",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018 - neðra stig",
+        "image": "game/static/images/problem_images/n1718d7.png"
+    },
+    {
+        "problem_text": "Brotalínustrikið er 20 cm að lengd. Þríhyrningarnir eru allir jafnhliða. Hver er lengd svarta ferilsins?",
+        "choice_a": "25 cm",
+        "choice_b": "30 cm",
+        "choice_c": "35 cm",
+        "choice_d": "40 cm",
+        "choice_e": "45 cm",
+        "correct_answer": "D",
+        "problem_types": ["rúmfræði"],
+        "level": 3,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018",
+        "image": "game/static/images/problem_images/n1718d13.png"
+    },
+    {
+        "problem_text": "Í trapisunni er $AB = 40$ og $CD = 16$. $DP$ skiptir trapisunni í tvo hluta með sama flatarmál. Hver er lengd $AP$?",
+        "choice_a": "16",
+        "choice_b": "20",
+        "choice_c": "28",
+        "choice_d": "32",
+        "choice_e": "36",
+        "correct_answer": "C",
+        "problem_types": ["rúmfræði"],
+        "level": 4,
+        "source_info": "Stærðfræðikeppni framhaldsskólanema 2017-2018",
+        "image": "game/static/images/problem_images/n1718d11.png"
+    }
+]
